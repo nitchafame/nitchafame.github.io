@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    paddin: 0;
+}
+
+html {
+    background: white;
+}
+
+@font-face {
+    font-family: 'acidmedium';
+    src: url('type/acid_medium-webfont.eot');
+    src: url('type/acid_medium-webfont.eot?#iefix') format('embedded-opentype'), url('type/acid_medium-webfont.woff') format('woff'), url('type/acid_medium-webfont.ttf') format('truetype'), url('type/acid_medium-webfont.svg#acidmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'acidbold';
+    src: url('type/acid_bold-webfont.eot');
+    src: url('type/acid_bold-webfont.eot?#iefix') format('embedded-opentype'), url('type/acid_bold-webfont.woff') format('woff'), url('type/acid_bold-webfont.ttf') format('truetype'), url('type/acid_bold-webfont.svg#acidbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'aciditalic';
+    src: url('type/acid_italic-webfont.eot');
+    src: url('type/acid_italic-webfont.eot?#iefix') format('embedded-opentype'), url('type/acid_italic-webfont.woff') format('woff'), url('type/acid_italic-webfont.ttf') format('truetype'), url('type/acid_italic-webfont.svg#aciditalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font: 14px;
+    font-family: 'acidmedium', Helvetica, Arial, sans-serif;
+    color:#979797;
+}
+
+#logo img{
+    width:100px;
+}
+
+h1 {
+    font: 16px;
+    font-family: 'acidbold';
+    text-transform: uppercase;
+}
+
+header p {
+    font: 9px;
+    font-family: 'acidbold';
+    text-transform: uppercase;
+}
+
