@@ -1,0 +1,146 @@
+.html
+{
+	background-color: #E2E2E2;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 414.8741758241757px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: #E2E2E2;
+	padding-top: 23px;
+	padding-bottom: 62.12582417582428px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u281
+{
+	z-index: 15;
+	width: 122px;
+	margin-left: 419px;
+}
+
+#pu152-4
+{
+	width: 0.01px;
+	margin-left: 396px;
+	position: relative;
+}
+
+#u152-4
+{
+	z-index: 2;
+	margin-right: -10000px;
+	margin-top: 3px;
+}
+
+#u153-4
+{
+	z-index: 6;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 45px;
+}
+
+#u154-4
+{
+	z-index: 10;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 90px;
+}
+
+#u196
+{
+	z-index: 14;
+	width: 152px;
+	height: 20px;
+	margin-right: -10000px;
+	left: 332px;
+}
+
+#pu1957-12
+{
+	width: 0.01px;
+	margin-top: 17px;
+	position: relative;
+}
+
+#u1957-12
+{
+	z-index: 17;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2080
+{
+	z-index: 29;
+	width: 640px;
+	min-height: 364px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 320px;
+}
+
+#pu2082
+{
+	width: 0.01px;
+	margin-left: 320px;
+	margin-top: 15px;
+	position: relative;
+}
+
+#u2082
+{
+	z-index: 30;
+	width: 320px;
+	height: 160px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	background: #66C89F url("../images/draw_saliva-cry-u2082-fr.jpg") no-repeat center top;
+	background-size: cover !important;
+}
+
+#u2082:hover
+{
+	margin: 0px -10000px 0px 0px;
+	background: #D1EEE2 url("../images/draw_saliva-cry-u2082-r-fr.png") no-repeat center top;
+	background-color: rgba(102, 200, 159, 0.3);
+	background-size: cover !important;
+}
+
+#u2083
+{
+	z-index: 31;
+	width: 320px;
+	height: 160px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 320px;
+	background: #66C89F url("../images/draw-u2083-fr.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u2083:hover
+{
+	margin: 0px -10000px 0px 0px;
+	background: #D1EEE2 url("../images/draw-u2083-r-fr.png") no-repeat center center;
+	background-color: rgba(102, 200, 159, 0.3);
+	background-size: cover !important;
+}
+
