@@ -1,0 +1,100 @@
+.html
+{
+	background-color: #E2E2E2;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 499.64917582417524px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: #E2E2E2;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: 23px;
+	margin-bottom: 62px;
+}
+
+#u281
+{
+	z-index: 15;
+	width: 122px;
+	margin-left: 419px;
+}
+
+#pu152-4
+{
+	width: 0.01px;
+	margin-left: 400px;
+	margin-top: 4px;
+	position: relative;
+}
+
+#u152-4
+{
+	z-index: 2;
+	width: 45px;
+	min-height: 11px;
+	padding: 1px;
+	margin-right: -10000px;
+}
+
+#u153-4
+{
+	z-index: 6;
+	width: 37px;
+	min-height: 11px;
+	padding: 1px;
+	margin-right: -10000px;
+	left: 55px;
+}
+
+#u154-4
+{
+	z-index: 10;
+	width: 57px;
+	min-height: 11px;
+	padding: 1px;
+	margin-right: -10000px;
+	left: 101px;
+}
+
+#u152-4:hover,#u153-4:hover,#u154-4:hover
+{
+	padding-top: 1px;
+	padding-bottom: 1px;
+	min-height: 11px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u196
+{
+	z-index: 14;
+	width: 152px;
+	height: 20px;
+	margin-left: 728px;
+	margin-top: 25px;
+}
+
+#u3552
+{
+	z-index: 17;
+	width: 1160px;
+	height: 213px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	left: -100px;
+	margin-top: 25px;
+	background: #4D2639 url("../images/famec%20copy-u3552-fr.jpg") no-repeat left center;
+	background-size: contain !important;
+}
+
