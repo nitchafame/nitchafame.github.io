@@ -7,7 +7,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 499.64917582417524px;
+	min-height: 499.72417582417575px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
@@ -47,6 +47,14 @@
 	margin-right: -10000px;
 }
 
+#u152-4:hover
+{
+	padding-top: 1px;
+	padding-bottom: 1px;
+	min-height: 11px;
+	margin: 0px -10000px 0px 0px;
+}
+
 #u153-4
 {
 	z-index: 6;
@@ -55,6 +63,14 @@
 	padding: 1px;
 	margin-right: -10000px;
 	left: 55px;
+}
+
+#u152-4:active,#u153-4:hover
+{
+	padding-top: 1px;
+	padding-bottom: 1px;
+	min-height: 11px;
+	margin: 0px -10000px 0px 0px;
 }
 
 #u154-4
@@ -67,7 +83,15 @@
 	left: 101px;
 }
 
-#u152-4:hover,#u153-4:hover,#u154-4:hover
+#u153-4:active,#u154-4:hover
+{
+	padding-top: 1px;
+	padding-bottom: 1px;
+	min-height: 11px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u154-4:active
 {
 	padding-top: 1px;
 	padding-bottom: 1px;
@@ -84,17 +108,153 @@
 	margin-top: 25px;
 }
 
-#u3552
+#pu5304
+{
+	width: 0.01px;
+	left: -100px;
+	margin-top: 25px;
+	position: relative;
+}
+
+#u5304
 {
 	z-index: 17;
 	width: 1160px;
-	height: 213px;
-	border-style: none;
-	border-color: transparent;
 	position: relative;
-	left: -100px;
-	margin-top: 25px;
-	background: #4D2639 url("../images/famec%20copy-u3552-fr.jpg") no-repeat left center;
-	background-size: contain !important;
+	margin-right: -10000px;
+}
+
+#u5304_clip
+{
+	overflow: hidden;
+	width: 1160px;
+	height: 511px;
+}
+
+#u5304_img
+{
+	margin-top: -171px;
+	margin-bottom: -478px;
+}
+
+#u5401
+{
+	z-index: 19;
+	width: 318px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 103px;
+	left: 100px;
+}
+
+#u5401:hover
+{
+	background-color: transparent;
+	margin: 103px -10000px 0px 0px;
+}
+
+#u5447-4
+{
+	z-index: 21;
+	width: 560px;
+	font-size: 18px;
+	line-height: 27px;
+	color: #FFFFFF;
+	font-family: quicksand, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 150px;
+	left: 500px;
+}
+
+#u6326
+{
+	z-index: 25;
+	width: 200px;
+	margin-left: 380px;
+	margin-top: 62px;
+	position: relative;
+}
+
+#u6333
+{
+	z-index: 26;
+	width: 25px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u6335
+{
+	z-index: 28;
+	width: 24px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 35px;
+}
+
+#u6327
+{
+	z-index: 30;
+	width: 24px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 70px;
+}
+
+#u6329
+{
+	z-index: 32;
+	width: 24px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 106px;
+}
+
+#u6337
+{
+	z-index: 34;
+	width: 24px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 141px;
+}
+
+#u6333:hover,#u6335:hover,#u6327:hover,#u6329:hover,#u6337:hover
+{
+	background-color: transparent;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u6331
+{
+	z-index: 36;
+	width: 24px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 176px;
+}
+
+#u6331:hover
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 0.75);
+	margin: 0px -10000px 0px 0px;
+	-pie-background: rgba(255, 255, 255, 0.75);
+}
+
+#u6333_img:hover,#u6335_img:hover,#u6327_img:hover,#u6329_img:hover,#u6337_img:hover,#u6331_img:hover
+{
+	opacity: 0.75;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
+	filter: alpha(opacity=75);
 }
 
