@@ -1525,32 +1525,38 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://nitchafa.me/images/favicon.ico</loc>
+    <lastmod>2014-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://nitchafa.me/index.html</loc>
-    <lastmod>2014-01-10</lastmod>
+    <lastmod>2014-01-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://nitchafa.me/revoke.html</loc>
-    <lastmod>2014-01-10</lastmod>
+    <lastmod>2014-01-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://nitchafa.me/25hours.html</loc>
-    <lastmod>2014-01-10</lastmod>
+    <lastmod>2014-01-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://nitchafa.me/musketeers.html</loc>
-    <lastmod>2014-01-10</lastmod>
+    <lastmod>2014-01-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://nitchafa.me/scrubbmedley.html</loc>
-    <lastmod>2014-01-10</lastmod>
+    <lastmod>2014-01-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1574,13 +1580,13 @@
   </url>
   <url>
     <loc>http://nitchafa.me/comingsoon.html</loc>
-    <lastmod>2014-01-08</lastmod>
+    <lastmod>2014-01-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://nitchafa.me/reel.html</loc>
-    <lastmod>2014-01-10</lastmod>
+    <lastmod>2014-01-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1604,7 +1610,7 @@
   </url>
   <url>
     <loc>http://nitchafa.me/pijika.html</loc>
-    <lastmod>2014-01-10</lastmod>
+    <lastmod>2014-01-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

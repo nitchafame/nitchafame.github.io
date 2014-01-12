@@ -426,8 +426,8 @@
 	min-height: 20px;
 	padding: 10px;
 	text-align: right;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -441,8 +441,8 @@
 	min-height: 20px;
 	padding: 10px;
 	text-align: right;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -456,8 +456,8 @@
 	min-height: 20px;
 	padding: 10px;
 	text-align: right;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -471,8 +471,8 @@
 	min-height: 20px;
 	padding: 10px;
 	text-align: right;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -486,8 +486,8 @@
 	min-height: 20px;
 	padding: 10px;
 	text-align: right;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -501,9 +501,9 @@
 	min-height: 405px;
 	padding: 10px;
 	text-align: center;
+	color: #999999;
 	font-size: 30px;
 	line-height: 42px;
-	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
 
@@ -519,9 +519,9 @@
 	min-height: 403px;
 	padding: 10px;
 	text-align: center;
+	color: #999999;
 	font-size: 30px;
 	line-height: 42px;
-	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 560px;
 }
@@ -712,8 +712,8 @@
 	min-height: 20px;
 	padding: 10px;
 	text-align: left;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -727,8 +727,8 @@
 	min-height: 20px;
 	padding: 10px;
 	text-align: left;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -742,9 +742,9 @@
 	min-height: 405px;
 	padding: 10px;
 	text-align: center;
+	color: #999999;
 	font-size: 30px;
 	line-height: 42px;
-	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 320px;
 }
@@ -761,9 +761,9 @@
 	min-height: 403px;
 	padding: 10px;
 	text-align: center;
+	color: #999999;
 	font-size: 30px;
 	line-height: 42px;
-	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 880px;
 }
