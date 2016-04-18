@@ -1,7 +1,7 @@
 .version.redriding /* version checker */
 {
-	color: #000014;
-	background-color: #2FB4EC;
+	color: #0000F7;
+	background-color: #AC94EC;
 }
 
 .html
@@ -204,8 +204,8 @@
 	width: 480px;
 	min-height: 224px;
 	background-color: transparent;
-	line-height: 24px;
 	font-size: 16px;
+	line-height: 24px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-top: 19px;
@@ -299,7 +299,8 @@
 #u6216_img,#u6231_img
 {
 	padding-left: 91px;
-	padding-right: 91px;
+	padding-right: 92px;
+	padding-bottom: 323px;
 }
 
 #u6244
@@ -411,6 +412,7 @@
 {
 	padding-left: 13px;
 	padding-right: 13px;
+	padding-bottom: 24px;
 }
 
 #u6247
@@ -456,8 +458,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -474,8 +476,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -492,8 +494,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -510,8 +512,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -528,8 +530,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -546,9 +548,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 42px;
-	font-size: 30px;
 	color: #999999;
+	font-size: 30px;
+	line-height: 42px;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 4px;
@@ -569,9 +571,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 42px;
-	font-size: 30px;
 	color: #999999;
+	font-size: 30px;
+	line-height: 42px;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 881px;
@@ -597,8 +599,8 @@
 	z-index: 101;
 	width: 200px;
 	background-color: transparent;
-	line-height: 22px;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	top: -649px;

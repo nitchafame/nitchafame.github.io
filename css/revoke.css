@@ -1,7 +1,7 @@
 .version.revoke /* version checker */
 {
-	color: #000015;
-	background-color: #56BC37;
+	color: #00001A;
+	background-color: #F04BDF;
 }
 
 .html
@@ -221,8 +221,8 @@
 	width: 480px;
 	min-height: 260px;
 	background-color: transparent;
-	line-height: 24px;
 	font-size: 16px;
+	line-height: 24px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -246,8 +246,8 @@
 	z-index: 147;
 	width: 200px;
 	background-color: transparent;
-	line-height: 22px;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-top: 40px;
@@ -554,8 +554,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -572,8 +572,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -590,8 +590,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -608,8 +608,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -626,8 +626,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -644,8 +644,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -662,8 +662,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -680,8 +680,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -698,9 +698,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 42px;
-	font-size: 30px;
 	color: #999999;
+	font-size: 30px;
+	line-height: 42px;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 4px;
@@ -720,9 +720,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 42px;
-	font-size: 30px;
 	color: #999999;
+	font-size: 30px;
+	line-height: 42px;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 561px;

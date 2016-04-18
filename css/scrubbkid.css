@@ -1,7 +1,7 @@
 .version.scrubbkid /* version checker */
 {
-	color: #00000F;
-	background-color: #646F85;
+	color: #0000FD;
+	background-color: #7616F8;
 }
 
 .html
@@ -275,8 +275,8 @@
 	width: 480px;
 	min-height: 269px;
 	background-color: transparent;
-	line-height: 24px;
 	font-size: 16px;
+	line-height: 24px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -615,8 +615,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -633,8 +633,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -651,8 +651,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -669,8 +669,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -687,8 +687,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -705,8 +705,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -723,8 +723,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -741,8 +741,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -759,9 +759,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 42px;
-	font-size: 30px;
 	color: #999999;
+	font-size: 30px;
+	line-height: 42px;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 4px;
@@ -781,9 +781,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 42px;
-	font-size: 30px;
 	color: #999999;
+	font-size: 30px;
+	line-height: 42px;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 561px;

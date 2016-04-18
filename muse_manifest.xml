@@ -1,63 +1,67 @@
-<manifest alg="2" build="10" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1419642026956">
+<manifest alg="2" build="10" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1419820976189">
   <folder name="css">
     <file name="site_global.css" crc="4235581"/>
-    <file name="master_a-master.css" crc="511163091" ref="musketeers:revoke:lonelylego:lucid:grienday:about:scrubbkid:redriding:60miles:restless:index:reel:scrubbmedley:1081009:electricneonlamp:teefox:labs:celanimation:sudked:25hours:melody:pijika"/>
-    <file name="comingsoon.css" crc="516702501" ref="comingsoon"/>
-    <file name="musketeers.css" crc="3990815588" ref="musketeers"/>
-    <file name="iefonts_musketeers.css" crc="4269935492" ref="musketeers"/>
-    <file name="revoke.css" crc="358005815" ref="revoke"/>
-    <file name="iefonts_revoke.css" crc="511138513" ref="revoke"/>
-    <file name="lonelylego.css" crc="3770579255" ref="lonelylego"/>
-    <file name="iefonts_lonelylego.css" crc="4029490615" ref="lonelylego"/>
-    <file name="lucid.css" crc="239834397" ref="lucid"/>
-    <file name="iefonts_lucid.css" crc="3811852709" ref="lucid"/>
-    <file name="grienday.css" crc="495794666" ref="grienday"/>
-    <file name="iefonts_grienday.css" crc="3955634686" ref="grienday"/>
-    <file name="about.css" crc="3799603605" ref="about"/>
-    <file name="iefonts_about.css" crc="3950013773" ref="about"/>
-    <file name="scrubbkid.css" crc="258240389" ref="scrubbkid"/>
-    <file name="iefonts_scrubbkid.css" crc="450820768" ref="scrubbkid"/>
-    <file name="redriding.css" crc="338670828" ref="redriding"/>
-    <file name="iefonts_redriding.css" crc="388777726" ref="redriding"/>
-    <file name="60miles.css" crc="4003035894" ref="60miles"/>
-    <file name="iefonts_60miles.css" crc="3929101712" ref="60miles"/>
-    <file name="restless.css" crc="3894514661" ref="restless"/>
-    <file name="iefonts_restless.css" crc="4200670229" ref="restless"/>
-    <file name="index.css" crc="386975238" ref="index"/>
-    <file name="iefonts_index.css" crc="3831132057" ref="index"/>
-    <file name="reel.css" crc="3761395274" ref="reel"/>
-    <file name="scrubbmedley.css" crc="494981064" ref="scrubbmedley"/>
-    <file name="iefonts_scrubbmedley.css" crc="4263875240" ref="scrubbmedley"/>
-    <file name="1081009.css" crc="4140931969" ref="1081009"/>
-    <file name="iefonts_1081009.css" crc="4140775431" ref="1081009"/>
-    <file name="electricneonlamp.css" crc="346106439" ref="electricneonlamp"/>
+    <file name="master_a-master.css" crc="511163091" ref="25hours:electricneonlamp:lonelylego:disturbingmuses:index:revoke:melody:1081009:sudked:scrubbkid:celanimation:about:grienday:redriding:scrubbmedley:lucid:reel:teefox:musketeers:labs:pijika:restless:60miles"/>
+    <file name="25hours.css" crc="3855389311" ref="25hours"/>
+    <file name="iefonts_25hours.css" crc="3764537549" ref="25hours"/>
+    <file name="electricneonlamp.css" crc="453467192" ref="electricneonlamp"/>
     <file name="iefonts_electricneonlamp.css" crc="4201448084" ref="electricneonlamp"/>
+    <file name="lonelylego.css" crc="52266330" ref="lonelylego"/>
+    <file name="iefonts_lonelylego.css" crc="4029490615" ref="lonelylego"/>
+    <file name="disturbingmuses.css" crc="90379746" ref="disturbingmuses"/>
+    <file name="iefonts_disturbingmuses.css" crc="153362369" ref="disturbingmuses"/>
+    <file name="index.css" crc="3763712014" ref="index"/>
+    <file name="iefonts_index.css" crc="500595637" ref="index"/>
+    <file name="revoke.css" crc="451955679" ref="revoke"/>
+    <file name="iefonts_revoke.css" crc="511138513" ref="revoke"/>
+    <file name="melody.css" crc="101841613" ref="melody"/>
+    <file name="iefonts_melody.css" crc="3922769443" ref="melody"/>
+    <file name="1081009.css" crc="487465870" ref="1081009"/>
+    <file name="iefonts_1081009.css" crc="4140775431" ref="1081009"/>
+    <file name="sudked.css" crc="319145987" ref="sudked"/>
+    <file name="iefonts_sudked.css" crc="3970862618" ref="sudked"/>
+    <file name="scrubbkid.css" crc="4252374776" ref="scrubbkid"/>
+    <file name="iefonts_scrubbkid.css" crc="450820768" ref="scrubbkid"/>
+    <file name="celanimation.css" crc="242293045" ref="celanimation"/>
+    <file name="about.css" crc="193172066" ref="about"/>
+    <file name="iefonts_about.css" crc="3950013773" ref="about"/>
+    <file name="grienday.css" crc="304828309" ref="grienday"/>
+    <file name="iefonts_grienday.css" crc="3955634686" ref="grienday"/>
+    <file name="redriding.css" crc="4155282668" ref="redriding"/>
+    <file name="iefonts_redriding.css" crc="388777726" ref="redriding"/>
+    <file name="scrubbmedley.css" crc="4275774830" ref="scrubbmedley"/>
+    <file name="iefonts_scrubbmedley.css" crc="4263875240" ref="scrubbmedley"/>
+    <file name="lucid.css" crc="155464133" ref="lucid"/>
+    <file name="iefonts_lucid.css" crc="4028394870" ref="lucid"/>
+    <file name="reel.css" crc="3761395274" ref="reel"/>
     <file name="teefox.css" crc="477807044" ref="teefox"/>
     <file name="iefonts_teefox.css" crc="3802948851" ref="teefox"/>
-    <file name="labs.css" crc="3959789814" ref="labs"/>
-    <file name="celanimation.css" crc="4238866062" ref="celanimation"/>
-    <file name="sudked.css" crc="3922370146" ref="sudked"/>
-    <file name="iefonts_sudked.css" crc="3970862618" ref="sudked"/>
-    <file name="25hours.css" crc="133351432" ref="25hours"/>
-    <file name="iefonts_25hours.css" crc="3764537549" ref="25hours"/>
-    <file name="melody.css" crc="4238866062" ref="melody"/>
-    <file name="pijika.css" crc="504825995" ref="pijika"/>
+    <file name="musketeers.css" crc="374689416" ref="musketeers"/>
+    <file name="iefonts_musketeers.css" crc="4269935492" ref="musketeers"/>
+    <file name="labs.css" crc="171511301" ref="labs"/>
+    <file name="iefonts_labs.css" crc="347158776" ref="labs"/>
+    <file name="comingsoon.css" crc="516702501" ref="comingsoon"/>
+    <file name="pijika.css" crc="307021845" ref="pijika"/>
     <file name="iefonts_pijika.css" crc="4061991299" ref="pijika"/>
+    <file name="restless.css" crc="404361252" ref="restless"/>
+    <file name="iefonts_restless.css" crc="4200670229" ref="restless"/>
+    <file name="60miles.css" crc="4102412036" ref="60miles"/>
+    <file name="iefonts_60miles.css" crc="3929101712" ref="60miles"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:comingsoon:reel:about:1081009:60miles:pijika:teefox:redriding:sudked:grienday:electricneonlamp:labs:lucid:celanimation:melody"/>
-    <file name="museutils.js" crc="3777594392" ref="index:revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:comingsoon:reel:about:1081009:60miles:pijika:teefox:redriding:sudked:grienday:electricneonlamp:labs:lucid:celanimation:melody"/>
+    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:comingsoon:reel:about:1081009:60miles:pijika:teefox:redriding:sudked:grienday:electricneonlamp:labs:lucid:celanimation:melody:disturbingmuses"/>
+    <file name="museutils.js" crc="3777594392" ref="index:revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:comingsoon:reel:about:1081009:60miles:pijika:teefox:redriding:sudked:grienday:electricneonlamp:labs:lucid:celanimation:melody:disturbingmuses"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4259541792" ref="index:scrubbkid:lonelylego:restless:60miles:teefox:sudked:labs"/>
     <file name="pie.js" crc="3827607177" ref="index:lonelylego:restless:labs"/>
     <file name="jquery.watch.js" crc="4144919381" ref="index"/>
-    <file name="webpro.js" crc="474087315" ref="revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:1081009:60miles:pijika:redriding:sudked:grienday:electricneonlamp:lucid"/>
-    <file name="musewpslideshow.js" crc="274584885" ref="revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:1081009:60miles:pijika:redriding:sudked:grienday:electricneonlamp:lucid"/>
-    <file name="jquery.museoverlay.js" crc="170414611" ref="revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:1081009:60miles:pijika:redriding:sudked:grienday:electricneonlamp:lucid"/>
-    <file name="touchswipe.js" crc="100683906" ref="revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:1081009:60miles:pijika:redriding:sudked:grienday:electricneonlamp:lucid"/>
+    <file name="webpro.js" crc="474087315" ref="revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:1081009:60miles:pijika:redriding:sudked:grienday:electricneonlamp:lucid:melody:disturbingmuses"/>
+    <file name="musewpslideshow.js" crc="274584885" ref="revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:1081009:60miles:pijika:redriding:sudked:grienday:electricneonlamp:lucid:melody:disturbingmuses"/>
+    <file name="jquery.museoverlay.js" crc="170414611" ref="revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:1081009:60miles:pijika:redriding:sudked:grienday:electricneonlamp:lucid:melody:disturbingmuses"/>
+    <file name="touchswipe.js" crc="100683906" ref="revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:1081009:60miles:pijika:redriding:sudked:grienday:electricneonlamp:lucid:melody:disturbingmuses"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="3993744308" ref="index"/>
-    <file name="fame_ident2013.gif" crc="216467222" ref="index:revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:comingsoon:reel:about:1081009:60miles:pijika:teefox:redriding:sudked:grienday:electricneonlamp:labs:lucid:celanimation:melody"/>
+    <file name="fame_ident2013.gif" crc="216467222" ref="index:revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:comingsoon:reel:about:1081009:60miles:pijika:teefox:redriding:sudked:grienday:electricneonlamp:labs:lucid:celanimation:melody:disturbingmuses"/>
     <file name="new1mail.png" crc="4148908067" ref="index:reel:about:labs"/>
     <file name="new1mail-u7586-r-fr.png" crc="379384895" ref="index:reel:about:labs"/>
     <file name="1mail.png" crc="4148908067" ref="index:reel:labs"/>
@@ -77,14 +81,16 @@
     <file name="new6twitter-u7596-r-fr.png" crc="285057687" ref="index:reel:about:labs"/>
     <file name="6twitter.png" crc="4020293093" ref="index:reel:labs"/>
     <file name="new7git.png" crc="3772234055" ref="index:reel:labs"/>
+    <file name="thumbnaildisturbing.jpg" crc="4196147252" ref="index"/>
+    <file name="thumbnailsleeptalkinstallationsm.jpg" crc="50344905" ref="index"/>
     <file name="kid.jpg" crc="3762105098" ref="index"/>
-    <file name="thumbnailsleeptalkinstallation.jpg" crc="128636539" ref="index"/>
+    <file name="thumbnailmelody.jpg" crc="4204108686" ref="index"/>
     <file name="reel_button_web.png" crc="3773530708" ref="index"/>
-    <file name="thumb_medleyscrubb.gif" crc="313511835" ref="index:labs"/>
-    <file name="logocrop.jpg" crc="3765896775" ref="index:sudked:labs"/>
+    <file name="thumb_medleyscrubb.gif" crc="313511835" ref="index"/>
+    <file name="logocrop.jpg" crc="3765896775" ref="index:sudked"/>
     <file name="musketeers_4-u7559-fr.jpg" crc="127824677" ref="index"/>
     <file name="thumbnail_revork.jpg" crc="3803162589" ref="index"/>
-    <file name="thumbnail_lonelylego.png" crc="3900467009" ref="index:labs"/>
+    <file name="thumbnail_lonelylego.png" crc="3900467009" ref="index"/>
     <file name="25_1-u7557-fr.jpg" crc="217004186" ref="index"/>
     <file name="enl_logo_mvnightmare_crop.jpg" crc="4222812033" ref="index"/>
     <file name="thunbnail_pijika-u7566-fr.jpg" crc="143626404" ref="index"/>
@@ -98,7 +104,7 @@
     <file name="selfportrait_2013.png" crc="4065601255" ref="index"/>
     <file name="tee2012_1fox_goodday copy-u7562-fr.jpg" crc="3888867983" ref="index"/>
     <file name="1.jpg" crc="10412352" ref="revoke"/>
-    <file name="blank.gif" crc="4208392903" ref="revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:1081009:60miles:pijika:redriding:sudked:grienday:electricneonlamp:lucid"/>
+    <file name="blank.gif" crc="4208392903" ref="revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:1081009:60miles:pijika:redriding:sudked:grienday:electricneonlamp:lucid:melody:disturbingmuses"/>
     <file name="revoke_3.jpg" crc="260965869" ref="revoke"/>
     <file name="revoke_2_new.jpg" crc="4275431878" ref="revoke"/>
     <file name="revoke_new.jpg" crc="361113557" ref="revoke"/>
@@ -114,24 +120,24 @@
     <file name="revoke_8-crop-u6578.jpg" crc="4272970749" ref="revoke"/>
     <file name="revoke_6-crop-u6593.jpg" crc="208939054" ref="revoke"/>
     <file name="screenshot 2013-12-15 024038-crop-u6606.jpg" crc="3834049684" ref="revoke"/>
-    <file name="loading.gif" crc="3815509949" ref="revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:1081009:60miles:pijika:redriding:sudked:grienday:electricneonlamp:lucid"/>
+    <file name="loading.gif" crc="3815509949" ref="revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:1081009:60miles:pijika:redriding:sudked:grienday:electricneonlamp:lucid:melody:disturbingmuses"/>
     <file name="25_1562x377.jpg" crc="3772687379" ref="25hours"/>
     <file name="25_3.jpg" crc="4061099745" ref="25hours"/>
-    <file name="25_4.jpg" crc="46418462" ref="25hours"/>
-    <file name="25_5.jpg" crc="3987783440" ref="25hours"/>
-    <file name="25_6.jpg" crc="45529872" ref="25hours"/>
+    <file name="0keyvis.png" crc="4112532745" ref="25hours:disturbingmuses"/>
+    <file name="3.jpg" crc="4162613373" ref="25hours:disturbingmuses"/>
+    <file name="4.jpg" crc="4066383971" ref="25hours:disturbingmuses"/>
     <file name="25_3-crop-u2917.jpg" crc="4288041973" ref="25hours"/>
-    <file name="25_4-crop-u2913.jpg" crc="350687632" ref="25hours"/>
-    <file name="25_5-crop-u2915.jpg" crc="333945525" ref="25hours"/>
-    <file name="25_6-crop-u2923.jpg" crc="71786024" ref="25hours"/>
+    <file name="0keyvis-crop-u2913.png" crc="119283374" ref="25hours"/>
+    <file name="3-crop-u2915.jpg" crc="93487764" ref="25hours"/>
+    <file name="4-crop-u2923.jpg" crc="3899123891" ref="25hours"/>
     <file name="25_instument_design.jpg" crc="290851" ref="25hours"/>
-    <file name="3-crop-u1369.jpg" crc="4144407559" ref="25hours"/>
-    <file name="4.jpg" crc="4196784381" ref="25hours"/>
-    <file name="6-crop-u1459.jpg" crc="229129477" ref="25hours"/>
+    <file name="3-crop-u1369.jpg" crc="4049082163" ref="25hours"/>
+    <file name="42.jpg" crc="467831755" ref="25hours"/>
+    <file name="6-crop-u1459.jpg" crc="3936545869" ref="25hours"/>
     <file name="25_instument_design64x45.jpg" crc="3801773686" ref="25hours"/>
-    <file name="3-crop-u1372.jpg" crc="279247711" ref="25hours"/>
-    <file name="460x45.jpg" crc="237129286" ref="25hours"/>
-    <file name="6-crop-u1462.jpg" crc="72899369" ref="25hours"/>
+    <file name="3-crop-u1372.jpg" crc="3804796864" ref="25hours"/>
+    <file name="460x38.jpg" crc="4030376457" ref="25hours"/>
+    <file name="6-crop-u1462.jpg" crc="433979687" ref="25hours"/>
     <file name="musketeers_4561x352.jpg" crc="191963214" ref="musketeers"/>
     <file name="musketeers_1.jpg" crc="70324397" ref="musketeers"/>
     <file name="musketeers_4musketeers_2.jpg" crc="4048552147" ref="musketeers"/>
@@ -310,13 +316,13 @@
     <file name="tee2012_2fox_summerday-u7135-fr.jpg" crc="4152339325" ref="teefox"/>
     <file name="12.jpg" crc="361413521" ref="redriding"/>
     <file name="2.jpg" crc="192200786" ref="redriding"/>
-    <file name="3.jpg" crc="381451965" ref="redriding"/>
-    <file name="42.jpg" crc="478455112" ref="redriding"/>
+    <file name="3458x287.jpg" crc="3899390111" ref="redriding"/>
+    <file name="4458x287.jpg" crc="520245196" ref="redriding"/>
     <file name="5-2.jpg" crc="4181219229" ref="redriding"/>
     <file name="160x42.jpg" crc="4235248968" ref="redriding"/>
     <file name="246x45.jpg" crc="512139580" ref="redriding"/>
-    <file name="334x45.jpg" crc="527377272" ref="redriding"/>
-    <file name="434x45.jpg" crc="472706165" ref="redriding"/>
+    <file name="334x22.jpg" crc="66377147" ref="redriding"/>
+    <file name="434x22.jpg" crc="3801473791" ref="redriding"/>
     <file name="5-260x45.jpg" crc="140509514" ref="redriding"/>
     <file name="sudked_6_af4b696c531b11e2ac5022000a9f18b3_7.jpg" crc="4007988510" ref="sudked"/>
     <file name="sudked_1.jpg" crc="85654501" ref="sudked"/>
@@ -339,21 +345,67 @@
     <file name="enl_logo_mvnightmare60x34.jpg" crc="426301647" ref="electricneonlamp"/>
     <file name="enl_logo1_web45x45.jpg" crc="24217008" ref="electricneonlamp"/>
     <file name="enl_logo2_web60x34.jpg" crc="4081150008" ref="electricneonlamp"/>
-    <file name="musketeers_4.jpg" crc="3837680854" ref="labs"/>
+    <file name="fbfthumbnail.jpg" crc="3883121617" ref="labs"/>
+    <file name="sleeptalkinstallation-2_sm-crop-u9009.jpg" crc="36063654" ref="lucid"/>
+    <file name="sleeptalkinstallation-5sm-crop-u9013.jpg" crc="4255335774" ref="lucid"/>
+    <file name="sleeptalkinstallation-6sm-crop-u9005.jpg" crc="3970447651" ref="lucid"/>
+    <file name="sleeptalkinstallation-8sm-crop-u9011.jpg" crc="110641332" ref="lucid"/>
+    <file name="sleeptalkinstallationcrop-crop-u9007.jpg" crc="4060640383" ref="lucid"/>
     <file name="sleeptalkinstallation-2_sm.jpg" crc="448424165" ref="lucid"/>
     <file name="sleeptalkinstallation-5sm.jpg" crc="471977137" ref="lucid"/>
-    <file name="sleeptalkinstallation.jpg" crc="3915176082" ref="lucid"/>
     <file name="sleeptalkinstallation-6sm.jpg" crc="403569584" ref="lucid"/>
     <file name="sleeptalkinstallation-8sm.jpg" crc="73309728" ref="lucid"/>
-    <file name="sleeptalkinstallation-2_sm68x45.jpg" crc="96242216" ref="lucid"/>
-    <file name="sleeptalkinstallation-5sm68x45.jpg" crc="384665262" ref="lucid"/>
-    <file name="sleeptalkinstallation-crop-u8089.jpg" crc="4035149478" ref="lucid"/>
-    <file name="sleeptalkinstallation-6sm68x45.jpg" crc="3820528642" ref="lucid"/>
-    <file name="sleeptalkinstallation-8sm-crop-u8119.jpg" crc="346295373" ref="lucid"/>
+    <file name="sleeptalkinstallationcrop.jpg" crc="4147617977" ref="lucid"/>
+    <file name="srb2.jpg" crc="3876003953" ref="lucid"/>
+    <file name="srb1.jpg" crc="304676698" ref="lucid"/>
+    <file name="srb3.jpg" crc="3835066404" ref="lucid"/>
+    <file name="lucidprocess1.jpg" crc="4276234529" ref="lucid"/>
+    <file name="lucidprocess2.jpg" crc="3851112496" ref="lucid"/>
+    <file name="lucidprocess3.jpg" crc="426448391" ref="lucid"/>
+    <file name="lucidprocess4.jpg" crc="4243764196" ref="lucid"/>
+    <file name="lucidprocess5.jpg" crc="3801045262" ref="lucid"/>
+    <file name="lucidprocess6.jpg" crc="4071480240" ref="lucid"/>
+    <file name="lucidprocess7.jpg" crc="3849854784" ref="lucid"/>
+    <file name="lucidprocess8.jpg" crc="3881886358" ref="lucid"/>
+    <file name="lucidprocess9.jpg" crc="4282078150" ref="lucid"/>
+    <file name="srb2-crop-u9372.jpg" crc="4095773059" ref="lucid"/>
+    <file name="srb1-crop-u9363.jpg" crc="137942241" ref="lucid"/>
+    <file name="srb3-crop-u9381.jpg" crc="111173623" ref="lucid"/>
+    <file name="lucidprocess1-crop-u9090.jpg" crc="217439881" ref="lucid"/>
+    <file name="lucidprocess2-crop-u9140.jpg" crc="3958534823" ref="lucid"/>
+    <file name="lucidprocess3-crop-u9155.jpg" crc="4293352069" ref="lucid"/>
+    <file name="lucidprocess4-crop-u9170.jpg" crc="468100401" ref="lucid"/>
+    <file name="lucidprocess5-crop-u9185.jpg" crc="353258832" ref="lucid"/>
+    <file name="lucidprocess6-crop-u9200.jpg" crc="4118101237" ref="lucid"/>
+    <file name="lucidprocess7-crop-u9215.jpg" crc="442721590" ref="lucid"/>
+    <file name="lucidprocess8-crop-u9230.jpg" crc="4098930563" ref="lucid"/>
+    <file name="lucidprocess9-crop-u9245.jpg" crc="140859070" ref="lucid"/>
+    <file name="framebyframe_free2.gif" crc="59887826" ref="celanimation"/>
+    <file name="room39.gif" crc="388898180" ref="celanimation"/>
+    <file name="birdheart.gif" crc="4019930208" ref="celanimation"/>
+    <file name="ringheart.gif" crc="4038628424" ref="celanimation"/>
+    <file name="melody1.jpg" crc="4050801043" ref="melody"/>
+    <file name="melody2.jpg" crc="3954512470" ref="melody"/>
+    <file name="melody4.jpg" crc="3864119444" ref="melody"/>
+    <file name="melody1-crop-u8450.jpg" crc="3877484429" ref="melody"/>
+    <file name="melody2-crop-u8452.jpg" crc="440069224" ref="melody"/>
+    <file name="melody4-crop-u8446.jpg" crc="358551355" ref="melody"/>
+    <file name="melody1-crop-u8688.jpg" crc="3877484429" ref="melody"/>
+    <file name="melody2-crop-u8684.jpg" crc="440069224" ref="melody"/>
+    <file name="melody4-crop-u8686.jpg" crc="358551355" ref="melody"/>
+    <file name="22.jpg" crc="444642612" ref="disturbingmuses"/>
+    <file name="52.jpg" crc="4236024227" ref="disturbingmuses"/>
+    <file name="62.jpg" crc="69659865" ref="disturbingmuses"/>
+    <file name="0keyvis-crop-u8280.png" crc="117668587" ref="disturbingmuses"/>
+    <file name="2-crop-u8278.jpg" crc="223622775" ref="disturbingmuses"/>
+    <file name="3-crop-u8284.jpg" crc="3833938710" ref="disturbingmuses"/>
+    <file name="4-crop-u8282.jpg" crc="4135621735" ref="disturbingmuses"/>
+    <file name="5-crop-u8373.jpg" crc="489081147" ref="disturbingmuses"/>
+    <file name="6-crop-u8392.jpg" crc="5514200" ref="disturbingmuses"/>
   </folder>
-  <file name="index.html" crc="4148353086" mt="1419641933465" redirect="true"/>
-  <file name="revoke.html" crc="346020066" mt="1419641933434" redirect="true"/>
-  <file name="25hours.html" crc="4106913363" mt="1419641933435" redirect="true"/>
+  <file name="index.html" crc="122577164" mt="1419690164847" redirect="true"/>
+  <file name="revoke.html" crc="346020066" mt="1419672619021" redirect="true"/>
+  <file name="25hours.html" crc="369365894" mt="1419820224495" redirect="true"/>
   <file name="musketeers.html" crc="257161853" mt="1419641933435" redirect="true"/>
   <file name="scrubbmedley.html" crc="4123049533" mt="1419641933436" redirect="true"/>
   <file name="scrubbkid.html" crc="489111710" mt="1419641933436" redirect="true"/>
@@ -366,12 +418,13 @@
   <file name="60miles.html" crc="53861524" mt="1419641933439" redirect="true"/>
   <file name="pijika.html" crc="199826875" mt="1419641933440" redirect="true"/>
   <file name="teefox.html" crc="4215356432" mt="1419641933440" redirect="true"/>
-  <file name="redriding.html" crc="3840230655" mt="1419641933441" redirect="true"/>
+  <file name="redriding.html" crc="3962580081" mt="1419820224046" redirect="true"/>
   <file name="sudked.html" crc="4194118738" mt="1419641933441" redirect="true"/>
   <file name="grienday.html" crc="197335054" mt="1419641933442" redirect="true"/>
   <file name="electricneonlamp.html" crc="159627538" mt="1419641933442" redirect="true"/>
-  <file name="labs.html" crc="152933078" mt="1419641933443" redirect="true"/>
-  <file name="lucid.html" crc="4078054810" mt="1419642015553" redirect="true"/>
-  <file name="celanimation.html" crc="277383841" mt="1419641933444" redirect="true"/>
-  <file name="melody.html" crc="4193899228" mt="1419641933444" redirect="true"/>
+  <file name="labs.html" crc="533056094" mt="1419820933289" redirect="true"/>
+  <file name="lucid.html" crc="3967549411" mt="1419820229687" redirect="true"/>
+  <file name="celanimation.html" crc="3873083237" mt="1419776493920" redirect="true"/>
+  <file name="melody.html" crc="3812634607" mt="1419820225542" redirect="true"/>
+  <file name="disturbingmuses.html" crc="4045558053" mt="1419820224759" redirect="true"/>
 </manifest>
