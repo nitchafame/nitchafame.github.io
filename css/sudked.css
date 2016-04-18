@@ -1,3 +1,9 @@
+.version.sudked /* version checker */
+{
+	color: #0000E9;
+	background-color: #CA9E62;
+}
+
 .html
 {
 	background-color: #E2E2E2;
@@ -8,59 +14,44 @@
 	z-index: 1;
 	width: 960px;
 	min-height: 500px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 #page_position_content
 {
-	margin-top: 23px;
-	margin-bottom: 62px;
+	padding-top: 23px;
+	padding-bottom: 62px;
 }
 
 #u281
 {
-	z-index: 15;
+	z-index: 10;
 	width: 122px;
 	margin-left: 419px;
 }
 
-#pu152-4
+#pu153-4
 {
 	width: 0.01px;
-	margin-left: 400px;
+	margin-left: 357px;
 	margin-top: 4px;
-	position: relative;
-}
-
-#u152-4
-{
-	z-index: 2;
-	width: 45px;
-	min-height: 11px;
-	padding: 1px;
-	margin-right: -10000px;
-}
-
-#u152-4:hover
-{
-	padding-top: 1px;
-	padding-bottom: 1px;
-	min-height: 11px;
-	margin: 0px -10000px 0px 0px;
 }
 
 #u153-4
 {
-	z-index: 6;
+	z-index: 2;
 	width: 37px;
 	min-height: 11px;
 	padding: 1px;
 	margin-right: -10000px;
-	left: 55px;
 }
 
-#u152-4:active,#u153-4:hover
+#u153-4:hover
 {
 	padding-top: 1px;
 	padding-bottom: 1px;
@@ -68,17 +59,62 @@
 	margin: 0px -10000px 0px 0px;
 }
 
+#u7869-4
+{
+	z-index: 12;
+	width: 69px;
+	min-height: 11px;
+	padding: 1px;
+	margin-right: -10000px;
+	left: 52px;
+}
+
+#u153-4:active,#u7869-4:hover
+{
+	padding-top: 1px;
+	padding-bottom: 1px;
+	min-height: 11px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u7871-4
+{
+	z-index: 16;
+	width: 38px;
+	min-height: 11px;
+	padding: 1px;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 136px;
+}
+
+#u7871-4:hover
+{
+	padding-top: 1px;
+	padding-bottom: 1px;
+	min-height: 11px;
+	margin: 1px -10000px 0px 0px;
+}
+
+#u7871-4:active
+{
+	padding-top: 1px;
+	padding-bottom: 1px;
+	min-height: 11px;
+	margin: 1px -10000px 0px 0px;
+}
+
 #u154-4
 {
-	z-index: 10;
+	z-index: 6;
 	width: 57px;
 	min-height: 11px;
 	padding: 1px;
 	margin-right: -10000px;
-	left: 101px;
+	left: 188px;
 }
 
-#u153-4:active,#u154-4:hover
+#u7869-4:active,#u154-4:hover
 {
 	padding-top: 1px;
 	padding-bottom: 1px;
@@ -94,27 +130,18 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u196
-{
-	z-index: 14;
-	width: 152px;
-	height: 20px;
-	margin-left: 728px;
-	margin-top: 25px;
-}
-
 #pu4047-3
 {
 	width: 0.01px;
-	left: -183px;
-	margin-top: 24px;
-	position: relative;
+	margin-left: -183px;
+	margin-top: 69px;
 }
 
 #u4047-3
 {
-	z-index: 18;
+	z-index: 21;
 	width: 5px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 288px;
@@ -122,7 +149,7 @@
 
 #u6753
 {
-	z-index: 17;
+	z-index: 20;
 	width: 560px;
 	height: 316px;
 	border-style: none;
@@ -131,22 +158,22 @@
 	margin-right: -10000px;
 	left: 183px;
 	background: #FFFFFF url("../images/logocrop.jpg") no-repeat center center;
-	background-size: cover !important;
+	background-size: cover;
 }
 
 #pu6687-11
 {
 	width: 0.01px;
-	position: relative;
 	margin-right: -10000px;
-	left: 766px;
+	margin-left: 766px;
 }
 
 #u6687-11
 {
-	z-index: 21;
+	z-index: 24;
 	width: 362px;
 	min-height: 110px;
+	background-color: transparent;
 	padding-left: 15px;
 	position: relative;
 }
@@ -168,9 +195,10 @@
 
 #u6688-11
 {
-	z-index: 32;
+	z-index: 35;
 	width: 360px;
 	min-height: 139px;
+	background-color: transparent;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-left: 17px;
@@ -203,7 +231,7 @@
 
 #slideshowu6692
 {
-	z-index: 48;
+	z-index: 51;
 	width: 0.01px;
 	height: 467px;
 	left: -8px;
@@ -222,12 +250,12 @@
 
 #u6693popup
 {
-	z-index: 49;
+	z-index: 52;
 }
 
 #u6696
 {
-	z-index: 50;
+	z-index: 53;
 	width: 640px;
 	height: 427px;
 	border-style: none;
@@ -240,12 +268,12 @@
 #u6696_img
 {
 	padding-left: 107px;
-	padding-right: 107px;
+	padding-right: 106px;
 }
 
 #u6770
 {
-	z-index: 52;
+	z-index: 55;
 	width: 640px;
 	height: 427px;
 	border-style: none;
@@ -263,7 +291,7 @@
 
 #u6785
 {
-	z-index: 54;
+	z-index: 57;
 	width: 640px;
 	height: 427px;
 	border-style: none;
@@ -281,7 +309,7 @@
 
 #u6800
 {
-	z-index: 56;
+	z-index: 59;
 	width: 640px;
 	height: 427px;
 	border-style: none;
@@ -301,18 +329,21 @@
 {
 	position: absolute;
 	width: 320px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	padding-bottom: 4px;
 	top: 356px;
 }
 
 #u6724popup
 {
-	z-index: 58;
+	z-index: 61;
 }
 
 #u6731
 {
-	z-index: 59;
+	z-index: 62;
 	width: 60px;
 	height: 45px;
 	border-color: #6B6B6B;
@@ -323,15 +354,9 @@
 	left: 25px;
 }
 
-#u6731_img
-{
-	margin-top: -8px;
-	margin-bottom: -8px;
-}
-
 #u6773
 {
-	z-index: 61;
+	z-index: 64;
 	width: 60px;
 	height: 45px;
 	border-color: #6B6B6B;
@@ -342,9 +367,15 @@
 	left: 95px;
 }
 
+#u6773_img
+{
+	margin-left: -2px;
+	margin-right: -2px;
+}
+
 #u6788
 {
-	z-index: 63;
+	z-index: 66;
 	width: 60px;
 	height: 45px;
 	border-color: #6B6B6B;
@@ -355,15 +386,22 @@
 	left: 165px;
 }
 
-#u6773_img,#u6788_img
+#u6773_clip,#u6788_clip
+{
+	overflow: hidden;
+	width: 60px;
+	height: 45px;
+}
+
+#u6788_img
 {
 	margin-left: -2px;
-	margin-right: -2px;
+	margin-right: -1px;
 }
 
 #u6803
 {
-	z-index: 65;
+	z-index: 68;
 	width: 60px;
 	height: 45px;
 	border-color: #6B6B6B;
@@ -381,41 +419,32 @@
 	margin: 4px -10000px 0px 0px;
 }
 
-#u6731_clip,#u6773_clip,#u6788_clip,#u6803_clip
-{
-	overflow: hidden;
-	width: 60px;
-	height: 45px;
-}
-
-#u6803_img
-{
-	margin-left: -8px;
-	margin-right: -8px;
-}
-
 #u6733
 {
 	position: absolute;
 	width: 579px;
+	background-color: transparent;
 	top: 427px;
 	left: 328px;
 }
 
 #u6733popup
 {
-	z-index: 67;
+	z-index: 70;
 }
 
 #u6734-3
 {
-	z-index: 68;
+	z-index: 71;
 	width: 559px;
 	min-height: 20px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	padding: 10px;
-	text-align: left;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
+	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -424,13 +453,16 @@
 
 #u6776-3
 {
-	z-index: 71;
+	z-index: 74;
 	width: 559px;
 	min-height: 20px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	padding: 10px;
-	text-align: left;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
+	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -439,13 +471,16 @@
 
 #u6791-3
 {
-	z-index: 74;
+	z-index: 77;
 	width: 559px;
 	min-height: 20px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	padding: 10px;
-	text-align: left;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
+	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -454,13 +489,16 @@
 
 #u6806-3
 {
-	z-index: 77;
+	z-index: 80;
 	width: 559px;
 	min-height: 20px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	padding: 10px;
-	text-align: left;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
+	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -472,18 +510,21 @@
 	position: absolute;
 	width: 60px;
 	min-height: 407px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	padding: 10px;
-	text-align: center;
-	color: #999999;
-	font-size: 30px;
 	line-height: 42px;
+	font-size: 30px;
+	color: #999999;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 328px;
 }
 
 #u6740-9popup
 {
-	z-index: 80;
+	z-index: 83;
 }
 
 #u6705-9
@@ -491,18 +532,21 @@
 	position: absolute;
 	width: 60px;
 	min-height: 407px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	padding: 10px;
-	text-align: center;
-	color: #999999;
-	font-size: 30px;
 	line-height: 42px;
+	font-size: 30px;
+	color: #999999;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 888px;
 }
 
 #u6705-9popup
 {
-	z-index: 89;
+	z-index: 92;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -517,17 +561,24 @@
 
 #u6691-5
 {
-	z-index: 43;
+	z-index: 46;
 	width: 306px;
 	min-height: 301px;
+	background-color: transparent;
 	padding: 15px;
-	font-size: 16px;
 	line-height: 24px;
+	font-size: 16px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	left: -16px;
 	top: -458px;
 	margin-bottom: -366px;
 	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
 }
 

@@ -1,28 +1,7 @@
 #u281
 {
+	background-color: transparent;
 	position: relative;
-}
-
-#u152-4
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: #EBEBEB;
-	text-align: center;
-	color: #000000;
-	line-height: 14px;
-	position: relative;
-}
-
-#u152-4:hover
-{
-	background-color: #66C89F;
-}
-
-#u152-4:hover p,#u152-4:hover span,#u152-4:active p,#u152-4:active span
-{
-	color: #FFFFFF;
-	visibility: inherit;
 }
 
 #u153-4
@@ -30,9 +9,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #EBEBEB;
-	text-align: center;
 	color: #000000;
 	line-height: 14px;
+	text-align: center;
 	position: relative;
 }
 
@@ -47,14 +26,58 @@
 	visibility: inherit;
 }
 
+#u7869-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #EBEBEB;
+	color: #000000;
+	line-height: 14px;
+	text-align: center;
+	position: relative;
+}
+
+#u7869-4:hover
+{
+	background-color: #66C89F;
+}
+
+#u7869-4:hover p,#u7869-4:hover span,#u7869-4:active p,#u7869-4:active span
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u7871-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #EBEBEB;
+	color: #000000;
+	line-height: 14px;
+	text-align: center;
+	position: relative;
+}
+
+#u7871-4:hover
+{
+	background-color: #66C89F;
+}
+
+#u7871-4:hover p,#u7871-4:hover span,#u7871-4:active p,#u7871-4:active span
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
 #u154-4
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: #EBEBEB;
-	text-align: center;
 	color: #000000;
 	line-height: 14px;
+	text-align: center;
 	position: relative;
 }
 
@@ -63,7 +86,7 @@
 	background-color: #66C89F;
 }
 
-#u152-4:active,#u153-4:active,#u154-4:active
+#u153-4:active,#u7869-4:active,#u7871-4:active,#u154-4:active
 {
 	background-color: #8FE7C2;
 }
@@ -74,26 +97,15 @@
 	visibility: inherit;
 }
 
-#u152-2,#u153-2,#u154-2
+#u153-2,#u7869-2,#u7871-2,#u154-2
 {
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u152,#u153,#u154
+#u153,#u7869,#u7871,#u154
 {
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	line-height: 11px;
-}
-
-#u196
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: #FFFFFF;
-	opacity: 0.2;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";
-	filter: alpha(opacity=20);
-	position: relative;
 }
 

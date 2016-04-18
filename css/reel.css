@@ -1,3 +1,9 @@
+.version.reel /* version checker */
+{
+	color: #0000E0;
+	background-color: #32564A;
+}
+
 .html
 {
 	background-color: #E2E2E2;
@@ -7,59 +13,40 @@
 {
 	z-index: 1;
 	width: 800px;
-	min-height: 414.5241758241756px;
+	min-height: 414.87417582417584px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
 	background-color: #E2E2E2;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 23px 80px 62.475824175824414px;
+	padding: 23px 80px 62.125824175824164px;
 }
 
 #u281
 {
-	z-index: 15;
+	z-index: 10;
 	width: 122px;
 	margin-left: 339px;
 }
 
-#pu152-4
+#pu153-4
 {
 	width: 0.01px;
-	margin-left: 320px;
+	margin-left: 277px;
 	margin-top: 4px;
-	position: relative;
-}
-
-#u152-4
-{
-	z-index: 2;
-	width: 45px;
-	min-height: 11px;
-	padding: 1px;
-	margin-right: -10000px;
-}
-
-#u152-4:hover
-{
-	padding-top: 1px;
-	padding-bottom: 1px;
-	min-height: 11px;
-	margin: 0px -10000px 0px 0px;
 }
 
 #u153-4
 {
-	z-index: 6;
+	z-index: 2;
 	width: 37px;
 	min-height: 11px;
 	padding: 1px;
 	margin-right: -10000px;
-	left: 55px;
 }
 
-#u152-4:active,#u153-4:hover
+#u153-4:hover
 {
 	padding-top: 1px;
 	padding-bottom: 1px;
@@ -67,17 +54,62 @@
 	margin: 0px -10000px 0px 0px;
 }
 
+#u7869-4
+{
+	z-index: 12;
+	width: 69px;
+	min-height: 11px;
+	padding: 1px;
+	margin-right: -10000px;
+	left: 52px;
+}
+
+#u153-4:active,#u7869-4:hover
+{
+	padding-top: 1px;
+	padding-bottom: 1px;
+	min-height: 11px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u7871-4
+{
+	z-index: 16;
+	width: 38px;
+	min-height: 11px;
+	padding: 1px;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 136px;
+}
+
+#u7871-4:hover
+{
+	padding-top: 1px;
+	padding-bottom: 1px;
+	min-height: 11px;
+	margin: 1px -10000px 0px 0px;
+}
+
+#u7871-4:active
+{
+	padding-top: 1px;
+	padding-bottom: 1px;
+	min-height: 11px;
+	margin: 1px -10000px 0px 0px;
+}
+
 #u154-4
 {
-	z-index: 10;
+	z-index: 6;
 	width: 57px;
 	min-height: 11px;
 	padding: 1px;
 	margin-right: -10000px;
-	left: 101px;
+	left: 188px;
 }
 
-#u153-4:active,#u154-4:hover
+#u7869-4:active,#u154-4:hover
 {
 	padding-top: 1px;
 	padding-bottom: 1px;
@@ -93,113 +125,153 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u196
-{
-	z-index: 14;
-	width: 152px;
-	height: 20px;
-	margin-left: 648px;
-	margin-top: 25px;
-}
-
 #u2780
 {
-	z-index: 17;
+	z-index: 20;
 	width: 800px;
 	min-height: 454px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-top: 25px;
+	margin-top: 70px;
 	position: relative;
 }
 
-#u6325
+#pu7775
 {
-	z-index: 18;
-	width: 200px;
-	margin-left: 300px;
-	margin-top: 59px;
-	position: relative;
+	width: 0.01px;
+	margin-left: 305px;
+	margin-top: 33px;
 }
 
-#u3560
-{
-	z-index: 19;
-	width: 25px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u3562
+#u7775
 {
 	z-index: 21;
-	width: 24px;
-	background-color: transparent;
+	width: 21px;
 	position: relative;
 	margin-right: -10000px;
-	left: 35px;
+	margin-top: 1px;
+	background: transparent url("../images/new1mail.png") no-repeat left top;
 }
 
-#u3564
+#u7775:hover
+{
+	margin: 1px -10000px 0px 0px;
+	background: transparent url("../images/new1mail-u7586-r-fr.png") no-repeat left top;
+}
+
+#u7777
 {
 	z-index: 23;
-	width: 24px;
-	background-color: transparent;
+	width: 8px;
 	position: relative;
 	margin-right: -10000px;
-	left: 70px;
+	margin-top: 1px;
+	left: 35px;
+	background: transparent url("../images/new2fb.png") no-repeat left top;
 }
 
-#u3566
+#u7777:hover
+{
+	margin: 1px -10000px 0px 0px;
+	background: transparent url("../images/new2fb-u7588-r-fr.png") no-repeat left top;
+}
+
+#u7779
 {
 	z-index: 25;
-	width: 24px;
-	background-color: transparent;
+	width: 16px;
 	position: relative;
 	margin-right: -10000px;
-	left: 106px;
+	left: 57px;
+	background: transparent url("../images/new3insta.png") no-repeat left top;
 }
 
-#u3568
+#u7779:hover
+{
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/new3insta-u7590-r-fr.png") no-repeat left top;
+}
+
+#u7781
 {
 	z-index: 27;
-	width: 24px;
-	background-color: transparent;
+	width: 15px;
 	position: relative;
 	margin-right: -10000px;
-	left: 141px;
+	margin-top: 3px;
+	left: 87px;
+	background: transparent url("../images/new4vimeo.png") no-repeat left top;
 }
 
-#u3560:hover,#u3562:hover,#u3564:hover,#u3566:hover,#u3568:hover
+#u7781:hover
 {
-	background-color: transparent;
-	margin: 0px -10000px 0px 0px;
+	margin: 3px -10000px 0px 0px;
+	background: transparent url("../images/new4vimeo-u7592-r-fr.png") no-repeat left top;
 }
 
-#u3570
+#u7783
 {
 	z-index: 29;
-	width: 24px;
+	width: 17px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 113px;
+	background: transparent url("../images/new5pin.png") no-repeat left top;
+}
+
+#u7783:hover
+{
+	margin: 1px -10000px 0px 0px;
+	background: transparent url("../images/new5pin-u7594-r-fr.png") no-repeat left top;
+}
+
+#u7785
+{
+	z-index: 31;
+	width: 18px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 142px;
+	background: transparent url("../images/new6twitter.png") no-repeat left top;
+}
+
+#u7785:hover
+{
+	margin: 2px -10000px 0px 0px;
+	background: transparent url("../images/new6twitter-u7596-r-fr.png") no-repeat left top;
+}
+
+#u7775_img:hover,#u7777_img:hover,#u7779_img:hover,#u7781_img:hover,#u7783_img:hover,#u7785_img:hover
+{
+	opacity: 0.4;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
+	filter: alpha(opacity=40);
+}
+
+#u7879
+{
+	z-index: 33;
+	width: 17px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 176px;
+	left: 173px;
 }
 
-#u3570:hover
+#u7879:hover
 {
-	background-color: #FFFFFF;
-	background-color: rgba(255, 255, 255, 0.75);
+	opacity: 0.6;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+	filter: alpha(opacity=60);
 	margin: 0px -10000px 0px 0px;
-	-pie-background: rgba(255, 255, 255, 0.75);
 }
 
-#u3560_img:hover,#u3562_img:hover,#u3564_img:hover,#u3566_img:hover,#u3568_img:hover,#u3570_img:hover
+body
 {
-	opacity: 0.75;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
-	filter: alpha(opacity=75);
+	position: relative;
+	min-width: 960px;
 }
 
