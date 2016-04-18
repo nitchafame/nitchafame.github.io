@@ -1,12 +1,12 @@
 .version._60miles /* version checker */
 {
-	color: #0000E4;
-	background-color: #3F9C3A;
+	color: #000010;
+	background-color: #7D6759;
 }
 
-.html
+#muse_css_mq
 {
-	background-color: #E2E2E2;
+	background-color: #FFFFFF;
 }
 
 #page
@@ -15,7 +15,7 @@
 	width: 960px;
 	min-height: 500px;
 	background-image: none;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-left: auto;
@@ -26,7 +26,7 @@
 {
 	padding-top: 23px;
 	padding-bottom: 62px;
-	width: 0.01px;
+	width: 0.01px;/* should not cover content below */
 }
 
 #u281
@@ -34,6 +34,7 @@
 	z-index: 10;
 	width: 122px;
 	margin-left: 419px;
+	position: relative;
 }
 
 #pu153-4
@@ -49,6 +50,7 @@
 	width: 37px;
 	min-height: 11px;
 	padding: 1px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -76,6 +78,7 @@
 	width: 69px;
 	min-height: 11px;
 	padding: 1px;
+	position: relative;
 	margin-right: -10000px;
 	left: 52px;
 }
@@ -104,6 +107,7 @@
 	width: 38px;
 	min-height: 11px;
 	padding: 1px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 1px;
 	left: 136px;
@@ -133,6 +137,7 @@
 	width: 57px;
 	min-height: 11px;
 	padding: 1px;
+	position: relative;
 	margin-right: -10000px;
 	left: 188px;
 }
@@ -256,8 +261,8 @@
 	min-height: 301px;
 	background-color: transparent;
 	padding: 15px;
-	line-height: 24px;
 	font-size: 16px;
+	line-height: 24px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -294,7 +299,7 @@
 	z-index: 59;
 	width: 640px;
 	height: 427px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
@@ -306,7 +311,7 @@
 	z-index: 61;
 	width: 640px;
 	height: 427px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
@@ -318,7 +323,7 @@
 	z-index: 63;
 	width: 640px;
 	height: 427px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
@@ -330,7 +335,7 @@
 	z-index: 65;
 	width: 640px;
 	height: 427px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
@@ -348,7 +353,7 @@
 	z-index: 67;
 	width: 640px;
 	height: 427px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
@@ -366,7 +371,7 @@
 	z-index: 69;
 	width: 640px;
 	height: 427px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
@@ -384,7 +389,7 @@
 	z-index: 71;
 	width: 640px;
 	height: 427px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
@@ -402,7 +407,7 @@
 	z-index: 73;
 	width: 640px;
 	height: 427px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
@@ -419,7 +424,7 @@
 {
 	position: absolute;
 	width: 320px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding-bottom: 4px;
@@ -485,7 +490,7 @@
 
 #u7238.SSSlideLinkSelected,#u7293.SSSlideLinkSelected,#u7308.SSSlideLinkSelected,#u7323.SSSlideLinkSelected
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	width: 60px;
 	height: 45px;
@@ -559,19 +564,12 @@
 
 #u7338.SSSlideLinkSelected,#u7353.SSSlideLinkSelected,#u7368.SSSlideLinkSelected,#u7381.SSSlideLinkSelected
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	width: 60px;
 	height: 45px;
 	min-height: 0px;
 	margin: 59px -10000px 0px 0px;
-}
-
-#u7238_clip,#u7293_clip,#u7308_clip,#u7323_clip,#u7368_clip,#u7381_clip
-{
-	overflow: hidden;
-	width: 60px;
-	height: 45px;
 }
 
 #u7381_img
@@ -585,14 +583,14 @@
 	position: absolute;
 	width: 60px;
 	min-height: 407px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
-	line-height: 42px;
 	text-align: center;
 	font-size: 30px;
+	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 328px;
 }
@@ -607,14 +605,14 @@
 	position: absolute;
 	width: 60px;
 	min-height: 407px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
-	line-height: 42px;
 	text-align: center;
 	font-size: 30px;
+	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 888px;
 }
@@ -632,6 +630,11 @@
 .SSSlideLoading /* slideshowFreeStyle */
 {
 	background: url("../images/loading.gif") no-repeat center center;
+}
+
+.html
+{
+	background-color: #E2E2E2;
 }
 
 body

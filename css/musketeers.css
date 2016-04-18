@@ -1,12 +1,12 @@
 .version.musketeers /* version checker */
 {
-	color: #0000E8;
-	background-color: #3E6AB4;
+	color: #00001F;
+	background-color: #97699D;
 }
 
-.html
+#muse_css_mq
 {
-	background-color: #E2E2E2;
+	background-color: #FFFFFF;
 }
 
 #page
@@ -15,7 +15,7 @@
 	width: 960px;
 	min-height: 499.4741758241764px;
 	background-image: none;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: #E2E2E2;
 	padding-bottom: 1px;
@@ -27,7 +27,7 @@
 {
 	padding-top: 23px;
 	padding-bottom: 62px;
-	width: 0.01px;
+	width: 0.01px;/* should not cover content below */
 }
 
 #u281
@@ -35,6 +35,7 @@
 	z-index: 10;
 	width: 122px;
 	margin-left: 419px;
+	position: relative;
 }
 
 #pu153-4
@@ -50,6 +51,7 @@
 	width: 37px;
 	min-height: 11px;
 	padding: 1px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -77,6 +79,7 @@
 	width: 69px;
 	min-height: 11px;
 	padding: 1px;
+	position: relative;
 	margin-right: -10000px;
 	left: 52px;
 }
@@ -105,6 +108,7 @@
 	width: 38px;
 	min-height: 11px;
 	padding: 1px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 1px;
 	left: 136px;
@@ -134,6 +138,7 @@
 	width: 57px;
 	min-height: 11px;
 	padding: 1px;
+	position: relative;
 	margin-right: -10000px;
 	left: 188px;
 }
@@ -167,7 +172,7 @@
 {
 	z-index: 120;
 	width: 434px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
@@ -298,7 +303,7 @@
 	z-index: 22;
 	width: 640px;
 	height: 425px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
@@ -316,7 +321,7 @@
 	z-index: 24;
 	width: 640px;
 	height: 425px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
@@ -328,7 +333,7 @@
 	z-index: 26;
 	width: 640px;
 	height: 425px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
@@ -340,7 +345,7 @@
 	z-index: 28;
 	width: 640px;
 	height: 425px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
@@ -352,7 +357,7 @@
 	z-index: 30;
 	width: 640px;
 	height: 425px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
@@ -363,7 +368,7 @@
 {
 	position: absolute;
 	width: 320px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding-bottom: 59px;
@@ -449,19 +454,12 @@
 
 #u6680.SSSlideLinkSelected
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	width: 60px;
 	height: 45px;
 	min-height: 0px;
 	margin: 59px -10000px 0px 0px;
-}
-
-#u6620_clip,#u6635_clip,#u6650_clip,#u6665_clip,#u6680_clip
-{
-	overflow: hidden;
-	width: 60px;
-	height: 45px;
 }
 
 #u6635_img,#u6650_img,#u6665_img,#u6680_img
@@ -489,13 +487,13 @@
 	z-index: 44;
 	width: 559px;
 	min-height: 20px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
-	line-height: 20px;
 	text-align: right;
+	line-height: 20px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -507,13 +505,13 @@
 	z-index: 48;
 	width: 559px;
 	min-height: 20px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
-	line-height: 20px;
 	text-align: right;
+	line-height: 20px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -525,13 +523,13 @@
 	z-index: 52;
 	width: 559px;
 	min-height: 20px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
-	line-height: 20px;
 	text-align: right;
+	line-height: 20px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -543,13 +541,13 @@
 	z-index: 56;
 	width: 559px;
 	min-height: 20px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
-	line-height: 20px;
 	text-align: right;
+	line-height: 20px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -561,13 +559,13 @@
 	z-index: 60;
 	width: 559px;
 	min-height: 20px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
-	line-height: 20px;
 	text-align: right;
+	line-height: 20px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -579,14 +577,14 @@
 	position: absolute;
 	width: 59px;
 	min-height: 405px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
-	line-height: 42px;
 	text-align: center;
 	font-size: 30px;
+	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 1px;
 }
@@ -601,14 +599,14 @@
 	position: absolute;
 	width: 60px;
 	min-height: 403px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
-	line-height: 42px;
 	text-align: center;
 	font-size: 30px;
+	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 1px;
 	left: 560px;
@@ -636,8 +634,8 @@
 	min-height: 301px;
 	background-color: transparent;
 	padding: 15px;
-	line-height: 24px;
 	font-size: 16px;
+	line-height: 24px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -680,7 +678,7 @@
 	z-index: 84;
 	width: 640px;
 	height: 425px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
@@ -697,18 +695,11 @@
 	z-index: 86;
 	width: 640px;
 	height: 425px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
 	position: relative;
-}
-
-#u3028_clip,#u3034_clip
-{
-	overflow: hidden;
-	width: 640px;
-	height: 425px;
 }
 
 #u3034_img
@@ -720,7 +711,7 @@
 {
 	position: absolute;
 	width: 320px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding-bottom: 4px;
@@ -760,7 +751,7 @@
 
 #u6620.SSSlideLinkSelected,#u6635.SSSlideLinkSelected,#u6650.SSSlideLinkSelected,#u6665.SSSlideLinkSelected,#u3009.SSSlideLinkSelected,#u3015.SSSlideLinkSelected
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	width: 60px;
 	height: 45px;
@@ -787,13 +778,13 @@
 	z-index: 94;
 	width: 559px;
 	min-height: 20px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
-	line-height: 20px;
 	text-align: left;
+	line-height: 20px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -805,13 +796,13 @@
 	z-index: 98;
 	width: 559px;
 	min-height: 20px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
-	line-height: 20px;
 	text-align: left;
+	line-height: 20px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -823,14 +814,14 @@
 	position: absolute;
 	width: 59px;
 	min-height: 405px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
-	line-height: 42px;
 	text-align: center;
 	font-size: 30px;
+	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 320px;
 }
@@ -845,14 +836,14 @@
 	position: absolute;
 	width: 60px;
 	min-height: 403px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
-	line-height: 42px;
 	text-align: center;
 	font-size: 30px;
+	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 880px;
 }
@@ -867,12 +858,17 @@
 	z-index: 160;
 	width: 305px;
 	background-color: transparent;
-	line-height: 24px;
 	font-size: 16px;
+	line-height: 24px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
+}
+
+.html
+{
+	background-color: #E2E2E2;
 }
 
 body

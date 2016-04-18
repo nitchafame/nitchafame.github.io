@@ -1,12 +1,12 @@
 .version.bootcampcode /* version checker */
 {
-	color: #0000FB;
-	background-color: #32F715;
+	color: #000003;
+	background-color: #117913;
 }
 
-.html
+#muse_css_mq
 {
-	background-color: #E2E2E2;
+	background-color: #FFFFFF;
 }
 
 #page
@@ -15,7 +15,7 @@
 	width: 550px;
 	min-height: 414.97417582417575px;
 	background-image: none;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: #E2E2E2;
 	margin-left: auto;
@@ -28,6 +28,7 @@
 	z-index: 10;
 	width: 122px;
 	margin-left: 214px;
+	position: relative;
 }
 
 #pu153-4
@@ -43,6 +44,7 @@
 	width: 37px;
 	min-height: 11px;
 	padding: 1px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -70,6 +72,7 @@
 	width: 69px;
 	min-height: 11px;
 	padding: 1px;
+	position: relative;
 	margin-right: -10000px;
 	left: 52px;
 }
@@ -98,6 +101,7 @@
 	width: 38px;
 	min-height: 11px;
 	padding: 1px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 1px;
 	left: 136px;
@@ -127,6 +131,7 @@
 	width: 57px;
 	min-height: 11px;
 	padding: 1px;
+	position: relative;
 	margin-right: -10000px;
 	left: 188px;
 }
@@ -165,8 +170,8 @@
 	min-height: 79px;
 	background-color: transparent;
 	padding: 15px;
-	line-height: 24px;
 	font-size: 16px;
+	line-height: 24px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-top: 26px;
@@ -191,6 +196,11 @@
 	margin-left: 50px;
 	margin-top: 40px;
 	position: relative;
+}
+
+.html
+{
+	background-color: #E2E2E2;
 }
 
 body

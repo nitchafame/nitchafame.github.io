@@ -1,18 +1,16 @@
 #u281
 {
 	background-color: transparent;
-	position: relative;
 }
 
 #u153-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: #EBEBEB;
-	color: #000000;
 	text-align: center;
 	line-height: 14px;
-	position: relative;
+	color: #000000;
 }
 
 #u153-4:hover
@@ -28,13 +26,12 @@
 
 #u7869-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: #EBEBEB;
-	color: #000000;
 	text-align: center;
 	line-height: 14px;
-	position: relative;
+	color: #000000;
 }
 
 #u7869-4:hover
@@ -50,13 +47,12 @@
 
 #u7871-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: #EBEBEB;
-	color: #000000;
 	text-align: center;
 	line-height: 14px;
-	position: relative;
+	color: #000000;
 }
 
 #u7871-4:hover
@@ -72,13 +68,12 @@
 
 #u154-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: #EBEBEB;
-	color: #000000;
 	text-align: center;
 	line-height: 14px;
-	position: relative;
+	color: #000000;
 }
 
 #u154-4:hover
@@ -108,4 +103,5 @@
 	font-weight: 400;
 	line-height: 11px;
 }
+
 

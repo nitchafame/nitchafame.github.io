@@ -1,12 +1,12 @@
 .version.grienday /* version checker */
 {
-	color: #0000FA;
-	background-color: #A09526;
+	color: #000002;
+	background-color: #669F1C;
 }
 
-.html
+#muse_css_mq
 {
-	background-color: #E2E2E2;
+	background-color: #FFFFFF;
 }
 
 #page
@@ -15,7 +15,7 @@
 	width: 640px;
 	min-height: 414.69917582417577px;
 	background-image: none;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-left: auto;
@@ -28,6 +28,7 @@
 	z-index: 10;
 	width: 122px;
 	margin-left: 259px;
+	position: relative;
 }
 
 #pu153-4
@@ -43,6 +44,7 @@
 	width: 37px;
 	min-height: 11px;
 	padding: 1px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -70,6 +72,7 @@
 	width: 69px;
 	min-height: 11px;
 	padding: 1px;
+	position: relative;
 	margin-right: -10000px;
 	left: 52px;
 }
@@ -98,6 +101,7 @@
 	width: 38px;
 	min-height: 11px;
 	padding: 1px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 1px;
 	left: 136px;
@@ -127,6 +131,7 @@
 	width: 57px;
 	min-height: 11px;
 	padding: 1px;
+	position: relative;
 	margin-right: -10000px;
 	left: 188px;
 }
@@ -176,7 +181,7 @@
 	z-index: 32;
 	width: 640px;
 	height: 446px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
@@ -194,7 +199,7 @@
 	z-index: 34;
 	width: 640px;
 	height: 446px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
@@ -212,7 +217,7 @@
 	z-index: 36;
 	width: 640px;
 	height: 446px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
@@ -230,7 +235,7 @@
 	z-index: 38;
 	width: 640px;
 	height: 446px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
@@ -247,7 +252,7 @@
 {
 	position: absolute;
 	width: 320px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding-bottom: 90px;
@@ -332,7 +337,7 @@
 
 #u7447.SSSlideLinkSelected,#u7509.SSSlideLinkSelected,#u7522.SSSlideLinkSelected,#u7536.SSSlideLinkSelected
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	width: 60px;
 	height: 45px;
@@ -351,14 +356,14 @@
 	position: absolute;
 	width: 60px;
 	min-height: 336px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
-	line-height: 42px;
 	text-align: center;
 	font-size: 30px;
+	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 45px;
 }
@@ -373,14 +378,14 @@
 	position: absolute;
 	width: 59px;
 	min-height: 340px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
-	line-height: 42px;
 	text-align: center;
 	font-size: 30px;
+	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 41px;
 	left: 561px;
@@ -431,6 +436,11 @@
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	font-style: italic;
+}
+
+.html
+{
+	background-color: #E2E2E2;
 }
 
 body

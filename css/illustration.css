@@ -1,12 +1,12 @@
 .version.illustration /* version checker */
 {
-	color: #0000F0;
-	background-color: #67430E;
+	color: #000005;
+	background-color: #57E86F;
 }
 
-.html
+#muse_css_mq
 {
-	background-color: #E2E2E2;
+	background-color: #FFFFFF;
 }
 
 #page
@@ -15,7 +15,7 @@
 	width: 720px;
 	min-height: 414.6400351046764px;
 	background-image: none;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: #E2E2E2;
 	margin-left: auto;
@@ -28,6 +28,7 @@
 	z-index: 10;
 	width: 122px;
 	margin-left: 299px;
+	position: relative;
 }
 
 #pu153-4
@@ -43,6 +44,7 @@
 	width: 37px;
 	min-height: 11px;
 	padding: 1px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -70,6 +72,7 @@
 	width: 69px;
 	min-height: 11px;
 	padding: 1px;
+	position: relative;
 	margin-right: -10000px;
 	left: 52px;
 }
@@ -98,6 +101,7 @@
 	width: 38px;
 	min-height: 11px;
 	padding: 1px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 1px;
 	left: 136px;
@@ -127,6 +131,7 @@
 	width: 57px;
 	min-height: 11px;
 	padding: 1px;
+	position: relative;
 	margin-right: -10000px;
 	left: 188px;
 }
@@ -202,6 +207,11 @@
 	transform: matrix(-1,0,0,-1,720,405);
 	margin-top: 47px;
 	position: relative;
+}
+
+.html
+{
+	background-color: #E2E2E2;
 }
 
 body

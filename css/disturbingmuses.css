@@ -1,12 +1,12 @@
 .version.disturbingmuses /* version checker */
 {
-	color: #000017;
-	background-color: #5C2EB1;
+	color: #000018;
+	background-color: #240252;
 }
 
-.html
+#muse_css_mq
 {
-	background-color: #E2E2E2;
+	background-color: #FFFFFF;
 }
 
 #page
@@ -15,7 +15,7 @@
 	width: 960px;
 	min-height: 500px;
 	background-image: none;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: #E2E2E2;
 	margin-left: auto;
@@ -26,7 +26,7 @@
 {
 	padding-top: 23px;
 	padding-bottom: 62px;
-	width: 0.01px;
+	width: 0.01px;/* should not cover content below */
 }
 
 #u281
@@ -34,6 +34,7 @@
 	z-index: 10;
 	width: 122px;
 	margin-left: 419px;
+	position: relative;
 }
 
 #pu153-4
@@ -49,6 +50,7 @@
 	width: 37px;
 	min-height: 11px;
 	padding: 1px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -76,6 +78,7 @@
 	width: 69px;
 	min-height: 11px;
 	padding: 1px;
+	position: relative;
 	margin-right: -10000px;
 	left: 52px;
 }
@@ -104,6 +107,7 @@
 	width: 38px;
 	min-height: 11px;
 	padding: 1px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 1px;
 	left: 136px;
@@ -133,6 +137,7 @@
 	width: 57px;
 	min-height: 11px;
 	padding: 1px;
+	position: relative;
 	margin-right: -10000px;
 	left: 188px;
 }
@@ -167,7 +172,7 @@
 	z-index: 21;
 	width: 200px;
 	min-height: 100px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
@@ -249,7 +254,7 @@
 	z-index: 35;
 	width: 640px;
 	height: 427px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
@@ -267,7 +272,7 @@
 	z-index: 37;
 	width: 640px;
 	height: 427px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
@@ -285,7 +290,7 @@
 	z-index: 39;
 	width: 640px;
 	height: 427px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
@@ -297,7 +302,7 @@
 	z-index: 41;
 	width: 640px;
 	height: 427px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
@@ -315,7 +320,7 @@
 	z-index: 43;
 	width: 640px;
 	height: 427px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
@@ -327,7 +332,7 @@
 	z-index: 45;
 	width: 640px;
 	height: 427px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
@@ -343,7 +348,7 @@
 {
 	position: absolute;
 	width: 320px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding-bottom: 21px;
@@ -409,7 +414,7 @@
 
 #u8280.SSSlideLinkSelected,#u8278.SSSlideLinkSelected,#u8284.SSSlideLinkSelected,#u8282.SSSlideLinkSelected
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	width: 60px;
 	height: 45px;
@@ -445,7 +450,7 @@
 
 #u8373.SSSlideLinkSelected,#u8392.SSSlideLinkSelected
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	width: 60px;
 	height: 45px;
@@ -472,13 +477,13 @@
 	z-index: 61;
 	width: 559px;
 	min-height: 40px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
-	line-height: 20px;
 	text-align: left;
+	line-height: 20px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -490,13 +495,13 @@
 	z-index: 65;
 	width: 559px;
 	min-height: 40px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
-	line-height: 20px;
 	text-align: left;
+	line-height: 20px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -508,13 +513,13 @@
 	z-index: 69;
 	width: 559px;
 	min-height: 40px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
-	line-height: 20px;
 	text-align: left;
+	line-height: 20px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -526,13 +531,13 @@
 	z-index: 73;
 	width: 559px;
 	min-height: 40px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
-	line-height: 20px;
 	text-align: left;
+	line-height: 20px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -544,13 +549,13 @@
 	z-index: 77;
 	width: 559px;
 	min-height: 40px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
-	line-height: 20px;
 	text-align: left;
+	line-height: 20px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -562,13 +567,13 @@
 	z-index: 81;
 	width: 559px;
 	min-height: 40px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
-	line-height: 20px;
 	text-align: left;
+	line-height: 20px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -580,14 +585,14 @@
 	position: absolute;
 	width: 60px;
 	min-height: 407px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
-	line-height: 42px;
 	text-align: center;
 	font-size: 30px;
+	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 328px;
 }
@@ -602,14 +607,14 @@
 	position: absolute;
 	width: 60px;
 	min-height: 407px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
-	line-height: 42px;
 	text-align: center;
 	font-size: 30px;
+	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 888px;
 }
@@ -698,8 +703,8 @@
 	min-height: 301px;
 	background-color: transparent;
 	padding: 15px;
-	line-height: 24px;
 	font-size: 16px;
+	line-height: 24px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-top: 7px;
@@ -711,8 +716,8 @@
 	z-index: 178;
 	width: 200px;
 	background-color: transparent;
-	line-height: 27px;
 	font-size: 18px;
+	line-height: 27px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-top: 2px;
@@ -746,7 +751,7 @@
 	z-index: 103;
 	width: 640px;
 	height: 427px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
@@ -758,7 +763,7 @@
 	z-index: 105;
 	width: 640px;
 	height: 427px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
@@ -776,7 +781,7 @@
 	z-index: 107;
 	width: 640px;
 	height: 427px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
@@ -794,7 +799,7 @@
 	z-index: 109;
 	width: 640px;
 	height: 427px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
@@ -812,7 +817,7 @@
 {
 	position: absolute;
 	width: 320px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding-bottom: 76px;
@@ -863,13 +868,6 @@
 	left: 165px;
 }
 
-#u9639_clip,#u9609_clip,#u9624_clip
-{
-	overflow: hidden;
-	width: 68px;
-	height: 45px;
-}
-
 #u9639_img,#u9609_img,#u9624_img
 {
 	margin-top: -1px;
@@ -891,7 +889,7 @@
 
 #u9639.SSSlideLinkSelected,#u9609.SSSlideLinkSelected,#u9624.SSSlideLinkSelected,#u9557.SSSlideLinkSelected
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	width: 68px;
 	height: 45px;
@@ -918,13 +916,13 @@
 	z-index: 121;
 	width: 335px;
 	min-height: 40px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
-	line-height: 20px;
 	text-align: left;
+	line-height: 20px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -936,13 +934,13 @@
 	z-index: 125;
 	width: 335px;
 	min-height: 40px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
-	line-height: 20px;
 	text-align: left;
+	line-height: 20px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -954,13 +952,13 @@
 	z-index: 129;
 	width: 335px;
 	min-height: 40px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
-	line-height: 20px;
 	text-align: left;
+	line-height: 20px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -972,13 +970,13 @@
 	z-index: 133;
 	width: 335px;
 	min-height: 40px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
-	line-height: 20px;
 	text-align: left;
+	line-height: 20px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -990,14 +988,14 @@
 	position: absolute;
 	width: 60px;
 	min-height: 378px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
-	line-height: 42px;
 	text-align: center;
 	font-size: 30px;
+	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
 
@@ -1011,14 +1009,14 @@
 	position: absolute;
 	width: 60px;
 	min-height: 378px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
-	line-height: 42px;
 	text-align: center;
 	font-size: 30px;
+	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 505px;
 }
@@ -1026,6 +1024,11 @@
 #u9559-8popup
 {
 	z-index: 145;
+}
+
+.html
+{
+	background-color: #E2E2E2;
 }
 
 body

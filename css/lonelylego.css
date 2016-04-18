@@ -1,32 +1,27 @@
 .version.lonelylego /* version checker */
 {
-	color: #000013;
-	background-color: #4A07D4;
+	color: #000002;
+	background-color: #86C21C;
 }
 
-.html
+#muse_css_mq
 {
-	background-color: #E2E2E2;
+	background-color: #FFFFFF;
 }
 
 #page
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 500px;
+	min-height: 415px;
 	background-image: none;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: #E2E2E2;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-#page_position_content
-{
 	padding-top: 23px;
 	padding-bottom: 62px;
-	width: 0.01px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 #u281
@@ -34,6 +29,7 @@
 	z-index: 10;
 	width: 122px;
 	margin-left: 419px;
+	position: relative;
 }
 
 #pu153-4
@@ -49,6 +45,7 @@
 	width: 37px;
 	min-height: 11px;
 	padding: 1px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -76,6 +73,7 @@
 	width: 69px;
 	min-height: 11px;
 	padding: 1px;
+	position: relative;
 	margin-right: -10000px;
 	left: 52px;
 }
@@ -104,6 +102,7 @@
 	width: 38px;
 	min-height: 11px;
 	padding: 1px;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 1px;
 	left: 136px;
@@ -133,6 +132,7 @@
 	width: 57px;
 	min-height: 11px;
 	padding: 1px;
+	position: relative;
 	margin-right: -10000px;
 	left: 188px;
 }
@@ -160,7 +160,7 @@
 	z-index: 96;
 	width: 800px;
 	min-height: 454px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-left: 80px;
@@ -245,8 +245,8 @@
 	width: 480px;
 	min-height: 267px;
 	background-color: transparent;
-	line-height: 24px;
 	font-size: 16px;
+	line-height: 24px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -273,7 +273,7 @@
 	z-index: 97;
 	width: 320px;
 	height: 160px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	position: relative;
 	background: #66C89F url("../images/screenshot%202013-12-15%20032254.jpg") no-repeat center bottom;
@@ -296,7 +296,7 @@
 	z-index: 98;
 	width: 320px;
 	height: 160px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	position: relative;
 	background: #66C89F url("../images/screenshot%202013-12-15%20032239.jpg") no-repeat center bottom;
@@ -319,7 +319,7 @@
 	z-index: 99;
 	width: 320px;
 	height: 160px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	margin-top: 4px;
 	position: relative;
@@ -343,7 +343,7 @@
 	z-index: 34;
 	width: 640px;
 	height: 648px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: #FFFFFF;
 	position: relative;
@@ -377,7 +377,7 @@
 	z-index: 37;
 	width: 640px;
 	height: 610px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
@@ -395,7 +395,7 @@
 	z-index: 39;
 	width: 640px;
 	height: 610px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
@@ -413,7 +413,7 @@
 	z-index: 41;
 	width: 640px;
 	height: 610px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
@@ -431,7 +431,7 @@
 	z-index: 43;
 	width: 640px;
 	height: 610px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
@@ -449,7 +449,7 @@
 	z-index: 45;
 	width: 640px;
 	height: 610px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
@@ -467,7 +467,7 @@
 	z-index: 47;
 	width: 640px;
 	height: 610px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
@@ -485,7 +485,7 @@
 	z-index: 49;
 	width: 640px;
 	height: 610px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
@@ -502,7 +502,7 @@
 {
 	position: absolute;
 	width: 320px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding-bottom: 35px;
@@ -575,7 +575,7 @@
 
 #u2110.SSSlideLinkSelected,#u2269.SSSlideLinkSelected,#u2284.SSSlideLinkSelected,#u2240.SSSlideLinkSelected
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	width: 60px;
 	height: 45px;
@@ -630,19 +630,12 @@
 
 #u2255.SSSlideLinkSelected,#u2210.SSSlideLinkSelected,#u2225.SSSlideLinkSelected
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	width: 60px;
 	height: 45px;
 	min-height: 0px;
 	margin: 59px -10000px 0px 0px;
-}
-
-#u2284_clip,#u2210_clip,#u2225_clip
-{
-	overflow: hidden;
-	width: 60px;
-	height: 45px;
 }
 
 #u2225_img
@@ -670,13 +663,13 @@
 	z-index: 67;
 	width: 559px;
 	min-height: 20px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 10px;
 	color: #999999;
-	line-height: 20px;
 	text-align: left;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -687,13 +680,13 @@
 	z-index: 70;
 	width: 559px;
 	min-height: 20px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 10px;
 	color: #999999;
-	line-height: 20px;
 	text-align: left;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -704,13 +697,13 @@
 	z-index: 73;
 	width: 559px;
 	min-height: 20px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 10px;
 	color: #999999;
-	line-height: 20px;
 	text-align: left;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -721,13 +714,13 @@
 	z-index: 76;
 	width: 559px;
 	min-height: 20px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 10px;
 	color: #999999;
-	line-height: 20px;
 	text-align: left;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -738,13 +731,13 @@
 	z-index: 79;
 	width: 559px;
 	min-height: 20px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 10px;
 	color: #999999;
-	line-height: 20px;
 	text-align: left;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -755,13 +748,13 @@
 	z-index: 82;
 	width: 559px;
 	min-height: 20px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 10px;
 	color: #999999;
-	line-height: 20px;
 	text-align: left;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -772,13 +765,13 @@
 	z-index: 85;
 	width: 559px;
 	min-height: 20px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 10px;
 	color: #999999;
-	line-height: 20px;
 	text-align: left;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -789,7 +782,7 @@
 	position: absolute;
 	width: 10px;
 	min-height: 20px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 10px;
@@ -814,13 +807,13 @@
 	position: absolute;
 	width: 10px;
 	min-height: 20px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 10px;
 	color: #999999;
-	line-height: 20px;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 608px;
 	left: 610px;
@@ -839,6 +832,11 @@
 .SSSlideLoading /* slideshowFreeStyle */
 {
 	background: url("../images/loading.gif") no-repeat center center;
+}
+
+.html
+{
+	background-color: #E2E2E2;
 }
 
 body
