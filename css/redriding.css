@@ -1,7 +1,7 @@
 .version.redriding /* version checker */
 {
-	color: #0000F7;
-	background-color: #AC94EC;
+	color: #00001C;
+	background-color: #687226;
 }
 
 .html
@@ -204,8 +204,8 @@
 	width: 480px;
 	min-height: 224px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 24px;
+	font-size: 16px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-top: 19px;
@@ -299,7 +299,7 @@
 #u6216_img,#u6231_img
 {
 	padding-left: 91px;
-	padding-right: 92px;
+	padding-right: 91px;
 	padding-bottom: 323px;
 }
 
@@ -458,8 +458,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -476,8 +476,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -494,8 +494,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -512,8 +512,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -530,8 +530,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -548,9 +548,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
-	font-size: 30px;
 	line-height: 42px;
+	font-size: 30px;
+	color: #999999;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 4px;
@@ -571,9 +571,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
-	font-size: 30px;
 	line-height: 42px;
+	font-size: 30px;
+	color: #999999;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 881px;
@@ -599,8 +599,8 @@
 	z-index: 101;
 	width: 200px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	top: -649px;

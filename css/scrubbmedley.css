@@ -1,7 +1,7 @@
 .version.scrubbmedley /* version checker */
 {
-	color: #0000FE;
-	background-color: #DB256E;
+	color: #00001D;
+	background-color: #80CFC8;
 }
 
 .html
@@ -249,8 +249,8 @@
 	min-height: 301px;
 	background-color: transparent;
 	padding: 15px;
-	font-size: 16px;
 	line-height: 24px;
+	font-size: 16px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -503,8 +503,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -521,8 +521,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -539,8 +539,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -557,8 +557,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -575,8 +575,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -593,8 +593,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -611,9 +611,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
-	font-size: 30px;
 	line-height: 42px;
+	font-size: 30px;
+	color: #999999;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 83px;
@@ -633,9 +633,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
-	font-size: 30px;
 	line-height: 42px;
+	font-size: 30px;
+	color: #999999;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 83px;

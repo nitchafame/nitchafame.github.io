@@ -1,7 +1,7 @@
 .version.revoke /* version checker */
 {
-	color: #00001A;
-	background-color: #F04BDF;
+	color: #00001D;
+	background-color: #308F83;
 }
 
 .html
@@ -221,8 +221,8 @@
 	width: 480px;
 	min-height: 260px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 24px;
+	font-size: 16px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -246,8 +246,8 @@
 	z-index: 147;
 	width: 200px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-top: 40px;
@@ -404,7 +404,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	padding-bottom: 114px;
+	padding-bottom: 4px;
 	left: 640px;
 }
 
@@ -416,119 +416,139 @@
 #u6368
 {
 	z-index: 71;
-	width: 60px;
-	height: 45px;
+	width: 85px;
+	height: 77px;
 	border-color: #6B6B6B;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 4px;
-	left: 25px;
+	left: 22px;
 }
 
 #u6518
 {
 	z-index: 73;
-	width: 60px;
-	height: 45px;
+	width: 85px;
+	height: 77px;
 	border-color: #6B6B6B;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 4px;
-	left: 95px;
+	left: 117px;
 }
 
 #u6533
 {
 	z-index: 75;
-	width: 60px;
-	height: 45px;
+	width: 85px;
+	height: 77px;
 	border-color: #6B6B6B;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 4px;
-	left: 165px;
+	left: 212px;
 }
 
-#u6548
-{
-	z-index: 77;
-	width: 60px;
-	height: 45px;
-	border-color: #6B6B6B;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 4px;
-	left: 235px;
-}
-
-#u6368.SSSlideLinkSelected,#u6518.SSSlideLinkSelected,#u6533.SSSlideLinkSelected,#u6548.SSSlideLinkSelected
+#u6368.SSSlideLinkSelected,#u6518.SSSlideLinkSelected,#u6533.SSSlideLinkSelected
 {
 	border-style: none;
 	border-color: transparent;
 	margin: 4px -10000px 0px 0px;
 }
 
-#u6563
+#u6548
 {
-	z-index: 79;
-	width: 60px;
-	height: 45px;
+	z-index: 77;
+	width: 85px;
+	height: 77px;
 	border-color: #6B6B6B;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 59px;
-	left: 25px;
+	margin-top: 91px;
+	left: 22px;
+}
+
+#u6563
+{
+	z-index: 79;
+	width: 85px;
+	height: 77px;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 91px;
+	left: 117px;
 }
 
 #u6578
 {
 	z-index: 81;
-	width: 60px;
-	height: 45px;
+	width: 85px;
+	height: 77px;
 	border-color: #6B6B6B;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 59px;
-	left: 95px;
+	margin-top: 91px;
+	left: 212px;
+}
+
+#u6548.SSSlideLinkSelected,#u6563.SSSlideLinkSelected,#u6578.SSSlideLinkSelected
+{
+	border-style: none;
+	border-color: transparent;
+	margin: 91px -10000px 0px 0px;
 }
 
 #u6593
 {
 	z-index: 83;
-	width: 60px;
-	height: 45px;
+	width: 85px;
+	height: 77px;
 	border-color: #6B6B6B;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 59px;
-	left: 165px;
+	margin-top: 178px;
+	left: 22px;
+}
+
+#u6518_clip,#u6533_clip,#u6548_clip,#u6563_clip,#u6593_clip
+{
+	overflow: hidden;
+	width: 85px;
+	height: 77px;
+}
+
+#u6518_img,#u6533_img,#u6548_img,#u6563_img,#u6593_img
+{
+	margin-top: -4px;
+	margin-bottom: -4px;
 }
 
 #u6606
 {
 	z-index: 85;
-	width: 60px;
-	height: 45px;
+	width: 85px;
+	height: 77px;
 	border-color: #6B6B6B;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 59px;
-	left: 235px;
+	margin-top: 178px;
+	left: 117px;
 }
 
-#u6563.SSSlideLinkSelected,#u6578.SSSlideLinkSelected,#u6593.SSSlideLinkSelected,#u6606.SSSlideLinkSelected
+#u6593.SSSlideLinkSelected,#u6606.SSSlideLinkSelected
 {
 	border-style: none;
 	border-color: transparent;
-	margin: 59px -10000px 0px 0px;
+	margin: 178px -10000px 0px 0px;
 }
 
 #u656
@@ -554,8 +574,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -572,8 +592,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -590,8 +610,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -608,8 +628,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -626,8 +646,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -644,8 +664,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -662,8 +682,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -680,8 +700,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -698,9 +718,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
-	font-size: 30px;
 	line-height: 42px;
+	font-size: 30px;
+	color: #999999;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 4px;
@@ -720,9 +740,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
-	font-size: 30px;
 	line-height: 42px;
+	font-size: 30px;
+	color: #999999;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 561px;

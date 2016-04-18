@@ -1,7 +1,7 @@
 .version.musketeers /* version checker */
 {
-	color: #000016;
-	background-color: #554E88;
+	color: #0000EF;
+	background-color: #A6ECEA;
 }
 
 .html
@@ -234,6 +234,11 @@
 	left: 416px;
 }
 
+#u2970_img
+{
+	padding-right: 31px;
+}
+
 #pslideshowu3052
 {
 	width: 0.01px;
@@ -292,11 +297,6 @@
 	background-color: transparent;
 	margin-right: -10000px;
 	position: relative;
-}
-
-#u6632_img
-{
-	padding-right: 1px;
 }
 
 #u6647
@@ -466,8 +466,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
 	text-align: right;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -484,8 +484,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
 	text-align: right;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -502,8 +502,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
 	text-align: right;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -520,8 +520,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
 	text-align: right;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -538,8 +538,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
 	text-align: right;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -556,9 +556,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
-	font-size: 30px;
 	line-height: 42px;
+	font-size: 30px;
+	color: #999999;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
@@ -577,9 +577,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
-	font-size: 30px;
 	line-height: 42px;
+	font-size: 30px;
+	color: #999999;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 560px;
@@ -607,8 +607,8 @@
 	min-height: 301px;
 	background-color: transparent;
 	padding: 15px;
-	font-size: 16px;
 	line-height: 24px;
+	font-size: 16px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -759,8 +759,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -777,8 +777,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -795,9 +795,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
-	font-size: 30px;
 	line-height: 42px;
+	font-size: 30px;
+	color: #999999;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 320px;
@@ -817,9 +817,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
-	font-size: 30px;
 	line-height: 42px;
+	font-size: 30px;
+	color: #999999;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 880px;
@@ -835,8 +835,8 @@
 	z-index: 160;
 	width: 305px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 24px;
+	font-size: 16px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;

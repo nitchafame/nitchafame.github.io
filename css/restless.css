@@ -1,7 +1,7 @@
 .version.restless /* version checker */
 {
-	color: #000018;
-	background-color: #1A1024;
+	color: #0000F3;
+	background-color: #B69967;
 }
 
 .html
@@ -219,8 +219,8 @@
 	width: 480px;
 	min-height: 234px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 24px;
+	font-size: 16px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -303,6 +303,7 @@
 #u2476_img
 {
 	padding-top: 73px;
+	padding-right: 1px;
 	padding-bottom: 72px;
 }
 
@@ -321,7 +322,8 @@
 #u2491_img
 {
 	padding-top: 67px;
-	padding-bottom: 66px;
+	padding-right: 1px;
+	padding-bottom: 67px;
 }
 
 #u2506
@@ -357,7 +359,8 @@
 #u2521_img
 {
 	padding-top: 43px;
-	padding-bottom: 42px;
+	padding-right: 1px;
+	padding-bottom: 43px;
 }
 
 #u2536
@@ -411,6 +414,7 @@
 #u2566_img
 {
 	padding-top: 207px;
+	padding-right: 1px;
 	padding-bottom: 206px;
 }
 
@@ -447,7 +451,7 @@
 #u2603_img
 {
 	padding-top: 204px;
-	padding-bottom: 204px;
+	padding-bottom: 205px;
 }
 
 #u2352
@@ -665,8 +669,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	font-size: 48px;
 	line-height: 67px;
+	font-size: 48px;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
@@ -690,9 +694,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
-	font-size: 48px;
 	line-height: 67px;
+	font-size: 48px;
+	color: #999999;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 561px;

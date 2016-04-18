@@ -1,7 +1,7 @@
 .version.disturbingmuses /* version checker */
 {
-	color: #000005;
-	background-color: #6315E2;
+	color: #0000EC;
+	background-color: #CF6A91;
 }
 
 .html
@@ -13,12 +13,11 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 499.53667582417575px;
+	min-height: 500px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
 	background-color: #E2E2E2;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -170,7 +169,7 @@
 
 #u8409-5
 {
-	z-index: 112;
+	z-index: 164;
 	width: 282px;
 	min-height: 44px;
 	background-color: transparent;
@@ -383,13 +382,6 @@
 	left: 235px;
 }
 
-#u8280.SSSlideLinkSelected,#u8278.SSSlideLinkSelected,#u8284.SSSlideLinkSelected,#u8282.SSSlideLinkSelected
-{
-	border-style: none;
-	border-color: transparent;
-	margin: 4px -10000px 0px 0px;
-}
-
 #u8373
 {
 	z-index: 56;
@@ -446,8 +438,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -464,8 +456,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -482,8 +474,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -500,8 +492,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -518,8 +510,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -536,8 +528,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
 	line-height: 20px;
+	color: #999999;
 	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
@@ -554,9 +546,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
-	font-size: 30px;
 	line-height: 42px;
+	font-size: 30px;
+	color: #999999;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 328px;
@@ -576,9 +568,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
-	font-size: 30px;
 	line-height: 42px;
+	font-size: 30px;
+	color: #999999;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 888px;
@@ -601,7 +593,7 @@
 
 #u8407-11
 {
-	z-index: 101;
+	z-index: 153;
 	width: 362px;
 	min-height: 110px;
 	background-color: transparent;
@@ -627,7 +619,7 @@
 
 #u8408-9
 {
-	z-index: 117;
+	z-index: 169;
 	width: 280px;
 	min-height: 139px;
 	background-color: transparent;
@@ -668,12 +660,331 @@
 	min-height: 301px;
 	background-color: transparent;
 	padding: 15px;
-	font-size: 16px;
 	line-height: 24px;
+	font-size: 16px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-top: 7px;
 	position: relative;
+}
+
+#u9666-4
+{
+	z-index: 178;
+	width: 200px;
+	background-color: transparent;
+	line-height: 27px;
+	font-size: 18px;
+	font-family: quicksand, sans-serif;
+	font-weight: 400;
+	margin-top: 2px;
+	position: relative;
+}
+
+#slideshowu9544
+{
+	z-index: 101;
+	width: 0.01px;
+	height: 427px;
+	margin-top: 5px;
+	position: relative;
+}
+
+#u9565
+{
+	position: absolute;
+	width: 640px;
+	height: 427px;
+	background-color: transparent;
+}
+
+#u9565popup
+{
+	z-index: 102;
+}
+
+#u9636
+{
+	z-index: 103;
+	width: 640px;
+	height: 427px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u9606
+{
+	z-index: 105;
+	width: 640px;
+	height: 427px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u9606_img
+{
+	padding-right: 55px;
+	padding-bottom: 22px;
+}
+
+#u9621
+{
+	z-index: 107;
+	width: 640px;
+	height: 427px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u9636_img,#u9621_img
+{
+	padding-right: 54px;
+	padding-bottom: 22px;
+}
+
+#u9570
+{
+	z-index: 109;
+	width: 640px;
+	height: 427px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u9570_img
+{
+	padding-left: 1px;
+	padding-right: 55px;
+	padding-bottom: 28px;
+}
+
+#u9546
+{
+	position: absolute;
+	width: 320px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 76px;
+	left: 613px;
+}
+
+#u9546popup
+{
+	z-index: 111;
+}
+
+#u9639
+{
+	z-index: 112;
+	width: 68px;
+	height: 45px;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 9px;
+}
+
+#u9609
+{
+	z-index: 114;
+	width: 68px;
+	height: 45px;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 87px;
+}
+
+#u9624
+{
+	z-index: 116;
+	width: 68px;
+	height: 45px;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 165px;
+}
+
+#u9639_clip,#u9609_clip,#u9624_clip
+{
+	overflow: hidden;
+	width: 68px;
+	height: 45px;
+}
+
+#u9639_img,#u9609_img,#u9624_img
+{
+	margin-top: -1px;
+	margin-bottom: -1px;
+}
+
+#u9557
+{
+	z-index: 118;
+	width: 68px;
+	height: 45px;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 243px;
+}
+
+#u8280.SSSlideLinkSelected,#u8278.SSSlideLinkSelected,#u8284.SSSlideLinkSelected,#u8282.SSSlideLinkSelected,#u9639.SSSlideLinkSelected,#u9609.SSSlideLinkSelected,#u9624.SSSlideLinkSelected,#u9557.SSSlideLinkSelected
+{
+	border-style: none;
+	border-color: transparent;
+	margin: 4px -10000px 0px 0px;
+}
+
+#u9578
+{
+	position: absolute;
+	width: 355px;
+	background-color: transparent;
+	top: 331px;
+	left: 605px;
+}
+
+#u9578popup
+{
+	z-index: 120;
+}
+
+#u9642-4
+{
+	z-index: 121;
+	width: 335px;
+	min-height: 40px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding: 10px;
+	line-height: 20px;
+	color: #999999;
+	text-align: left;
+	font-family: quicksand, sans-serif;
+	font-weight: 400;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u9612-4
+{
+	z-index: 125;
+	width: 335px;
+	min-height: 40px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding: 10px;
+	line-height: 20px;
+	color: #999999;
+	text-align: left;
+	font-family: quicksand, sans-serif;
+	font-weight: 400;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u9627-4
+{
+	z-index: 129;
+	width: 335px;
+	min-height: 40px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding: 10px;
+	line-height: 20px;
+	color: #999999;
+	text-align: left;
+	font-family: quicksand, sans-serif;
+	font-weight: 400;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u9580-4
+{
+	z-index: 133;
+	width: 335px;
+	min-height: 40px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding: 10px;
+	line-height: 20px;
+	color: #999999;
+	text-align: left;
+	font-family: quicksand, sans-serif;
+	font-weight: 400;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u9564-8
+{
+	position: absolute;
+	width: 60px;
+	min-height: 378px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding: 10px;
+	line-height: 42px;
+	font-size: 30px;
+	color: #999999;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+}
+
+#u9564-8popup
+{
+	z-index: 137;
+}
+
+#u9559-8
+{
+	position: absolute;
+	width: 60px;
+	min-height: 378px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding: 10px;
+	line-height: 42px;
+	font-size: 30px;
+	color: #999999;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	left: 505px;
+}
+
+#u9559-8popup
+{
+	z-index: 145;
 }
 
 body

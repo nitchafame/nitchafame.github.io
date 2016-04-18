@@ -1,7 +1,7 @@
 .version.grienday /* version checker */
 {
-	color: #000012;
-	background-color: #2B4F95;
+	color: #00000E;
+	background-color: #FCF772;
 }
 
 .html
@@ -163,6 +163,7 @@
 {
 	padding-left: 164px;
 	padding-right: 164px;
+	padding-bottom: 1px;
 }
 
 #u7506
@@ -328,9 +329,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
-	font-size: 30px;
 	line-height: 42px;
+	font-size: 30px;
+	color: #999999;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 45px;
@@ -350,9 +351,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
-	font-size: 30px;
 	line-height: 42px;
+	font-size: 30px;
+	color: #999999;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 41px;
