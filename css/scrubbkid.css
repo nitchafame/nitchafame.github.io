@@ -1,7 +1,7 @@
 .version.scrubbkid /* version checker */
 {
-	color: #000007;
-	background-color: #8D1DBA;
+	color: #000010;
+	background-color: #D3D544;
 }
 
 .html
@@ -27,6 +27,7 @@
 {
 	padding-top: 23px;
 	padding-bottom: 62px;
+	width: 0.01px;
 }
 
 #u281
@@ -57,6 +58,16 @@
 	padding-top: 1px;
 	padding-bottom: 1px;
 	min-height: 11px;
+	width: 37px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u153-4:active
+{
+	padding-top: 1px;
+	padding-bottom: 1px;
+	min-height: 11px;
+	width: 37px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -70,11 +81,21 @@
 	left: 52px;
 }
 
-#u153-4:active,#u7869-4:hover
+#u7869-4:hover
 {
 	padding-top: 1px;
 	padding-bottom: 1px;
 	min-height: 11px;
+	width: 69px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u7869-4:active
+{
+	padding-top: 1px;
+	padding-bottom: 1px;
+	min-height: 11px;
+	width: 69px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -94,6 +115,7 @@
 	padding-top: 1px;
 	padding-bottom: 1px;
 	min-height: 11px;
+	width: 38px;
 	margin: 1px -10000px 0px 0px;
 }
 
@@ -102,6 +124,7 @@
 	padding-top: 1px;
 	padding-bottom: 1px;
 	min-height: 11px;
+	width: 38px;
 	margin: 1px -10000px 0px 0px;
 }
 
@@ -115,11 +138,12 @@
 	left: 188px;
 }
 
-#u7869-4:active,#u154-4:hover
+#u154-4:hover
 {
 	padding-top: 1px;
 	padding-bottom: 1px;
 	min-height: 11px;
+	width: 57px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -128,6 +152,7 @@
 	padding-top: 1px;
 	padding-bottom: 1px;
 	min-height: 11px;
+	width: 57px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -173,7 +198,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 464px;
-	background: transparent url("../images/draw_saliva-cry-u2082-fr.jpg") no-repeat center top;
+	background: transparent url("../images/draw_saliva-cry.jpg") no-repeat center top;
 	background-size: cover;
 }
 
@@ -188,7 +213,7 @@
 	margin-right: -10000px;
 	margin-top: 464px;
 	left: 480px;
-	background: transparent url("../images/draw-u2083-fr.jpg") no-repeat center center;
+	background: transparent url("../images/draw.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -275,8 +300,8 @@
 	width: 480px;
 	min-height: 269px;
 	background-color: transparent;
-	line-height: 24px;
 	font-size: 16px;
+	line-height: 24px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -494,6 +519,9 @@
 {
 	border-style: none;
 	border-color: transparent;
+	width: 73px;
+	height: 75px;
+	min-height: 0px;
 	margin: 4px -10000px 0px 0px;
 }
 
@@ -540,6 +568,9 @@
 {
 	border-style: none;
 	border-color: transparent;
+	width: 73px;
+	height: 75px;
+	min-height: 0px;
 	margin: 89px -10000px 0px 0px;
 }
 
@@ -578,6 +609,9 @@
 {
 	border-style: none;
 	border-color: transparent;
+	width: 73px;
+	height: 75px;
+	min-height: 0px;
 	margin: 174px -10000px 0px 0px;
 }
 
@@ -604,9 +638,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
 	text-align: left;
+	line-height: 20px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -622,9 +656,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
 	text-align: left;
+	line-height: 20px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -640,9 +674,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
 	text-align: left;
+	line-height: 20px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -658,9 +692,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
 	text-align: left;
+	line-height: 20px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -676,9 +710,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
 	text-align: left;
+	line-height: 20px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -694,9 +728,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
 	text-align: left;
+	line-height: 20px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -712,9 +746,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
 	text-align: left;
+	line-height: 20px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -730,9 +764,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
 	text-align: left;
+	line-height: 20px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -748,10 +782,10 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 42px;
-	font-size: 30px;
 	color: #999999;
 	text-align: center;
+	font-size: 30px;
+	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 4px;
 }
@@ -770,10 +804,10 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 42px;
-	font-size: 30px;
 	color: #999999;
 	text-align: center;
+	font-size: 30px;
+	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 561px;
 }

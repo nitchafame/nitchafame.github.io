@@ -1,7 +1,7 @@
 .version.lonelylego /* version checker */
 {
-	color: #00000D;
-	background-color: #998BE0;
+	color: #000005;
+	background-color: #6AF271;
 }
 
 .html
@@ -26,6 +26,7 @@
 {
 	padding-top: 23px;
 	padding-bottom: 62px;
+	width: 0.01px;
 }
 
 #u281
@@ -56,6 +57,16 @@
 	padding-top: 1px;
 	padding-bottom: 1px;
 	min-height: 11px;
+	width: 37px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u153-4:active
+{
+	padding-top: 1px;
+	padding-bottom: 1px;
+	min-height: 11px;
+	width: 37px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -69,11 +80,21 @@
 	left: 52px;
 }
 
-#u153-4:active,#u7869-4:hover
+#u7869-4:hover
 {
 	padding-top: 1px;
 	padding-bottom: 1px;
 	min-height: 11px;
+	width: 69px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u7869-4:active
+{
+	padding-top: 1px;
+	padding-bottom: 1px;
+	min-height: 11px;
+	width: 69px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -93,6 +114,7 @@
 	padding-top: 1px;
 	padding-bottom: 1px;
 	min-height: 11px;
+	width: 38px;
 	margin: 1px -10000px 0px 0px;
 }
 
@@ -101,6 +123,7 @@
 	padding-top: 1px;
 	padding-bottom: 1px;
 	min-height: 11px;
+	width: 38px;
 	margin: 1px -10000px 0px 0px;
 }
 
@@ -114,11 +137,12 @@
 	left: 188px;
 }
 
-#u7869-4:active,#u154-4:hover
+#u154-4:hover
 {
 	padding-top: 1px;
 	padding-bottom: 1px;
 	min-height: 11px;
+	width: 57px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -127,6 +151,7 @@
 	padding-top: 1px;
 	padding-bottom: 1px;
 	min-height: 11px;
+	width: 57px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -220,8 +245,8 @@
 	width: 480px;
 	min-height: 267px;
 	background-color: transparent;
-	line-height: 24px;
 	font-size: 16px;
+	line-height: 24px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -251,15 +276,18 @@
 	border-style: none;
 	border-color: transparent;
 	position: relative;
-	background: #66C89F url("../images/screenshot%202013-12-15%20032254-u2102-fr.jpg") no-repeat center bottom;
+	background: #66C89F url("../images/screenshot%202013-12-15%20032254.jpg") no-repeat center bottom;
 	background-size: cover;
 }
 
 #u2102:hover
 {
+	width: 320px;
+	height: 160px;
+	min-height: 0px;
 	margin: 0px;
 	background: #D1EEE2 url("../images/screenshot%202013-12-15%20032254-u2102-r-fr.png") no-repeat center bottom;
-	background-color: rgba(102, 200, 159, 0.3);
+	background-color: rgba(102,200,159,0.3);
 	background-size: cover;
 }
 
@@ -271,15 +299,18 @@
 	border-style: none;
 	border-color: transparent;
 	position: relative;
-	background: #66C89F url("../images/screenshot%202013-12-15%20032239-u2103-fr.jpg") no-repeat center bottom;
+	background: #66C89F url("../images/screenshot%202013-12-15%20032239.jpg") no-repeat center bottom;
 	background-size: cover;
 }
 
 #u2103:hover
 {
+	width: 320px;
+	height: 160px;
+	min-height: 0px;
 	margin: 0px;
 	background: #D1EEE2 url("../images/screenshot%202013-12-15%20032239-u2103-r-fr.png") no-repeat center bottom;
-	background-color: rgba(102, 200, 159, 0.3);
+	background-color: rgba(102,200,159,0.3);
 	background-size: cover;
 }
 
@@ -292,15 +323,18 @@
 	border-color: transparent;
 	margin-top: 4px;
 	position: relative;
-	background: #66C89F url("../images/screenshot%202013-12-15%20032220-u2176-fr.jpg") no-repeat center center;
+	background: #66C89F url("../images/screenshot%202013-12-15%20032220.jpg") no-repeat center center;
 	background-size: cover;
 }
 
 #u2176:hover
 {
+	width: 320px;
+	height: 160px;
+	min-height: 0px;
 	margin: 4px 0px 0px;
 	background: #D1EEE2 url("../images/screenshot%202013-12-15%20032220-u2176-r-fr.png") no-repeat center center;
-	background-color: rgba(102, 200, 159, 0.3);
+	background-color: rgba(102,200,159,0.3);
 	background-size: cover;
 }
 
@@ -353,7 +387,7 @@
 #u2143_img
 {
 	padding-left: 15px;
-	padding-right: 15px;
+	padding-right: 14px;
 }
 
 #u2266
@@ -407,7 +441,6 @@
 #u2237_img
 {
 	padding-top: 125px;
-	padding-right: 1px;
 	padding-bottom: 125px;
 }
 
@@ -538,6 +571,9 @@
 {
 	border-style: none;
 	border-color: transparent;
+	width: 60px;
+	height: 45px;
+	min-height: 0px;
 	margin: 4px -10000px 0px 0px;
 }
 
@@ -584,6 +620,9 @@
 {
 	border-style: none;
 	border-color: transparent;
+	width: 60px;
+	height: 45px;
+	min-height: 0px;
 	margin: 59px -10000px 0px 0px;
 }
 
@@ -623,9 +662,9 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
 	text-align: left;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -640,9 +679,9 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
 	text-align: left;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -657,9 +696,9 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
 	text-align: left;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -674,9 +713,9 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
 	text-align: left;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -691,9 +730,9 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
 	text-align: left;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -708,9 +747,9 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
 	text-align: left;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -725,9 +764,9 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
 	text-align: left;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -742,8 +781,8 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 10px;
-	line-height: 20px;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 608px;
 }
@@ -767,9 +806,9 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 10px;
-	line-height: 20px;
 	color: #999999;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 608px;
 	left: 610px;

@@ -1,7 +1,7 @@
 .version.teefox /* version checker */
 {
-	color: #00001C;
-	background-color: #7AC1C4;
+	color: #000010;
+	background-color: #1C7BF4;
 }
 
 .html
@@ -26,6 +26,7 @@
 {
 	padding-top: 23px;
 	padding-bottom: 62px;
+	width: 0.01px;
 }
 
 #u281
@@ -56,6 +57,16 @@
 	padding-top: 1px;
 	padding-bottom: 1px;
 	min-height: 11px;
+	width: 37px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u153-4:active
+{
+	padding-top: 1px;
+	padding-bottom: 1px;
+	min-height: 11px;
+	width: 37px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -69,11 +80,21 @@
 	left: 52px;
 }
 
-#u153-4:active,#u7869-4:hover
+#u7869-4:hover
 {
 	padding-top: 1px;
 	padding-bottom: 1px;
 	min-height: 11px;
+	width: 69px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u7869-4:active
+{
+	padding-top: 1px;
+	padding-bottom: 1px;
+	min-height: 11px;
+	width: 69px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -93,6 +114,7 @@
 	padding-top: 1px;
 	padding-bottom: 1px;
 	min-height: 11px;
+	width: 38px;
 	margin: 1px -10000px 0px 0px;
 }
 
@@ -101,6 +123,7 @@
 	padding-top: 1px;
 	padding-bottom: 1px;
 	min-height: 11px;
+	width: 38px;
 	margin: 1px -10000px 0px 0px;
 }
 
@@ -114,11 +137,12 @@
 	left: 188px;
 }
 
-#u7869-4:active,#u154-4:hover
+#u154-4:hover
 {
 	padding-top: 1px;
 	padding-bottom: 1px;
 	min-height: 11px;
+	width: 57px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -127,6 +151,7 @@
 	padding-top: 1px;
 	padding-bottom: 1px;
 	min-height: 11px;
+	width: 57px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -157,7 +182,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 263px;
-	background: #FFFFFF url("../images/tee2012_1fox_goodday-u7128-fr.jpg") no-repeat center center;
+	background: #FFFFFF url("../images/tee2012_1fox_goodday.jpg") no-repeat center center;
 	background-size: contain;
 }
 
@@ -171,7 +196,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 663px;
-	background: #FFFFFF url("../images/tee2012_2fox_summerday-u7135-fr.jpg") no-repeat center center;
+	background: #FFFFFF url("../images/tee2012_2fox_summerday.jpg") no-repeat center center;
 	background-size: contain;
 }
 

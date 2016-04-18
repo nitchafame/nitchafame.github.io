@@ -1,7 +1,7 @@
 .version.comingsoon /* version checker */
 {
-	color: #0000E4;
-	background-color: #C40D42;
+	color: #0000E5;
+	background-color: #047F64;
 }
 
 .html
@@ -130,10 +130,10 @@
 	z-index: 28;
 	width: 200px;
 	background-color: transparent;
-	line-height: 16px;
-	font-size: 16px;
 	letter-spacing: 3px;
 	text-align: center;
+	font-size: 16px;
+	line-height: 16px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 414px;

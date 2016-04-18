@@ -1,7 +1,7 @@
 .version._60miles /* version checker */
 {
-	color: #0000FE;
-	background-color: #8B310F;
+	color: #000016;
+	background-color: #0C1341;
 }
 
 .html
@@ -27,6 +27,7 @@
 {
 	padding-top: 23px;
 	padding-bottom: 62px;
+	width: 0.01px;
 }
 
 #u281
@@ -57,6 +58,16 @@
 	padding-top: 1px;
 	padding-bottom: 1px;
 	min-height: 11px;
+	width: 37px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u153-4:active
+{
+	padding-top: 1px;
+	padding-bottom: 1px;
+	min-height: 11px;
+	width: 37px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -70,11 +81,21 @@
 	left: 52px;
 }
 
-#u153-4:active,#u7869-4:hover
+#u7869-4:hover
 {
 	padding-top: 1px;
 	padding-bottom: 1px;
 	min-height: 11px;
+	width: 69px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u7869-4:active
+{
+	padding-top: 1px;
+	padding-bottom: 1px;
+	min-height: 11px;
+	width: 69px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -94,6 +115,7 @@
 	padding-top: 1px;
 	padding-bottom: 1px;
 	min-height: 11px;
+	width: 38px;
 	margin: 1px -10000px 0px 0px;
 }
 
@@ -102,6 +124,7 @@
 	padding-top: 1px;
 	padding-bottom: 1px;
 	min-height: 11px;
+	width: 38px;
 	margin: 1px -10000px 0px 0px;
 }
 
@@ -115,11 +138,12 @@
 	left: 188px;
 }
 
-#u7869-4:active,#u154-4:hover
+#u154-4:hover
 {
 	padding-top: 1px;
 	padding-bottom: 1px;
 	min-height: 11px;
+	width: 57px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -128,6 +152,7 @@
 	padding-top: 1px;
 	padding-bottom: 1px;
 	min-height: 11px;
+	width: 57px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -145,7 +170,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 7px;
-	background: transparent url("../images/1_60_sjc_poster_merge%202-u7195-fr.jpg") no-repeat center center;
+	background: transparent url("../images/1_60_sjc_poster_merge%202.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -232,8 +257,8 @@
 	min-height: 301px;
 	background-color: transparent;
 	padding: 15px;
-	line-height: 24px;
 	font-size: 16px;
+	line-height: 24px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -277,12 +302,6 @@
 	position: relative;
 }
 
-#u7201_img
-{
-	padding-left: 1px;
-	padding-right: 2px;
-}
-
 #u7290
 {
 	z-index: 61;
@@ -319,7 +338,7 @@
 	position: relative;
 }
 
-#u7290_img,#u7305_img,#u7320_img
+#u7201_img,#u7290_img,#u7305_img,#u7320_img
 {
 	padding-left: 1px;
 	padding-right: 1px;
@@ -469,6 +488,9 @@
 {
 	border-style: none;
 	border-color: transparent;
+	width: 60px;
+	height: 45px;
+	min-height: 0px;
 	margin: 4px -10000px 0px 0px;
 }
 
@@ -540,6 +562,9 @@
 {
 	border-style: none;
 	border-color: transparent;
+	width: 60px;
+	height: 45px;
+	min-height: 0px;
 	margin: 59px -10000px 0px 0px;
 }
 
@@ -565,10 +590,10 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 42px;
-	font-size: 30px;
 	color: #999999;
 	text-align: center;
+	font-size: 30px;
+	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 328px;
 }
@@ -587,10 +612,10 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 42px;
-	font-size: 30px;
 	color: #999999;
 	text-align: center;
+	font-size: 30px;
+	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 888px;
 }
