@@ -1,7 +1,7 @@
 .version.comingsoon /* version checker */
 {
-	color: #00000E;
-	background-color: #D3618E;
+	color: #000001;
+	background-color: #6D46BD;
 }
 
 .html
@@ -160,6 +160,17 @@
 	color: #4A4142;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
+}
+
+#u15235
+{
+	z-index: 59;
+	width: 46px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 100px;
+	left: 287px;
 }
 
 #pu11928

@@ -1,7 +1,7 @@
 .version.reel /* version checker */
 {
-	color: #00001B;
-	background-color: #E4A0FF;
+	color: #000011;
+	background-color: #76875A;
 }
 
 .html
@@ -13,14 +13,14 @@
 {
 	z-index: 1;
 	width: 800px;
-	min-height: 414.57417582417634px;
+	min-height: 415px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
 	background-color: #E2E2E2;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 23px 80px 62.425824175823664px;
+	padding: 23px 80px 62px;
 }
 
 #u281
@@ -157,7 +157,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-top: 70px;
+	margin-top: 95px;
 	position: relative;
 }
 
@@ -326,6 +326,20 @@
 	width: 17px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
+}
+
+#u15518-4
+{
+	z-index: 36;
+	width: 286px;
+	background-color: transparent;
+	line-height: 13px;
+	font-size: 11px;
+	font-family: quicksand, sans-serif;
+	font-weight: 300;
+	margin-left: 257px;
+	margin-top: 32px;
+	position: relative;
 }
 
 body

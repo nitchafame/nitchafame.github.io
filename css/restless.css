@@ -1,7 +1,7 @@
 .version.restless /* version checker */
 {
-	color: #0000E0;
-	background-color: #E6B35C;
+	color: #000010;
+	background-color: #7A6FF8;
 }
 
 .html
@@ -160,7 +160,7 @@
 {
 	width: 0.01px;
 	margin-left: -1px;
-	margin-top: 70px;
+	margin-top: 95px;
 }
 
 #u2349
@@ -238,8 +238,8 @@
 	width: 480px;
 	min-height: 234px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 24px;
+	font-size: 16px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;

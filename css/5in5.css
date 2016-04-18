@@ -1,7 +1,7 @@
 .version._5in5 /* version checker */
 {
-	color: #0000F4;
-	background-color: #DFDAB3;
+	color: #0000EE;
+	background-color: #326EF1;
 }
 
 .html
@@ -162,7 +162,7 @@
 	min-height: 110px;
 	background-color: transparent;
 	padding-left: 15px;
-	margin-top: 70px;
+	margin-top: 95px;
 	position: relative;
 }
 
@@ -194,8 +194,8 @@
 	min-height: 148px;
 	background-color: transparent;
 	padding: 15px;
-	font-size: 16px;
 	line-height: 24px;
+	font-size: 16px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-left: 1px;
@@ -448,9 +448,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
 	text-align: left;
 	line-height: 20px;
+	color: #999999;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;

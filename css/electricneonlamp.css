@@ -1,7 +1,7 @@
 .version.electricneonlamp /* version checker */
 {
-	color: #00000E;
-	background-color: #847B9F;
+	color: #000013;
+	background-color: #8B4EFD;
 }
 
 .html
@@ -154,7 +154,7 @@
 	z-index: 30;
 	width: 0.01px;
 	height: 580px;
-	margin-top: 69px;
+	margin-top: 94px;
 	position: relative;
 }
 

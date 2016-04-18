@@ -1,7 +1,7 @@
 .version.redriding /* version checker */
 {
-	color: #0000F7;
-	background-color: #8C4AF6;
+	color: #0000EB;
+	background-color: #1FF1FF;
 }
 
 .html
@@ -159,7 +159,7 @@
 {
 	width: 0.01px;
 	margin-left: -183px;
-	margin-top: 70px;
+	margin-top: 95px;
 }
 
 #u4016-3
@@ -229,8 +229,8 @@
 	width: 480px;
 	min-height: 224px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 24px;
+	font-size: 16px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-top: 19px;
@@ -403,9 +403,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
 	text-align: left;
 	line-height: 20px;
+	color: #999999;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -421,9 +421,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
 	text-align: left;
 	line-height: 20px;
+	color: #999999;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -439,9 +439,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
 	text-align: left;
 	line-height: 20px;
+	color: #999999;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -508,8 +508,8 @@
 	z-index: 85;
 	width: 200px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	top: -649px;

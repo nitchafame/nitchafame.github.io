@@ -1,7 +1,7 @@
 .version.bootcampcode /* version checker */
 {
-	color: #0000F2;
-	background-color: #8D7124;
+	color: #0000FB;
+	background-color: #32F715;
 }
 
 .html
@@ -154,7 +154,7 @@
 	z-index: 20;
 	width: 550px;
 	background-color: transparent;
-	margin-top: 70px;
+	margin-top: 95px;
 	position: relative;
 }
 
@@ -165,8 +165,8 @@
 	min-height: 79px;
 	background-color: transparent;
 	padding: 15px;
-	font-size: 16px;
 	line-height: 24px;
+	font-size: 16px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-top: 26px;

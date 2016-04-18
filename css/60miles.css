@@ -1,7 +1,7 @@
 .version._60miles /* version checker */
 {
-	color: #000003;
-	background-color: #95E71B;
+	color: #0000E7;
+	background-color: #57F4AD;
 }
 
 .html
@@ -158,7 +158,7 @@
 #pu7195
 {
 	width: 0.01px;
-	margin-top: 65px;
+	margin-top: 90px;
 }
 
 #u7195
@@ -256,8 +256,8 @@
 	min-height: 301px;
 	background-color: transparent;
 	padding: 15px;
-	font-size: 16px;
 	line-height: 24px;
+	font-size: 16px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;

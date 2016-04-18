@@ -1,7 +1,7 @@
 .version.about /* version checker */
 {
-	color: #0000ED;
-	background-color: #F6F49F;
+	color: #0000E3;
+	background-color: #8F3EEC;
 }
 
 .html
@@ -12,17 +12,15 @@
 #page
 {
 	z-index: 1;
-	width: 920px;
-	min-height: 1171.8991758241764px;
+	width: 880px;
+	min-height: 1043.6491758241762px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
 	background-color: #E2E2E2;
-	padding-left: 40px;
-	padding-top: 23px;
-	padding-bottom: 195.10082417582362px;
 	margin-left: auto;
 	margin-right: auto;
+	padding: 23px 40px 323.35082417582385px;
 }
 
 #u281
@@ -154,7 +152,7 @@
 #pu7817-7
 {
 	width: 0.01px;
-	margin-top: 125px;
+	margin-top: 150px;
 }
 
 #u7817-7
@@ -163,8 +161,8 @@
 	width: 480px;
 	background-color: transparent;
 	color: #000000;
-	font-size: 17px;
 	line-height: 30px;
+	font-size: 17px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -181,11 +179,21 @@
 	left: 520px;
 }
 
+#u15238
+{
+	z-index: 48;
+	width: 46px;
+	background-color: transparent;
+	margin-left: 832px;
+	margin-top: 16px;
+	position: relative;
+}
+
 #pu11576
 {
 	width: 0.01px;
-	margin-left: 74px;
-	margin-top: 97px;
+	margin-left: 77px;
+	margin-top: 12px;
 }
 
 #u11576
@@ -203,31 +211,21 @@
 	width: 480px;
 	background-color: transparent;
 	color: #000000;
-	font-size: 17px;
 	line-height: 30px;
+	font-size: 17px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 42px;
-	left: 366px;
-}
-
-#u13177
-{
-	z-index: 48;
-	width: 46px;
-	background-color: transparent;
-	margin-left: 857px;
-	margin-top: 77px;
-	position: relative;
+	margin-top: 54px;
+	left: 323px;
 }
 
 #pu12721
 {
 	width: 0.01px;
-	margin-left: 305px;
-	margin-top: 72px;
+	margin-left: 345px;
+	margin-top: 65px;
 }
 
 #u12721

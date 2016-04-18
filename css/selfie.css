@@ -1,7 +1,7 @@
 .version.selfie /* version checker */
 {
-	color: #000004;
-	background-color: #EFB445;
+	color: #0000E2;
+	background-color: #5656DF;
 }
 
 .html
@@ -159,7 +159,7 @@
 #pu10617-10
 {
 	width: 0.01px;
-	margin-top: 70px;
+	margin-top: 95px;
 }
 
 #u10617-10
@@ -243,8 +243,8 @@
 	width: 480px;
 	min-height: 260px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 24px;
+	font-size: 16px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;

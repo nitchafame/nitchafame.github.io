@@ -1,7 +1,7 @@
 .version.unitylab /* version checker */
 {
-	color: #0000FF;
-	background-color: #9FA1F6;
+	color: #0000E0;
+	background-color: #BA4A25;
 }
 
 .html
@@ -152,7 +152,7 @@
 #pu10853
 {
 	width: 0.01px;
-	margin-top: 70px;
+	margin-top: 95px;
 }
 
 #u10853
@@ -172,8 +172,8 @@
 	width: 640px;
 	min-height: 173px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 24px;
+	font-size: 16px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -192,8 +192,8 @@
 	width: 313px;
 	min-height: 185px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 24px;
+	font-size: 16px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -251,8 +251,8 @@
 	width: 120px;
 	min-height: 42px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 24px;
+	font-size: 16px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-left: 268px;

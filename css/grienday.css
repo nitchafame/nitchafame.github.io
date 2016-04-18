@@ -1,7 +1,7 @@
 .version.grienday /* version checker */
 {
-	color: #000001;
-	background-color: #CBF0C8;
+	color: #0000E9;
+	background-color: #51C8A9;
 }
 
 .html
@@ -154,7 +154,7 @@
 	z-index: 30;
 	width: 0.01px;
 	height: 580px;
-	margin-top: 69px;
+	margin-top: 94px;
 	position: relative;
 }
 

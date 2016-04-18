@@ -1,7 +1,7 @@
 .version.balancingsound /* version checker */
 {
-	color: #000014;
-	background-color: #F78C04;
+	color: #0000EB;
+	background-color: #979663;
 }
 
 .html
@@ -158,7 +158,7 @@
 #pu11350
 {
 	width: 0.01px;
-	margin-top: 70px;
+	margin-top: 95px;
 }
 
 #u11350
@@ -181,8 +181,8 @@
 	min-height: 301px;
 	background-color: transparent;
 	padding: 15px;
-	font-size: 16px;
 	line-height: 24px;
+	font-size: 16px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -282,8 +282,8 @@
 	z-index: 52;
 	width: 200px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
