@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000013;
-	background-color: #2D5F64;
+	color: #000003;
+	background-color: #1D4565;
 }
 
 .html
@@ -507,9 +507,9 @@
 	border-color: transparent;
 	background-color: #E2E2E2;
 	padding: 1px;
-	text-align: center;
-	line-height: 14px;
 	color: #000000;
+	line-height: 14px;
+	text-align: center;
 	font-style: italic;
 	position: relative;
 	margin-right: -10000px;
@@ -561,9 +561,9 @@
 	border-color: transparent;
 	background-color: #E2E2E2;
 	padding: 1px;
+	color: #000000;
 	text-align: center;
 	line-height: 14px;
-	color: #000000;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 90px;
@@ -727,8 +727,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 95px;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	position: relative;
 	margin-right: -10000px;
 	-pie-background: rgba(0,0,0,0.4);
@@ -783,8 +783,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 95px;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	position: relative;
 	margin-right: -10000px;
 	-pie-background: rgba(0,0,0,0.4);
@@ -874,8 +874,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 95px;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	position: relative;
 	margin-right: -10000px;
 	-pie-background: rgba(0,0,0,0.4);
@@ -935,8 +935,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 95px;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	position: relative;
 	margin-right: -10000px;
 	-pie-background: rgba(0,0,0,0.4);
@@ -1056,8 +1056,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 64px;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1157,8 +1157,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 64px;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1191,8 +1191,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 64px;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1239,8 +1239,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 95px;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 447px;
@@ -1322,8 +1322,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 95px;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	position: relative;
 	margin-right: -10000px;
 	-pie-background: rgba(0,0,0,0.4);
@@ -1392,8 +1392,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 95px;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	position: relative;
 	margin-right: -10000px;
 	-pie-background: rgba(0,0,0,0.4);
@@ -1454,8 +1454,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 95px;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	position: relative;
 	margin-right: -10000px;
 	left: 480px;
@@ -1516,9 +1516,9 @@
 	filter: alpha(opacity=0);
 	padding-top: 60px;
 	color: #FFFFFF;
+	line-height: 36px;
 	text-align: center;
 	font-size: 30px;
-	line-height: 36px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1685,8 +1685,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 64px;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1743,8 +1743,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 95px;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 4px;
@@ -1825,8 +1825,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 64px;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1995,8 +1995,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 70px;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -2052,8 +2052,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 70px;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -2109,8 +2109,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 70px;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -2166,8 +2166,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 70px;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -2229,8 +2229,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 70px;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -2314,8 +2314,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 95px;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	position: relative;
 	margin-right: -10000px;
 	-pie-background: rgba(0,0,0,0.4);
@@ -2418,8 +2418,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 70px;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -2499,8 +2499,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 70px;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -2576,8 +2576,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 70px;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -2653,11 +2653,11 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 60px;
-	line-height: 36px;
-	text-align: center;
 	color: #FFFFFF;
-	font-size: 30px;
+	text-align: center;
 	letter-spacing: 5px;
+	line-height: 36px;
+	font-size: 30px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -2731,9 +2731,9 @@
 	filter: alpha(opacity=0);
 	padding-top: 70px;
 	color: #FFFFFF;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;

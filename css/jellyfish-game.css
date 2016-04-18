@@ -1,7 +1,7 @@
 .version.jellyfish_game /* version checker */
 {
-	color: #000018;
-	background-color: #C3310C;
+	color: #000016;
+	background-color: #B6BC1B;
 }
 
 .html
@@ -499,9 +499,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	text-align: left;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
+	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -517,9 +517,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	text-align: left;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
+	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -535,9 +535,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	text-align: left;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
+	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -553,9 +553,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	text-align: left;
-	line-height: 20px;
 	color: #999999;
+	line-height: 20px;
+	text-align: left;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -572,9 +572,9 @@
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
+	line-height: 42px;
 	text-align: center;
 	font-size: 30px;
-	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 59px;
 	left: 316px;
@@ -595,9 +595,9 @@
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
+	line-height: 42px;
 	text-align: center;
 	font-size: 30px;
-	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 59px;
 	left: 877px;

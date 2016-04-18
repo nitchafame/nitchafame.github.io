@@ -1,7 +1,7 @@
 .version._60miles /* version checker */
 {
-	color: #0000E7;
-	background-color: #57F4AD;
+	color: #0000E4;
+	background-color: #3F9C3A;
 }
 
 .html
@@ -590,9 +590,9 @@
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
+	line-height: 42px;
 	text-align: center;
 	font-size: 30px;
-	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 328px;
 }
@@ -612,9 +612,9 @@
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
+	line-height: 42px;
 	text-align: center;
 	font-size: 30px;
-	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 888px;
 }

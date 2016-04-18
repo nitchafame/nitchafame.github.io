@@ -1,7 +1,7 @@
 .version.pijika /* version checker */
 {
-	color: #00001B;
-	background-color: #779D39;
+	color: #0000E1;
+	background-color: #D6EECB;
 }
 
 .html
@@ -397,9 +397,9 @@
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
+	line-height: 42px;
 	text-align: center;
 	font-size: 30px;
-	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 31px;
 }
@@ -419,9 +419,9 @@
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
+	line-height: 42px;
 	text-align: center;
 	font-size: 30px;
-	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 31px;
 	left: 273px;

@@ -1,7 +1,7 @@
 .version.thesis /* version checker */
 {
-	color: #000001;
-	background-color: #12CEDF;
+	color: #00001D;
+	background-color: #FB6A73;
 }
 
 .html
@@ -854,9 +854,9 @@
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
+	line-height: 42px;
 	text-align: center;
 	font-size: 30px;
-	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
 
@@ -875,9 +875,9 @@
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
+	line-height: 42px;
 	text-align: center;
 	font-size: 30px;
-	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 250px;
 }

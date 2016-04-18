@@ -1,7 +1,7 @@
 .version.openpage_thesis /* version checker */
 {
-	color: #0000ED;
-	background-color: #846B54;
+	color: #000001;
+	background-color: #A4B332;
 }
 
 .html
@@ -324,9 +324,9 @@
 	border-color: transparent;
 	background-color: #E2E2E2;
 	padding: 1px;
-	text-align: center;
-	line-height: 14px;
 	color: #000000;
+	line-height: 14px;
+	text-align: center;
 	font-style: italic;
 	position: relative;
 	margin-right: -10000px;
@@ -378,9 +378,9 @@
 	border-color: transparent;
 	background-color: #E2E2E2;
 	padding: 1px;
+	color: #000000;
 	text-align: center;
 	line-height: 14px;
-	color: #000000;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 90px;

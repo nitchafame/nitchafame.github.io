@@ -1,7 +1,7 @@
 .version.restless /* version checker */
 {
-	color: #000010;
-	background-color: #7A6FF8;
+	color: #00001D;
+	background-color: #99F864;
 }
 
 .html
@@ -521,9 +521,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
+	line-height: 67px;
 	text-align: center;
 	font-size: 48px;
-	line-height: 67px;
 	left: 81px;
 }
 
@@ -547,9 +547,9 @@
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
+	line-height: 67px;
 	text-align: center;
 	font-size: 48px;
-	line-height: 67px;
 	left: 801px;
 }
 

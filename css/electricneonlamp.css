@@ -1,7 +1,7 @@
 .version.electricneonlamp /* version checker */
 {
-	color: #000013;
-	background-color: #8B4EFD;
+	color: #000000;
+	background-color: #7A1372;
 }
 
 .html
@@ -307,9 +307,9 @@
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
+	line-height: 42px;
 	text-align: center;
 	font-size: 30px;
-	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 45px;
 }
@@ -329,9 +329,9 @@
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
+	line-height: 42px;
 	text-align: center;
 	font-size: 30px;
-	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 41px;
 	left: 561px;

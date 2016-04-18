@@ -1,7 +1,7 @@
 .version.labs /* version checker */
 {
-	color: #0000F5;
-	background-color: #9A5930;
+	color: #0000E9;
+	background-color: #8C2ADD;
 }
 
 .html
@@ -346,8 +346,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 64px;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -393,8 +393,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 64px;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -466,8 +466,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 64px;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -500,8 +500,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 64px;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
