@@ -1,7 +1,7 @@
 .version._1081009 /* version checker */
 {
-	color: #0000E7;
-	background-color: #138354;
+	color: #000002;
+	background-color: #646D66;
 }
 
 .html
@@ -784,7 +784,8 @@
 #u4391_img
 {
 	margin-top: -16px;
-	margin-bottom: -17px;
+	margin-right: 1px;
+	margin-bottom: -16px;
 }
 
 #u4406

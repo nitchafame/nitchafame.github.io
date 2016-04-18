@@ -1,7 +1,7 @@
 .version.balancingsound /* version checker */
 {
-	color: #00001A;
-	background-color: #71196B;
+	color: #000014;
+	background-color: #F78C04;
 }
 
 .html
@@ -176,7 +176,7 @@
 
 #u11346-10
 {
-	z-index: 21;
+	z-index: 22;
 	width: 530px;
 	min-height: 301px;
 	background-color: transparent;
@@ -187,25 +187,25 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 472px;
+	margin-top: 497px;
 	left: 400px;
 }
 
 #u11347
 {
-	z-index: 31;
+	z-index: 32;
 	width: 434px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 485px;
+	margin-top: 510px;
 }
 
 #u11348-11
 {
-	z-index: 32;
+	z-index: 33;
 	width: 366px;
 	min-height: 205px;
 	background-color: transparent;
@@ -238,7 +238,7 @@
 
 #u11349-8
 {
-	z-index: 43;
+	z-index: 44;
 	width: 404px;
 	min-height: 200px;
 	background-color: transparent;
@@ -275,6 +275,34 @@
 {
 	font-family: quicksand, sans-serif;
 	font-weight: 300;
+}
+
+#u11431-4
+{
+	z-index: 52;
+	width: 200px;
+	background-color: transparent;
+	font-size: 18px;
+	line-height: 22px;
+	font-family: quicksand, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 949px;
+	left: 17px;
+}
+
+#u11429
+{
+	z-index: 21;
+	width: 960px;
+	min-height: 561px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 80px;
+	margin-top: 10px;
+	position: relative;
 }
 
 body

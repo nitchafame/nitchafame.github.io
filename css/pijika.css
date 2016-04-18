@@ -1,7 +1,7 @@
 .version.pijika /* version checker */
 {
-	color: #0000EC;
-	background-color: #8291BE;
+	color: #0000E9;
+	background-color: #6F1EBD;
 }
 
 .html
@@ -377,7 +377,7 @@
 
 #u6130_img
 {
-	padding: 94px 3px 93px;
+	padding: 94px 64px 93px 3px;
 }
 
 #u6144
@@ -489,6 +489,13 @@
 	left: 25px;
 }
 
+#u6133_img
+{
+	padding-top: 6px;
+	padding-right: 8px;
+	padding-bottom: 5px;
+}
+
 #u6147
 {
 	z-index: 113;
@@ -512,7 +519,7 @@
 	margin: 59px -10000px 0px 0px;
 }
 
-#u6120_img,#u6133_img,#u6147_img
+#u6120_img,#u6147_img
 {
 	padding-top: 6px;
 	padding-bottom: 5px;

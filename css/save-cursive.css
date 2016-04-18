@@ -1,7 +1,7 @@
 .version.save_cursive /* version checker */
 {
-	color: #0000E6;
-	background-color: #0E92B9;
+	color: #0000E8;
+	background-color: #206081;
 }
 
 .html
@@ -152,7 +152,7 @@
 
 #u11383
 {
-	z-index: 48;
+	z-index: 51;
 	width: 700px;
 	background-color: transparent;
 	margin-left: 130px;
@@ -160,13 +160,13 @@
 	position: relative;
 }
 
-#pu11361-16
+#pu11361-19
 {
 	width: 0.01px;
 	margin-top: 27px;
 }
 
-#u11361-16
+#u11361-19
 {
 	z-index: 20;
 	width: 690px;
@@ -184,7 +184,7 @@
 
 #u11362
 {
-	z-index: 36;
+	z-index: 39;
 	width: 396px;
 	border-style: none;
 	border-color: transparent;
@@ -196,7 +196,7 @@
 
 #u11364-11
 {
-	z-index: 37;
+	z-index: 40;
 	width: 366px;
 	min-height: 205px;
 	background-color: transparent;
@@ -229,18 +229,18 @@
 
 #u11389
 {
-	z-index: 50;
+	z-index: 53;
 	width: 700px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 621px;
+	margin-top: 710px;
 	left: 130px;
 }
 
 #u11395
 {
-	z-index: 52;
+	z-index: 55;
 	width: 700px;
 	background-color: transparent;
 	margin-left: 130px;

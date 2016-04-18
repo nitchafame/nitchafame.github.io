@@ -1,7 +1,7 @@
 .version.lonelylego /* version checker */
 {
-	color: #000005;
-	background-color: #6AF271;
+	color: #0000E5;
+	background-color: #974AEC;
 }
 
 .html
@@ -474,6 +474,12 @@
 	position: relative;
 }
 
+#u2207_img
+{
+	padding-top: 32px;
+	padding-bottom: 31px;
+}
+
 #u2222
 {
 	z-index: 49;
@@ -486,10 +492,10 @@
 	position: relative;
 }
 
-#u2207_img,#u2222_img
+#u2222_img
 {
 	padding-top: 32px;
-	padding-bottom: 31px;
+	padding-bottom: 218px;
 }
 
 #u2107
@@ -603,6 +609,12 @@
 	left: 95px;
 }
 
+#u2210_img
+{
+	margin-top: -3px;
+	margin-bottom: -3px;
+}
+
 #u2225
 {
 	z-index: 64;
@@ -633,10 +645,10 @@
 	height: 45px;
 }
 
-#u2210_img,#u2225_img
+#u2225_img
 {
 	margin-top: -3px;
-	margin-bottom: -3px;
+	margin-bottom: 14px;
 }
 
 #u2125

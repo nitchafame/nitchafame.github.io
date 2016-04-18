@@ -1,7 +1,7 @@
 .version.scrubbkid /* version checker */
 {
-	color: #000010;
-	background-color: #D3D544;
+	color: #0000ED;
+	background-color: #2284AB;
 }
 
 .html
@@ -198,7 +198,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 464px;
-	background: transparent url("../images/draw_saliva-cry.jpg") no-repeat center top;
+	background: transparent url("../images/kids2_draw_saliva-cry.jpg") no-repeat center top;
 	background-size: cover;
 }
 
@@ -213,7 +213,7 @@
 	margin-right: -10000px;
 	margin-top: 464px;
 	left: 480px;
-	background: transparent url("../images/draw.jpg") no-repeat center center;
+	background: transparent url("../images/kids1_draw.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -585,11 +585,6 @@
 	margin-right: -10000px;
 	margin-top: 174px;
 	left: 40px;
-}
-
-#u6921_img
-{
-	padding-top: 9px;
 }
 
 #u6936

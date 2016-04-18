@@ -1,7 +1,7 @@
 .version._60miles /* version checker */
 {
-	color: #000016;
-	background-color: #0C1341;
+	color: #000003;
+	background-color: #95E71B;
 }
 
 .html
@@ -13,12 +13,11 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 499.8741758241763px;
+	min-height: 500px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -247,7 +246,7 @@
 {
 	width: 0.01px;
 	margin-left: -16px;
-	margin-top: 15px;
+	margin-top: 49px;
 }
 
 #u7197-4
@@ -272,7 +271,7 @@
 	height: 427px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 25px;
+	margin-top: 24px;
 	left: 8px;
 }
 
