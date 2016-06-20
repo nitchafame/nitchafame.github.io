@@ -1,7 +1,7 @@
 .version.attamatic /* version checker */
 {
-	color: #0000F7;
-	background-color: #7F72AC;
+	color: #0000EB;
+	background-color: #8912BD;
 }
 
 #muse_css_mq
@@ -519,9 +519,42 @@
 	padding-bottom: 11px;
 }
 
+#u14960-9
+{
+	position: absolute;
+	width: 259px;
+	min-height: 317px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding: 10px;
+	line-height: 42px;
+	color: #999999;
+	text-align: center;
+	font-size: 30px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+}
+
 #u14960-9popup
 {
 	z-index: 34;
+}
+
+#u14961-9
+{
+	position: absolute;
+	width: 259px;
+	min-height: 317px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding: 10px;
+	line-height: 42px;
+	color: #999999;
+	text-align: center;
+	font-size: 30px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	left: 280px;
 }
 
 #u14961-9popup
@@ -568,21 +601,61 @@
 	left: 418px;
 }
 
-#u15233-6
+#u24108
 {
-	z-index: 123;
+	z-index: 124;
+	width: 463px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 400px;
+	margin-top: 21px;
+	position: relative;
+}
+
+#u24105
+{
+	z-index: 125;
+	width: 463px;
+	background-color: #505052;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u15233-4
+{
+	z-index: 126;
 	width: 463px;
 	background-color: transparent;
 	line-height: 24px;
 	font-size: 16px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
-	margin-left: 400px;
-	margin-top: 21px;
 	position: relative;
+	margin-right: -10000px;
 }
 
-#u15233-4
+#u15233-4:hover
+{
+	background-color: #66C89F;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 0px;
+	width: 463px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u15233-4:active
+{
+	background-color: #8FE7C2;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 0px;
+	width: 463px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u15233-2
 {
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
@@ -592,7 +665,7 @@
 	font-size: 14px;
 	color: #E2E2E2;
 	font-family: quicksand, sans-serif;
-	font-weight: 300;
+	font-weight: 700;
 	line-height: 21px;
 }
 
@@ -821,10 +894,10 @@
 	position: relative;
 }
 
-#u14960-9,#u21429-9,#u22409-9
+#u21429-9,#u22409-9
 {
 	position: absolute;
-	width: 224px;
+	width: 258px;
 	min-height: 317px;
 	border-width: 0px;
 	border-color: transparent;
@@ -842,10 +915,10 @@
 	z-index: 90;
 }
 
-#u14961-9,#u21458-9,#u22405-9
+#u21458-9,#u22405-9
 {
 	position: absolute;
-	width: 223px;
+	width: 260px;
 	min-height: 317px;
 	border-width: 0px;
 	border-color: transparent;
@@ -856,7 +929,7 @@
 	text-align: center;
 	font-size: 30px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	left: 316px;
+	left: 279px;
 }
 
 #u22405-9popup

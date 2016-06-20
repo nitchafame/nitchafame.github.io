@@ -1975,19 +1975,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nitchafa.me/images/keybod_interactiondiagram.png</loc>
-    <lastmod>2016-06-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://nitchafa.me/images/2016_sxswsxstyle-71.jpg</loc>
-    <lastmod>2016-06-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nitchafa.me/images/textneck_interactiondiagram.png</loc>
     <lastmod>2016-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2041,12 +2029,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nitchafa.me/images/12.gif</loc>
-    <lastmod>2016-06-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://nitchafa.me/images/screen%20shot%202016-06-20%20at%20124929%20am.jpg</loc>
     <lastmod>2016-06-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -2065,12 +2047,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nitchafa.me/images/22.gif</loc>
-    <lastmod>2016-06-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://nitchafa.me/images/attamatic_2clickkick.jpg</loc>
     <lastmod>2016-06-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -2078,12 +2054,6 @@
   </url>
   <url>
     <loc>http://nitchafa.me/images/attamatic-10.jpg</loc>
-    <lastmod>2016-06-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nitchafa.me/images/clickkick_interactiondiagram%20copy.png</loc>
     <lastmod>2016-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2162,6 +2132,24 @@
   </url>
   <url>
     <loc>http://nitchafa.me/images/villk768.gif</loc>
+    <lastmod>2016-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://nitchafa.me/images/keybod_interactiondiagram%20copy.png</loc>
+    <lastmod>2016-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://nitchafa.me/images/clickkick_interactiondiagram_w.png</loc>
+    <lastmod>2016-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://nitchafa.me/images/textneck_interactiondiagram_w.png</loc>
     <lastmod>2016-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

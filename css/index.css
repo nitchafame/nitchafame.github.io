@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000019;
-	background-color: #C99F2E;
+	color: #000016;
+	background-color: #A8BFBE;
 }
 
 #muse_css_mq
@@ -1134,7 +1134,7 @@
 
 #u11677-15
 {
-	z-index: 284;
+	z-index: 282;
 	width: 400px;
 	min-height: 490px;
 	border-width: 0px;
@@ -1199,7 +1199,7 @@
 
 #u22721-6
 {
-	z-index: 299;
+	z-index: 297;
 	width: 400px;
 	min-height: 145px;
 	border-width: 0px;
@@ -1265,7 +1265,7 @@
 
 #u22755
 {
-	z-index: 311;
+	z-index: 308;
 	width: 125px;
 	border-width: 0px;
 	border-color: transparent;
@@ -1277,7 +1277,7 @@
 
 #u22703
 {
-	z-index: 312;
+	z-index: 309;
 	width: 40px;
 	min-height: 40px;
 	border-width: 0px;
@@ -1290,11 +1290,19 @@
 
 #u22749
 {
-	z-index: 313;
+	z-index: 310;
 	width: 125px;
 	height: 114px;
 	position: relative;
 	margin-right: -10000px;
+}
+
+.ie #u22749
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
 }
 
 #u7602-3
@@ -2592,7 +2600,7 @@
 
 #u15515-4
 {
-	z-index: 305;
+	z-index: 303;
 	width: 286px;
 	background-color: transparent;
 	line-height: 13px;
@@ -2604,29 +2612,44 @@
 	position: relative;
 }
 
-#pu19496
+#u24102
 {
-	width: 0.01px;
-	margin-left: 454px;
-	margin-top: 17px;
+	z-index: 311;
+	width: 82px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 439px;
+	margin-top: 20px;
+	position: relative;
 }
 
-#u19496
+#u24091
 {
-	z-index: 282;
+	z-index: 312;
+	width: 82px;
+	background-color: transparent;
+	padding-bottom: 21px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u24092
+{
+	z-index: 313;
 	width: 27px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 11px;
-	left: 27px;
+	margin-top: 21px;
+	left: 28px;
 }
 
-#u19497
+#u24093
 {
-	z-index: 283;
+	z-index: 314;
 	width: 27px;
 	min-height: 37px;
 	border-width: 0px;
@@ -2637,23 +2660,6 @@
 	transform: matrix(-1,0,0,-1,27,37);
 	position: relative;
 	margin-right: -10000px;
-}
-
-#u19516
-{
-	z-index: 310;
-	width: 82px;
-	height: 79px;
-	position: relative;
-	margin-right: -10000px;
-}
-
-.ie #u22749,.ie #u19516
-{
-	background-color: #FFFFFF;
-	opacity: 0.01;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
-	filter: alpha(opacity=1);
 }
 
 .html
