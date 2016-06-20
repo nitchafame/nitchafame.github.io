@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nitchafa.me" resolutions="1x" timestamp="1466452325443">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nitchafa.me" resolutions="1x" timestamp="1466455803222">
   <folder name="css">
     <file name="site_global.css" crc="4027422851"/>
     <file name="master_a-master.css" crc="230036770" ref="scrubbmedley:selfie:grienday:revoke:slowspace:labs:1081009:scrubbkid:musketeers:teefox:lick-it:lucid:sudked:save-cursive:openpage_thesis:illustration:repitation-in-glsl:60miles:melody:dilation:disturbingmuses:jellyfish-game:about:reel:project:5in5:redriding:celanimation:lonelylego:balancingsound:25hours:pijika:index:keybod:bootcampcode:restless:electricneonlamp:unitylab:betweenspaces:attamatic"/>
@@ -569,7 +569,7 @@
     <file name="keybod_interactiondiagram.png" crc="4113570477" seo="true" ref="attamatic"/>
     <file name="2016_sxswsxstyle-71.jpg" crc="3813456759" seo="true" ref="attamatic"/>
     <file name="textneck_interactiondiagram.png" crc="4156087931" seo="true" ref="attamatic"/>
-    <file name="u15353-4.png" crc="3783523797" ref="index"/>
+    <file name="u15353-4.png" crc="3892128592" ref="index"/>
     <file name="betweenspaces_printed_editedsm-4.jpg" crc="433621374" seo="true" ref="index:project:betweenspaces"/>
     <file name="betweenspaces_attamatic-2.jpg" crc="4215220975" seo="true" ref="index:project"/>
     <file name="4.gif" crc="4008189895" seo="true" ref="repitation-in-glsl"/>
@@ -667,7 +667,7 @@
     <file name="about.html" crc="10987417" seo="true" mt="1420488587329" redirect="false"/>
     <file name="comingsoon.html" crc="3851039283" seo="true" mt="1420488587387" redirect="false"/>
   </folder>
-  <file name="index.html" crc="4111160152" seo="true" mt="1466409134765" redirect="true"/>
+  <file name="index.html" crc="4284007143" seo="true" mt="1466454076113" redirect="true"/>
   <file name="revoke.html" crc="464298851" seo="true" mt="1453245254338" redirect="true"/>
   <file name="25hours.html" crc="14835938" seo="true" mt="1453245254338" redirect="true"/>
   <file name="musketeers.html" crc="426179539" seo="true" mt="1453245254338" redirect="true"/>
