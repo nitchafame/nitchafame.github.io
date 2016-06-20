@@ -3,16 +3,16 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "comingsoon.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.watch.js", "comingsoon.css"], "outOfDate":[]};
 </script>
   
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
   <meta name="generator" content="2015.1.2.344"/>
-  <link rel="shortcut icon" href="images/favicon.ico?3993744308"/>
+  <link rel="shortcut icon" href="images/favicon.ico?236454869"/>
   <title>comingsoon</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?4027422851"/>
-  <link rel="stylesheet" type="text/css" href="css/comingsoon.css?4159403886" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/comingsoon.css?3887207869" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/iefonts_comingsoon.css?4042783638"/>
@@ -27,8 +27,7 @@ var __adobewebfontsappname__ = "muse";
    document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/quicksand:n4,i4:all.js" type="text/javascript">\x3C/script>');
 </script>
     <!--custom head HTML-->
-  <script src="http://isotope.metafizzy.co/beta/isotope.pkgd.min.js" type="text/javascript"></script>
-
+  
 <style>
 *{
 transition:100ms;
@@ -115,6 +114,7 @@ transition:100ms;
     <p id="u12715-10">&nbsp;</p>
    </div>
    <!-- /m_editable -->
+   <div class="verticalspacer"></div>
   </div>
   <div class="preload_images">
    <img class="preload" src="images/new1mail-u7586-r-fr.png" alt=""/>
@@ -133,6 +133,7 @@ transition:100ms;
 </script>
   <script src="scripts/museutils.js?3790713428" type="text/javascript"></script>
   <script src="scripts/whatinput.js?84559013" type="text/javascript"></script>
+  <script src="scripts/jquery.watch.js?4244854265" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
    $(document).ready(function() { try {
@@ -141,6 +142,7 @@ for(var c=$(".version"),d=0;d<Muse.assets.required.length;){var f=Muse.assets.re
 typeof $!="undefined"?Muse.assets.required.splice(d,1):d++;break;default:throw Error("Unsupported file type: "+g);}}c.remove();if(Muse.assets.outOfDate.length||Muse.assets.required.length)c="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",(d=location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi))&&Muse.assets.outOfDate.length&&(c+="\nOut of date: "+Muse.assets.outOfDate.join(",")),d&&Muse.assets.required.length&&(c+="\nMissing: "+Muse.assets.required.join(",")),alert(c)})()})();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 } catch(e) { if (e && 'function' == typeof e.notify) e.notify(); else Muse.Assert.fail('Error calling selector function:' + e); }});

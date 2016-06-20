@@ -1,7 +1,7 @@
 .version.openpage_thesis /* version checker */
 {
 	color: #0000F7;
-	background-color: #6F2EC5;
+	background-color: #09772D;
 }
 
 #muse_css_mq
@@ -329,9 +329,9 @@
 	border-color: transparent;
 	background-color: #E2E2E2;
 	padding: 1px;
+	line-height: 14px;
 	color: #000000;
 	text-align: center;
-	line-height: 14px;
 	font-style: italic;
 	position: relative;
 	margin-right: -10000px;
@@ -383,9 +383,9 @@
 	border-color: transparent;
 	background-color: #E2E2E2;
 	padding: 1px;
+	color: #000000;
 	text-align: center;
 	line-height: 14px;
-	color: #000000;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 90px;
@@ -493,6 +493,95 @@
 {
 	font-family: quicksand, sans-serif;
 	font-weight: 300;
+}
+
+#pu22739
+{
+	width: 0.01px;
+	margin-left: 115px;
+	margin-top: 11px;
+}
+
+#u22739
+{
+	z-index: 69;
+	width: 400px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u22739_img
+{
+	margin-top: -13px;
+	margin-bottom: -13px;
+}
+
+#u22741-6
+{
+	z-index: 71;
+	width: 400px;
+	min-height: 145px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #999999;
+	background-color: rgba(0,0,0,0.4);
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	padding-top: 95px;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: quicksand, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	-pie-background: rgba(0,0,0,0.4);
+}
+
+#u22741-6:hover
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	padding-top: 95px;
+	padding-bottom: 0px;
+	min-height: 145px;
+	width: 400px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u22741-6:active
+{
+	background-color: #999999;
+	background-color: rgba(0,0,0,0.4);
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	padding-top: 95px;
+	padding-bottom: 0px;
+	min-height: 145px;
+	width: 400px;
+	margin: 0px -10000px 0px 0px;
+	-pie-background: rgba(0,0,0,0.4);
+}
+
+#u22741-6:active p
+{
+	color: #8FE7C2;
+	visibility: inherit;
+}
+
+#u22741-2
+{
+	font-size: 24px;
+	line-height: 29px;
+}
+
+#u22741-4
+{
+	font-size: 14px;
+	font-style: italic;
 }
 
 .html

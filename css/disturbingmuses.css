@@ -1,7 +1,7 @@
 .version.disturbingmuses /* version checker */
 {
-	color: #000018;
-	background-color: #240252;
+	color: #00001B;
+	background-color: #3CA861;
 }
 
 #muse_css_mq
@@ -13,11 +13,12 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 500px;
+	min-height: 499.81167582417675px;
 	background-image: none;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: #E2E2E2;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -160,74 +161,16 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#pu8271
-{
-	width: 0.01px;
-	margin-left: 80px;
-	margin-top: 95px;
-}
-
-#u8271
-{
-	z-index: 21;
-	width: 200px;
-	min-height: 100px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u8274
-{
-	z-index: 20;
-	width: 57px;
-	height: 500px;
-	position: relative;
-	margin-right: -10000px;
-	left: 303px;
-}
-
-.ie #u8274
-{
-	background-color: #FFFFFF;
-	opacity: 0.01;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
-	filter: alpha(opacity=1);
-}
-
-#u8409-5
-{
-	z-index: 164;
-	width: 350px;
-	min-height: 44px;
-	background-color: transparent;
-	padding-left: 15px;
-	margin-left: 332px;
-	margin-top: 21px;
-	position: relative;
-}
-
-#u8409-2
-{
-	font-size: 16px;
-	line-height: 19px;
-	font-family: quicksand, sans-serif;
-	font-weight: 400;
-	font-style: italic;
-}
-
 #pslideshowu8276
 {
 	width: 0.01px;
 	margin-left: -17px;
-	margin-top: 42px;
+	margin-top: 95px;
 }
 
 #slideshowu8276
 {
-	z-index: 33;
+	z-index: 31;
 	width: 0.01px;
 	height: 458px;
 	position: relative;
@@ -246,12 +189,12 @@
 
 #u8292popup
 {
-	z-index: 34;
+	z-index: 32;
 }
 
 #u8297
 {
-	z-index: 35;
+	z-index: 33;
 	width: 640px;
 	height: 427px;
 	border-width: 0px;
@@ -269,7 +212,7 @@
 
 #u8299
 {
-	z-index: 37;
+	z-index: 35;
 	width: 640px;
 	height: 427px;
 	border-width: 0px;
@@ -287,7 +230,7 @@
 
 #u8295
 {
-	z-index: 39;
+	z-index: 37;
 	width: 640px;
 	height: 427px;
 	border-width: 0px;
@@ -299,7 +242,7 @@
 
 #u8293
 {
-	z-index: 41;
+	z-index: 39;
 	width: 640px;
 	height: 427px;
 	border-width: 0px;
@@ -317,7 +260,7 @@
 
 #u8370
 {
-	z-index: 43;
+	z-index: 41;
 	width: 640px;
 	height: 427px;
 	border-width: 0px;
@@ -329,7 +272,7 @@
 
 #u8389
 {
-	z-index: 45;
+	z-index: 43;
 	width: 640px;
 	height: 427px;
 	border-width: 0px;
@@ -357,12 +300,12 @@
 
 #u8277popup
 {
-	z-index: 47;
+	z-index: 45;
 }
 
 #u8280
 {
-	z-index: 48;
+	z-index: 46;
 	width: 60px;
 	height: 45px;
 	border-color: #6B6B6B;
@@ -375,7 +318,7 @@
 
 #u8278
 {
-	z-index: 50;
+	z-index: 48;
 	width: 60px;
 	height: 45px;
 	border-color: #6B6B6B;
@@ -388,7 +331,7 @@
 
 #u8284
 {
-	z-index: 52;
+	z-index: 50;
 	width: 60px;
 	height: 45px;
 	border-color: #6B6B6B;
@@ -401,7 +344,7 @@
 
 #u8282
 {
-	z-index: 54;
+	z-index: 52;
 	width: 60px;
 	height: 45px;
 	border-color: #6B6B6B;
@@ -424,7 +367,7 @@
 
 #u8373
 {
-	z-index: 56;
+	z-index: 54;
 	width: 60px;
 	height: 45px;
 	border-color: #6B6B6B;
@@ -437,7 +380,7 @@
 
 #u8392
 {
-	z-index: 58;
+	z-index: 56;
 	width: 60px;
 	height: 45px;
 	border-color: #6B6B6B;
@@ -469,21 +412,21 @@
 
 #u8287popup
 {
-	z-index: 60;
+	z-index: 58;
 }
 
 #u8290-4
 {
-	z-index: 61;
+	z-index: 59;
 	width: 559px;
 	min-height: 40px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
-	text-align: left;
 	line-height: 20px;
+	text-align: left;
+	color: #999999;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -492,16 +435,16 @@
 
 #u8288-4
 {
-	z-index: 65;
+	z-index: 63;
 	width: 559px;
 	min-height: 40px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
-	text-align: left;
 	line-height: 20px;
+	text-align: left;
+	color: #999999;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -510,16 +453,16 @@
 
 #u8289-4
 {
-	z-index: 69;
+	z-index: 67;
 	width: 559px;
 	min-height: 40px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
-	text-align: left;
 	line-height: 20px;
+	text-align: left;
+	color: #999999;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -528,16 +471,16 @@
 
 #u8291-4
 {
-	z-index: 73;
+	z-index: 71;
 	width: 559px;
 	min-height: 40px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
-	text-align: left;
 	line-height: 20px;
+	text-align: left;
+	color: #999999;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -546,16 +489,16 @@
 
 #u8376-4
 {
-	z-index: 77;
+	z-index: 75;
 	width: 559px;
 	min-height: 40px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
-	text-align: left;
 	line-height: 20px;
+	text-align: left;
+	color: #999999;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -564,16 +507,16 @@
 
 #u8395-4
 {
-	z-index: 81;
+	z-index: 79;
 	width: 559px;
 	min-height: 40px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
-	text-align: left;
 	line-height: 20px;
+	text-align: left;
+	color: #999999;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -589,17 +532,17 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
+	line-height: 42px;
 	color: #999999;
 	text-align: center;
 	font-size: 30px;
-	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 328px;
 }
 
 #u8305-8popup
 {
-	z-index: 85;
+	z-index: 83;
 }
 
 #u8286-8
@@ -611,17 +554,17 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
+	line-height: 42px;
 	color: #999999;
 	text-align: center;
 	font-size: 30px;
-	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 888px;
 }
 
 #u8286-8popup
 {
-	z-index: 93;
+	z-index: 91;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -636,7 +579,7 @@
 
 #u8407-11
 {
-	z-index: 153;
+	z-index: 151;
 	width: 362px;
 	min-height: 110px;
 	background-color: transparent;
@@ -662,13 +605,13 @@
 
 #u8408-9
 {
-	z-index: 169;
+	z-index: 162;
 	width: 280px;
 	min-height: 139px;
 	background-color: transparent;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
-	top: -322px;
+	top: -321px;
 	margin-bottom: -139px;
 	position: relative;
 }
@@ -698,26 +641,26 @@
 
 #u8275-11
 {
-	z-index: 22;
+	z-index: 20;
 	width: 930px;
 	min-height: 301px;
 	background-color: transparent;
 	padding: 15px;
-	font-size: 16px;
 	line-height: 24px;
+	font-size: 16px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
-	margin-top: 7px;
+	margin-top: 8px;
 	position: relative;
 }
 
 #u9666-4
 {
-	z-index: 178;
+	z-index: 171;
 	width: 200px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 27px;
+	font-size: 18px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-top: 2px;
@@ -726,10 +669,10 @@
 
 #slideshowu9544
 {
-	z-index: 101;
+	z-index: 99;
 	width: 0.01px;
 	height: 427px;
-	margin-top: 5px;
+	margin-top: 4px;
 	position: relative;
 }
 
@@ -743,12 +686,12 @@
 
 #u9565popup
 {
-	z-index: 102;
+	z-index: 100;
 }
 
 #u9636
 {
-	z-index: 103;
+	z-index: 101;
 	width: 640px;
 	height: 427px;
 	border-width: 0px;
@@ -760,7 +703,7 @@
 
 #u9606
 {
-	z-index: 105;
+	z-index: 103;
 	width: 640px;
 	height: 427px;
 	border-width: 0px;
@@ -778,7 +721,7 @@
 
 #u9621
 {
-	z-index: 107;
+	z-index: 105;
 	width: 640px;
 	height: 427px;
 	border-width: 0px;
@@ -796,7 +739,7 @@
 
 #u9570
 {
-	z-index: 109;
+	z-index: 107;
 	width: 640px;
 	height: 427px;
 	border-width: 0px;
@@ -826,12 +769,12 @@
 
 #u9546popup
 {
-	z-index: 111;
+	z-index: 109;
 }
 
 #u9639
 {
-	z-index: 112;
+	z-index: 110;
 	width: 68px;
 	height: 45px;
 	border-color: #6B6B6B;
@@ -844,7 +787,7 @@
 
 #u9609
 {
-	z-index: 114;
+	z-index: 112;
 	width: 68px;
 	height: 45px;
 	border-color: #6B6B6B;
@@ -857,7 +800,7 @@
 
 #u9624
 {
-	z-index: 116;
+	z-index: 114;
 	width: 68px;
 	height: 45px;
 	border-color: #6B6B6B;
@@ -876,7 +819,7 @@
 
 #u9557
 {
-	z-index: 118;
+	z-index: 116;
 	width: 68px;
 	height: 45px;
 	border-color: #6B6B6B;
@@ -908,21 +851,21 @@
 
 #u9578popup
 {
-	z-index: 120;
+	z-index: 118;
 }
 
 #u9642-4
 {
-	z-index: 121;
+	z-index: 119;
 	width: 335px;
 	min-height: 40px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
-	text-align: left;
 	line-height: 20px;
+	text-align: left;
+	color: #999999;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -931,16 +874,16 @@
 
 #u9612-4
 {
-	z-index: 125;
+	z-index: 123;
 	width: 335px;
 	min-height: 40px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
-	text-align: left;
 	line-height: 20px;
+	text-align: left;
+	color: #999999;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -949,16 +892,16 @@
 
 #u9627-4
 {
-	z-index: 129;
+	z-index: 127;
 	width: 335px;
 	min-height: 40px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
-	text-align: left;
 	line-height: 20px;
+	text-align: left;
+	color: #999999;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -967,16 +910,16 @@
 
 #u9580-4
 {
-	z-index: 133;
+	z-index: 131;
 	width: 335px;
 	min-height: 40px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	color: #999999;
-	text-align: left;
 	line-height: 20px;
+	text-align: left;
+	color: #999999;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -992,16 +935,16 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
+	line-height: 42px;
 	color: #999999;
 	text-align: center;
 	font-size: 30px;
-	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
 
 #u9564-8popup
 {
-	z-index: 137;
+	z-index: 135;
 }
 
 #u9559-8
@@ -1013,17 +956,17 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
+	line-height: 42px;
 	color: #999999;
 	text-align: center;
 	font-size: 30px;
-	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 505px;
 }
 
 #u9559-8popup
 {
-	z-index: 145;
+	z-index: 143;
 }
 
 .html
