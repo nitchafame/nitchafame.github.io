@@ -1,7 +1,7 @@
 .version.attamatic /* version checker */
 {
-	color: #0000EB;
-	background-color: #8912BD;
+	color: #000003;
+	background-color: #29923A;
 }
 
 #muse_css_mq
@@ -373,8 +373,8 @@
 	min-height: 116px;
 	background-color: transparent;
 	color: #E2E2E2;
-	line-height: 24px;
 	font-size: 15px;
+	line-height: 24px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-left: 400px;
@@ -388,8 +388,8 @@
 	width: 560px;
 	background-color: transparent;
 	color: #E2E2E2;
-	line-height: 24px;
 	font-size: 15px;
+	line-height: 24px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-left: 400px;
@@ -528,10 +528,10 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 42px;
 	color: #999999;
 	text-align: center;
 	font-size: 30px;
+	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
 
@@ -549,10 +549,10 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 42px;
 	color: #999999;
 	text-align: center;
 	font-size: 30px;
+	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 280px;
 }
@@ -627,8 +627,8 @@
 	z-index: 126;
 	width: 463px;
 	background-color: transparent;
-	line-height: 24px;
 	font-size: 16px;
+	line-height: 24px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -903,10 +903,10 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 42px;
 	color: #999999;
 	text-align: center;
 	font-size: 30px;
+	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
 
@@ -924,10 +924,10 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 42px;
 	color: #999999;
 	text-align: center;
 	font-size: 30px;
+	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 279px;
 }
