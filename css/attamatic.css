@@ -1,7 +1,7 @@
 .version.attamatic /* version checker */
 {
-	color: #00001A;
-	background-color: #6F1B08;
+	color: #0000F0;
+	background-color: #6383C6;
 }
 
 #muse_css_mq
@@ -372,9 +372,9 @@
 	width: 560px;
 	min-height: 116px;
 	background-color: transparent;
-	line-height: 24px;
 	color: #E2E2E2;
 	font-size: 15px;
+	line-height: 24px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-left: 400px;
@@ -387,9 +387,9 @@
 	z-index: 276;
 	width: 560px;
 	background-color: transparent;
-	line-height: 24px;
 	color: #E2E2E2;
 	font-size: 15px;
+	line-height: 24px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-left: 400px;
@@ -528,10 +528,10 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 42px;
 	color: #999999;
 	text-align: center;
 	font-size: 30px;
+	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
 
@@ -549,10 +549,10 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 42px;
 	color: #999999;
 	text-align: center;
 	font-size: 30px;
+	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 280px;
 }
@@ -627,8 +627,8 @@
 	z-index: 126;
 	width: 463px;
 	background-color: transparent;
-	line-height: 24px;
 	font-size: 16px;
+	line-height: 24px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -903,10 +903,10 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 42px;
 	color: #999999;
 	text-align: center;
 	font-size: 30px;
+	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
 
@@ -924,10 +924,10 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 42px;
 	color: #999999;
 	text-align: center;
 	font-size: 30px;
+	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 279px;
 }
@@ -1026,8 +1026,8 @@
 	padding-left: 15px;
 	padding-top: 5px;
 	padding-right: 15px;
-	line-height: 21px;
 	color: #E2E2E2;
+	line-height: 21px;
 	font-family: quicksand, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1055,11 +1055,11 @@
 	min-height: 11px;
 	border-width: 0px;
 	border-color: transparent;
-	background-color: #464648;
+	background-color: #414143;
 	padding: 1px;
 	text-align: left;
-	line-height: 14px;
 	color: #000000;
+	line-height: 14px;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -1097,11 +1097,11 @@
 	min-height: 11px;
 	border-width: 0px;
 	border-color: transparent;
-	background-color: #464648;
+	background-color: #414143;
 	padding: 1px;
 	text-align: left;
-	line-height: 14px;
 	color: #000000;
+	line-height: 14px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 20px;
@@ -1140,11 +1140,11 @@
 	min-height: 11px;
 	border-width: 0px;
 	border-color: transparent;
-	background-color: #464648;
+	background-color: #414143;
 	padding: 1px;
 	text-align: left;
-	line-height: 14px;
 	color: #000000;
+	line-height: 14px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 40px;
@@ -1183,11 +1183,11 @@
 	min-height: 11px;
 	border-width: 0px;
 	border-color: transparent;
-	background-color: #464648;
+	background-color: #414143;
 	padding: 1px;
 	text-align: left;
-	line-height: 14px;
 	color: #000000;
+	line-height: 14px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 61px;
@@ -1226,11 +1226,11 @@
 	min-height: 11px;
 	border-width: 0px;
 	border-color: transparent;
-	background-color: #464648;
+	background-color: #414143;
 	padding: 1px;
 	text-align: left;
-	line-height: 14px;
 	color: #000000;
+	line-height: 14px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 81px;
@@ -1269,11 +1269,11 @@
 	min-height: 11px;
 	border-width: 0px;
 	border-color: transparent;
-	background-color: #464648;
+	background-color: #414143;
 	padding: 1px;
 	text-align: left;
-	line-height: 14px;
 	color: #000000;
+	line-height: 14px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 101px;
@@ -1312,11 +1312,11 @@
 	min-height: 11px;
 	border-width: 0px;
 	border-color: transparent;
-	background-color: #464648;
+	background-color: #414143;
 	padding: 1px;
 	text-align: left;
-	line-height: 14px;
 	color: #000000;
+	line-height: 14px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 121px;
@@ -1355,11 +1355,11 @@
 	min-height: 11px;
 	border-width: 0px;
 	border-color: transparent;
-	background-color: #464648;
+	background-color: #414143;
 	padding: 1px;
 	text-align: left;
-	line-height: 14px;
 	color: #000000;
+	line-height: 14px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 141px;
@@ -1398,11 +1398,11 @@
 	min-height: 11px;
 	border-width: 0px;
 	border-color: transparent;
-	background-color: #464648;
+	background-color: #414143;
 	padding: 1px;
 	text-align: left;
-	line-height: 14px;
 	color: #000000;
+	line-height: 14px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 161px;
@@ -1481,11 +1481,11 @@
 	min-height: 11px;
 	border-width: 0px;
 	border-color: transparent;
-	background-color: #464648;
+	background-color: #414143;
 	padding: 1px;
 	text-align: left;
-	line-height: 14px;
 	color: #000000;
+	line-height: 14px;
 }
 
 #u24373-4:hover
@@ -1514,12 +1514,6 @@
 	visibility: inherit;
 }
 
-#u24360,#u24381
-{
-	margin-top: 4px;
-	margin-bottom: -4px;
-}
-
 #u24379-4
 {
 	z-index: 182;
@@ -1527,11 +1521,11 @@
 	min-height: 11px;
 	border-width: 0px;
 	border-color: transparent;
-	background-color: #464648;
+	background-color: #414143;
 	padding: 1px;
 	text-align: left;
-	line-height: 14px;
 	color: #000000;
+	line-height: 14px;
 }
 
 #u24379-4:hover
@@ -1571,6 +1565,12 @@
 	color: #E2E2E2;
 }
 
+#u24360,#u24387
+{
+	margin-top: 4px;
+	margin-bottom: -4px;
+}
+
 #u24385-4
 {
 	z-index: 193;
@@ -1578,11 +1578,11 @@
 	min-height: 11px;
 	border-width: 0px;
 	border-color: transparent;
-	background-color: #464648;
+	background-color: #414143;
 	padding: 1px;
 	text-align: left;
-	line-height: 14px;
 	color: #000000;
+	line-height: 14px;
 }
 
 #u24385-4:hover
@@ -1617,7 +1617,7 @@
 	color: #E2E2E2;
 }
 
-#u24375,#u24393
+#u24375,#u24381,#u24393
 {
 	margin-top: 3px;
 	margin-bottom: -3px;
@@ -1630,11 +1630,11 @@
 	min-height: 11px;
 	border-width: 0px;
 	border-color: transparent;
-	background-color: #464648;
+	background-color: #414143;
 	padding: 1px;
 	text-align: left;
-	line-height: 14px;
 	color: #000000;
+	line-height: 14px;
 }
 
 #u24391-4:hover

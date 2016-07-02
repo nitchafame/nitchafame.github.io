@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000016;
-	background-color: #A8BFBE;
+	color: #000013;
+	background-color: #C28D86;
 }
 
 #muse_css_mq
@@ -311,7 +311,7 @@
 
 #u15353-4
 {
-	z-index: 278;
+	z-index: 282;
 	display: block;
 	vertical-align: top;
 	margin-left: 80px;
@@ -331,7 +331,7 @@
 	position: relative;
 }
 
-#u15350-11
+#u15350-9
 {
 	z-index: 267;
 	width: 572px;
@@ -343,19 +343,87 @@
 	margin-right: -10000px;
 }
 
-#u15350-6
+#u15350-4
 {
 	font-size: 19px;
 	line-height: 26px;
 }
 
-#u15350,#u15350-2,#u15350-5
+#u15350-2
+{
+	font-family: quicksand, sans-serif;
+}
+
+#u24404
+{
+	margin-top: 3px;
+	margin-bottom: -3px;
+}
+
+#u24402-5
+{
+	z-index: 273;
+	width: 102px;
+	min-height: 18px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EBEBEB;
+	padding: 1px;
+	text-align: left;
+	color: #000000;
+	line-height: 14px;
+}
+
+#u24402-5:hover
+{
+	background-color: #66C89F;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	min-height: 18px;
+	width: 102px;
+	margin: 0px;
+}
+
+#u24402-5:active
+{
+	background-color: #8FE7C2;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	min-height: 18px;
+	width: 102px;
+	margin: 0px;
+}
+
+#u24402-5:hover p,#u24402-5:hover span,#u24402-5:active p,#u24402-5:active span
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u24402
+{
+	font-size: 18px;
+	letter-spacing: -3px;
+	font-family: quicksand, sans-serif;
+	font-weight: 400;
+	line-height: 18px;
+}
+
+#u24402-2
+{
+	font-size: 18px;
+	font-family: quicksand, sans-serif;
+	font-weight: 400;
+	line-height: 18px;
+}
+
+#u15350,#u15350-3
 {
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 }
 
-#u15350-9
+#u15350-7
 {
 	font-size: 15px;
 	line-height: 45px;
@@ -364,7 +432,7 @@
 	font-style: italic;
 }
 
-#u15350-7
+#u15350-5
 {
 	font-family: quicksand, sans-serif;
 	font-weight: 700;
@@ -373,7 +441,7 @@
 #pu22731
 {
 	width: 0.01px;
-	margin-top: 9px;
+	margin-top: 8px;
 }
 
 #u22731
@@ -488,8 +556,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 64px;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -583,8 +651,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 64px;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -617,8 +685,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 64px;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -665,8 +733,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 95px;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1368px;
@@ -748,8 +816,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 95px;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 	-pie-background: rgba(0,0,0,0.4);
@@ -819,8 +887,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 95px;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 	-pie-background: rgba(0,0,0,0.4);
@@ -933,8 +1001,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 95px;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 336px;
@@ -982,8 +1050,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 95px;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 816px;
@@ -1031,8 +1099,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 95px;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 576px;
@@ -1096,8 +1164,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 95px;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 681px;
@@ -1134,7 +1202,7 @@
 
 #u11677-15
 {
-	z-index: 282;
+	z-index: 286;
 	width: 400px;
 	min-height: 490px;
 	border-width: 0px;
@@ -1145,8 +1213,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 95px;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 96px;
@@ -1199,7 +1267,7 @@
 
 #u22721-6
 {
-	z-index: 297;
+	z-index: 301;
 	width: 400px;
 	min-height: 145px;
 	border-width: 0px;
@@ -1210,8 +1278,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 95px;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1265,7 +1333,7 @@
 
 #u22755
 {
-	z-index: 308;
+	z-index: 312;
 	width: 125px;
 	border-width: 0px;
 	border-color: transparent;
@@ -1277,7 +1345,7 @@
 
 #u22703
 {
-	z-index: 309;
+	z-index: 313;
 	width: 40px;
 	min-height: 40px;
 	border-width: 0px;
@@ -1290,7 +1358,7 @@
 
 #u22749
 {
-	z-index: 310;
+	z-index: 314;
 	width: 125px;
 	height: 114px;
 	position: relative;
@@ -1318,9 +1386,9 @@
 	filter: alpha(opacity=0);
 	padding-top: 60px;
 	color: #FFFFFF;
-	line-height: 36px;
 	text-align: center;
 	font-size: 30px;
+	line-height: 36px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1487,8 +1555,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 64px;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1545,8 +1613,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 95px;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 4px;
@@ -1627,8 +1695,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 64px;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1797,8 +1865,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 70px;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1854,8 +1922,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 70px;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1911,8 +1979,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 70px;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1968,8 +2036,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 70px;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -2031,8 +2099,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 70px;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -2116,8 +2184,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 95px;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 	-pie-background: rgba(0,0,0,0.4);
@@ -2220,8 +2288,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 70px;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -2301,8 +2369,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 70px;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -2378,8 +2446,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 70px;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -2455,11 +2523,11 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 60px;
-	line-height: 36px;
 	text-align: center;
-	letter-spacing: 5px;
-	color: #FFFFFF;
 	font-size: 30px;
+	color: #FFFFFF;
+	letter-spacing: 5px;
+	line-height: 36px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -2533,9 +2601,9 @@
 	filter: alpha(opacity=0);
 	padding-top: 70px;
 	color: #FFFFFF;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -2586,7 +2654,7 @@
 	font-style: normal;
 }
 
-#u8190-7
+#u24402-3,#u8190-7
 {
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
@@ -2600,11 +2668,11 @@
 
 #u15515-4
 {
-	z-index: 303;
+	z-index: 307;
 	width: 286px;
 	background-color: transparent;
-	line-height: 13px;
 	font-size: 11px;
+	line-height: 13px;
 	font-family: quicksand, sans-serif;
 	font-weight: 300;
 	margin-left: 352px;
@@ -2614,7 +2682,7 @@
 
 #u24102
 {
-	z-index: 311;
+	z-index: 315;
 	width: 82px;
 	border-width: 0px;
 	border-color: transparent;
@@ -2626,7 +2694,7 @@
 
 #u24091
 {
-	z-index: 312;
+	z-index: 316;
 	width: 82px;
 	background-color: transparent;
 	padding-bottom: 21px;
@@ -2636,7 +2704,7 @@
 
 #u24092
 {
-	z-index: 313;
+	z-index: 317;
 	width: 27px;
 	border-width: 0px;
 	border-color: transparent;
@@ -2649,7 +2717,7 @@
 
 #u24093
 {
-	z-index: 314;
+	z-index: 318;
 	width: 27px;
 	min-height: 37px;
 	border-width: 0px;

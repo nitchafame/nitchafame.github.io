@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nitchafa.me" resolutions="1x" timestamp="1467404538740">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nitchafa.me" resolutions="1x" timestamp="1467442137462">
   <folder name="css">
     <file name="site_global.css" crc="4027422851"/>
-    <file name="master_a-master.css" crc="13956267" ref="scrubbmedley:selfie:grienday:revoke:slowspace:labs:1081009:scrubbkid:musketeers:teefox:lick-it:lucid:sudked:save-cursive:openpage_thesis:illustration:repitation-in-glsl:60miles:melody:dilation:disturbingmuses:jellyfish-game:about:reel:project:5in5:redriding:celanimation:lonelylego:balancingsound:25hours:pijika:index:keybod:bootcampcode:restless:electricneonlamp:unitylab:betweenspaces:attamatic"/>
+    <file name="master_a-master.css" crc="463033209" ref="scrubbmedley:selfie:grienday:revoke:slowspace:labs:1081009:scrubbkid:musketeers:teefox:lick-it:lucid:sudked:save-cursive:openpage_thesis:illustration:repitation-in-glsl:60miles:melody:dilation:disturbingmuses:jellyfish-game:about:reel:project:5in5:redriding:celanimation:lonelylego:balancingsound:25hours:pijika:index:keybod:bootcampcode:restless:electricneonlamp:unitylab:betweenspaces:attamatic"/>
     <file name="comingsoon.css" crc="3887207869" ref="comingsoon"/>
     <file name="iefonts_comingsoon.css" crc="4042783638" ref="comingsoon"/>
     <file name="scrubbmedley.css" crc="4089321841" ref="scrubbmedley"/>
@@ -64,8 +64,8 @@
     <file name="iefonts_25hours.css" crc="3764537549" ref="25hours"/>
     <file name="pijika.css" crc="3887239965" ref="pijika"/>
     <file name="iefonts_pijika.css" crc="125329529" ref="pijika"/>
-    <file name="index.css" crc="380157886" ref="index"/>
-    <file name="iefonts_index.css" crc="4160313868" ref="index"/>
+    <file name="index.css" crc="331517318" ref="index"/>
+    <file name="iefonts_index.css" crc="372300984" ref="index"/>
     <file name="keybod.css" crc="278700085" ref="keybod"/>
     <file name="iefonts_keybod.css" crc="3846740282" ref="keybod"/>
     <file name="bootcampcode.css" crc="51476755" ref="bootcampcode"/>
@@ -75,9 +75,9 @@
     <file name="iefonts_electricneonlamp.css" crc="4201448084" ref="electricneonlamp"/>
     <file name="unitylab.css" crc="3831259895" ref="unitylab"/>
     <file name="iefonts_about.css" crc="408762408" ref="about"/>
-    <file name="betweenspaces.css" crc="4067154024" ref="betweenspaces"/>
-    <file name="iefonts_betweenspaces.css" crc="3879716316" ref="betweenspaces"/>
-    <file name="attamatic.css" crc="443489032" ref="attamatic"/>
+    <file name="betweenspaces.css" crc="3981245148" ref="betweenspaces"/>
+    <file name="iefonts_betweenspaces.css" crc="3759117183" ref="betweenspaces"/>
+    <file name="attamatic.css" crc="4033053638" ref="attamatic"/>
     <file name="iefonts_attamatic.css" crc="4052281732" ref="attamatic"/>
   </folder>
   <folder name="assets">
@@ -670,7 +670,7 @@
     <file name="about.html" crc="10987417" seo="true" mt="1420488587329" redirect="false"/>
     <file name="comingsoon.html" crc="3851039283" seo="true" mt="1420488587387" redirect="false"/>
   </folder>
-  <file name="index.html" crc="4286817617" seo="true" mt="1466463272636" redirect="true"/>
+  <file name="index.html" crc="4080353355" seo="true" mt="1467440353499" redirect="true"/>
   <file name="revoke.html" crc="464298851" seo="true" mt="1453245254338" redirect="true"/>
   <file name="25hours.html" crc="14835938" seo="true" mt="1453245254338" redirect="true"/>
   <file name="musketeers.html" crc="426179539" seo="true" mt="1453245254338" redirect="true"/>
@@ -709,6 +709,6 @@
   <file name="jellyfish-game.html" crc="357851460" seo="true" mt="1453245254338" redirect="true"/>
   <file name="openpage_thesis.html" crc="4163606592" seo="true" mt="1466407158399" redirect="true"/>
   <file name="project.html" crc="198567884" seo="true" mt="1466409134767" redirect="true"/>
-  <file name="attamatic.html" crc="430048192" seo="true" mt="1467404123236" redirect="true"/>
-  <file name="betweenspaces.html" crc="3985772810" seo="true" mt="1466464837300" redirect="true"/>
+  <file name="attamatic.html" crc="430048192" seo="true" mt="1467440140102" redirect="true"/>
+  <file name="betweenspaces.html" crc="4090797334" seo="true" mt="1467442106008" redirect="true"/>
 </manifest>
