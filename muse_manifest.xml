@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nitchafa.me" resolutions="1x" timestamp="1467442137462">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nitchafa.me" resolutions="1x" timestamp="1467442485690">
   <folder name="css">
     <file name="site_global.css" crc="4027422851"/>
     <file name="master_a-master.css" crc="463033209" ref="scrubbmedley:selfie:grienday:revoke:slowspace:labs:1081009:scrubbkid:musketeers:teefox:lick-it:lucid:sudked:save-cursive:openpage_thesis:illustration:repitation-in-glsl:60miles:melody:dilation:disturbingmuses:jellyfish-game:about:reel:project:5in5:redriding:celanimation:lonelylego:balancingsound:25hours:pijika:index:keybod:bootcampcode:restless:electricneonlamp:unitylab:betweenspaces:attamatic"/>
@@ -75,8 +75,8 @@
     <file name="iefonts_electricneonlamp.css" crc="4201448084" ref="electricneonlamp"/>
     <file name="unitylab.css" crc="3831259895" ref="unitylab"/>
     <file name="iefonts_about.css" crc="408762408" ref="about"/>
-    <file name="betweenspaces.css" crc="3981245148" ref="betweenspaces"/>
-    <file name="iefonts_betweenspaces.css" crc="3759117183" ref="betweenspaces"/>
+    <file name="betweenspaces.css" crc="282874309" ref="betweenspaces"/>
+    <file name="iefonts_betweenspaces.css" crc="253617736" ref="betweenspaces"/>
     <file name="attamatic.css" crc="4033053638" ref="attamatic"/>
     <file name="iefonts_attamatic.css" crc="4052281732" ref="attamatic"/>
   </folder>
@@ -99,7 +99,7 @@
     <file name="touchswipe.js" crc="497316881" ref="revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:1081009:60miles:pijika:redriding:sudked:grienday:electricneonlamp:lucid:melody:disturbingmuses:5in5:keybod:lick-it:dilation:jellyfish-game:attamatic:betweenspaces"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="236454869" ref="phone>index:index:about"/>
+    <file name="favicon.ico" crc="236454869" ref="phone>index:index:about:betweenspaces"/>
     <file name="fame_ident2013.gif" crc="216467222" seo="true" ref="index:revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:comingsoon:reel:about:1081009:60miles:pijika:teefox:redriding:sudked:grienday:electricneonlamp:labs:lucid:celanimation:melody:disturbingmuses:bootcampcode:5in5:selfie:unitylab:slowspace:balancingsound:save-cursive:keybod:illustration:lick-it:dilation:repitation-in-glsl:jellyfish-game:openpage_thesis:project:attamatic:betweenspaces"/>
     <file name="new1mail.png" crc="4148908067" seo="true" ref="index:comingsoon:reel:about:labs:project"/>
     <file name="new1mail-u7586-r-fr.png" crc="4051469361" ref="index:comingsoon:reel:labs:project"/>
@@ -710,5 +710,5 @@
   <file name="openpage_thesis.html" crc="4163606592" seo="true" mt="1466407158399" redirect="true"/>
   <file name="project.html" crc="198567884" seo="true" mt="1466409134767" redirect="true"/>
   <file name="attamatic.html" crc="430048192" seo="true" mt="1467440140102" redirect="true"/>
-  <file name="betweenspaces.html" crc="4090797334" seo="true" mt="1467442106008" redirect="true"/>
+  <file name="betweenspaces.html" crc="4083523404" seo="true" mt="1467442429623" redirect="true"/>
 </manifest>
