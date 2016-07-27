@@ -1,7 +1,7 @@
 .version.repitation_in_glsl /* version checker */
 {
-	color: #0000E7;
-	background-color: #5EDB5E;
+	color: #000012;
+	background-color: #199112;
 }
 
 #muse_css_mq
@@ -187,8 +187,8 @@
 	min-height: 301px;
 	background-color: transparent;
 	padding: 15px;
-	line-height: 24px;
 	font-size: 16px;
+	line-height: 24px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
