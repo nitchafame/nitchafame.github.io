@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nitchafa.me" resolutions="1x" timestamp="1469602187380">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nitchafa.me" resolutions="1x" timestamp="1471491817228">
   <folder name="css">
-    <file name="site_global.css" crc="4027422851"/>
-    <file name="master_a-master.css" crc="13956267" ref="scrubbmedley:selfie:grienday:revoke:slowspace:labs:1081009:scrubbkid:musketeers:teefox:lick-it:lucid:sudked:save-cursive:openpage_thesis:illustration:repitation-in-glsl:60miles:melody:dilation:disturbingmuses:jellyfish-game:about:reel:project:5in5:redriding:celanimation:lonelylego:balancingsound:25hours:pijika:index:keybod:bootcampcode:restless:electricneonlamp:unitylab:betweenspaces:attamatic"/>
+    <file name="site_global.css" crc="120317707"/>
+    <file name="master_a-master.css" crc="66529189" ref="scrubbmedley:selfie:grienday:revoke:slowspace:labs:1081009:scrubbkid:musketeers:teefox:lick-it:lucid:sudked:save-cursive:openpage_thesis:illustration:repitation-in-glsl:60miles:melody:dilation:disturbingmuses:jellyfish-game:about:reel:project:5in5:redriding:celanimation:lonelylego:balancingsound:25hours:pijika:index:keybod:bootcampcode:restless:electricneonlamp:unitylab:betweenspaces:attamatic"/>
     <file name="comingsoon.css" crc="3887207869" ref="comingsoon"/>
     <file name="iefonts_comingsoon.css" crc="4042783638" ref="comingsoon"/>
     <file name="scrubbmedley.css" crc="4089321841" ref="scrubbmedley"/>
@@ -23,8 +23,8 @@
     <file name="iefonts_musketeers.css" crc="4269935492" ref="musketeers"/>
     <file name="teefox.css" crc="4252580791" ref="teefox"/>
     <file name="iefonts_teefox.css" crc="3802948851" ref="teefox"/>
-    <file name="lick-it.css" crc="279819101" ref="lick-it"/>
-    <file name="iefonts_lick-it.css" crc="162503417" ref="lick-it"/>
+    <file name="lick-it.css" crc="3974384855" ref="lick-it"/>
+    <file name="iefonts_lick-it.css" crc="4207953380" ref="lick-it"/>
     <file name="lucid.css" crc="218175066" ref="lucid"/>
     <file name="iefonts_lucid.css" crc="3954344136" ref="lucid"/>
     <file name="sudked.css" crc="4204351895" ref="sudked"/>
@@ -46,7 +46,7 @@
     <file name="iefonts_disturbingmuses.css" crc="482504350" ref="disturbingmuses"/>
     <file name="jellyfish-game.css" crc="4166235673" ref="jellyfish-game"/>
     <file name="iefonts_jellyfish-game.css" crc="174982358" ref="jellyfish-game"/>
-    <file name="about.css" crc="141835459" ref="about"/>
+    <file name="about.css" crc="78777350" ref="about"/>
     <file name="reel.css" crc="339122940" ref="reel"/>
     <file name="iefonts_reel.css" crc="457860884" ref="reel"/>
     <file name="project.css" crc="4266618818" ref="project"/>
@@ -74,7 +74,7 @@
     <file name="electricneonlamp.css" crc="4114918113" ref="electricneonlamp"/>
     <file name="iefonts_electricneonlamp.css" crc="4201448084" ref="electricneonlamp"/>
     <file name="unitylab.css" crc="3831259895" ref="unitylab"/>
-    <file name="iefonts_about.css" crc="408762408" ref="about"/>
+    <file name="iefonts_about.css" crc="523077845" ref="about"/>
     <file name="betweenspaces.css" crc="282874309" ref="betweenspaces"/>
     <file name="iefonts_betweenspaces.css" crc="253617736" ref="betweenspaces"/>
     <file name="attamatic.css" crc="4033053638" ref="attamatic"/>
@@ -99,7 +99,7 @@
     <file name="touchswipe.js" crc="497316881" ref="revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:1081009:60miles:pijika:redriding:sudked:grienday:electricneonlamp:lucid:melody:disturbingmuses:5in5:keybod:lick-it:dilation:jellyfish-game:attamatic:betweenspaces"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="236454869" ref="phone>index:index:about:betweenspaces"/>
+    <file name="favicon.ico" crc="236454869" ref="phone>index:index:about:betweenspaces:lick-it"/>
     <file name="fame_ident2013.gif" crc="216467222" seo="true" ref="index:revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:comingsoon:reel:about:1081009:60miles:pijika:teefox:redriding:sudked:grienday:electricneonlamp:labs:lucid:celanimation:melody:disturbingmuses:bootcampcode:5in5:selfie:unitylab:slowspace:balancingsound:save-cursive:keybod:illustration:lick-it:dilation:repitation-in-glsl:jellyfish-game:openpage_thesis:project:attamatic:betweenspaces"/>
     <file name="new1mail.png" crc="4148908067" seo="true" ref="index:comingsoon:reel:about:labs:project"/>
     <file name="new1mail-u7586-r-fr.png" crc="4051469361" ref="index:comingsoon:reel:labs:project"/>
@@ -682,7 +682,7 @@
   <file name="restless.html" crc="3783466131" seo="true" mt="1453245254338" redirect="true"/>
   <file name="comingsoon.html" crc="4280239855" seo="true" mt="1466191587780" redirect="true"/>
   <file name="reel.html" crc="327297141" seo="true" mt="1466240192655" redirect="true"/>
-  <file name="about.html" crc="3874103725" seo="true" mt="1467404500196" redirect="true"/>
+  <file name="about.html" crc="4097294591" seo="true" mt="1471491384497" redirect="true"/>
   <file name="1081009.html" crc="4003436218" seo="true" mt="1453245254338" redirect="true"/>
   <file name="60miles.html" crc="529272323" seo="true" mt="1453245254338" redirect="true"/>
   <file name="pijika.html" crc="120860163" seo="true" mt="1453245254338" redirect="true"/>
@@ -705,7 +705,7 @@
   <file name="save-cursive.html" crc="136563782" seo="true" mt="1453245254338" redirect="true"/>
   <file name="keybod.html" crc="4126562673" seo="true" mt="1466407341962" redirect="true"/>
   <file name="illustration.html" crc="4050294961" seo="true" mt="1453245254338" redirect="true"/>
-  <file name="lick-it.html" crc="4166287538" seo="true" mt="1454225084658" redirect="true"/>
+  <file name="lick-it.html" crc="4150122745" seo="true" mt="1471491798004" redirect="true"/>
   <file name="dilation.html" crc="3868717092" seo="true" mt="1466546819023" redirect="true"/>
   <file name="repitation-in-glsl.html" crc="431451128" seo="true" mt="1469602162616" redirect="true"/>
   <file name="jellyfish-game.html" crc="357851460" seo="true" mt="1453245254338" redirect="true"/>

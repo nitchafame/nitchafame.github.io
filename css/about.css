@@ -1,7 +1,7 @@
 .version.about /* version checker */
 {
-	color: #000008;
-	background-color: #743CC3;
+	color: #000004;
+	background-color: #B20C06;
 }
 
 #muse_css_mq
@@ -291,10 +291,17 @@
 	font-weight: 700;
 }
 
-#pu24148-51
+#ppu24148-51
 {
 	width: 0.01px;
 	margin-top: 38px;
+}
+
+#pu24148-51
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 400px;
 }
 
 #u24148-51
@@ -312,7 +319,6 @@
 	font-family: quicksand, sans-serif;
 	position: relative;
 	margin-right: -10000px;
-	left: 400px;
 }
 
 #u24148
@@ -336,6 +342,57 @@
 #u24148-6,#u24148-9,#u24148-12,#u24148-15,#u24148-18,#u24148-21,#u24148-24,#u24148-25,#u24148-27,#u24148-30,#u24148-33,#u24148-36,#u24148-39,#u24148-40,#u24148-42,#u24148-45,#u24148-48,#u24148-49
 {
 	font-weight: 400;
+}
+
+#u24545-4
+{
+	z-index: 196;
+	width: 110px;
+	min-height: 11px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EBEBEB;
+	padding: 1px;
+	line-height: 14px;
+	text-align: left;
+	color: #000000;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 177px;
+	left: 77px;
+}
+
+#u24545-4:hover
+{
+	background-color: #66C89F;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	min-height: 11px;
+	width: 110px;
+	margin: 177px -10000px 0px 0px;
+}
+
+#u24545-4:active
+{
+	background-color: #8FE7C2;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	min-height: 11px;
+	width: 110px;
+	margin: 177px -10000px 0px 0px;
+}
+
+#u24545-4:hover p,#u24545-4:hover span,#u24545-4:active p,#u24545-4:active span
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u24545
+{
+	font-size: 14px;
+	font-family: quicksand, sans-serif;
+	font-weight: 300;
 }
 
 #u24160
@@ -501,8 +558,8 @@
 	border-color: transparent;
 	background-color: #EBEBEB;
 	padding: 1px;
-	text-align: left;
 	line-height: 14px;
+	text-align: left;
 	color: #000000;
 	position: relative;
 }
@@ -542,8 +599,8 @@
 	border-color: transparent;
 	background-color: #EBEBEB;
 	padding: 1px;
-	text-align: left;
 	line-height: 14px;
+	text-align: left;
 	color: #000000;
 	margin-top: 4px;
 	position: relative;
@@ -584,8 +641,8 @@
 	border-color: transparent;
 	background-color: #EBEBEB;
 	padding: 1px;
-	text-align: left;
 	line-height: 14px;
+	text-align: left;
 	color: #000000;
 	margin-top: 4px;
 	position: relative;
@@ -626,8 +683,8 @@
 	border-color: transparent;
 	background-color: #EBEBEB;
 	padding: 1px;
-	text-align: left;
 	line-height: 14px;
+	text-align: left;
 	color: #000000;
 	margin-top: 5px;
 	position: relative;
@@ -668,8 +725,8 @@
 	border-color: transparent;
 	background-color: #EBEBEB;
 	padding: 1px;
-	text-align: left;
 	line-height: 14px;
+	text-align: left;
 	color: #000000;
 	margin-top: 4px;
 	position: relative;
@@ -700,8 +757,8 @@
 	border-color: transparent;
 	background-color: #EBEBEB;
 	padding: 1px;
-	text-align: left;
 	line-height: 14px;
+	text-align: left;
 	color: #000000;
 	margin-top: 4px;
 	position: relative;
@@ -742,8 +799,8 @@
 	border-color: transparent;
 	background-color: #EBEBEB;
 	padding: 1px;
-	text-align: left;
 	line-height: 14px;
+	text-align: left;
 	color: #000000;
 	margin-top: 4px;
 	position: relative;
@@ -784,8 +841,8 @@
 	border-color: transparent;
 	background-color: #EBEBEB;
 	padding: 1px;
-	text-align: left;
 	line-height: 14px;
+	text-align: left;
 	color: #000000;
 	margin-top: 4px;
 	position: relative;
@@ -826,8 +883,8 @@
 	border-color: transparent;
 	background-color: #EBEBEB;
 	padding: 1px;
-	text-align: left;
 	line-height: 14px;
+	text-align: left;
 	color: #000000;
 	margin-top: 5px;
 	position: relative;
@@ -882,8 +939,8 @@
 	border-color: transparent;
 	background-color: #EBEBEB;
 	padding: 1px;
-	text-align: left;
 	line-height: 14px;
+	text-align: left;
 	color: #000000;
 	position: relative;
 }
@@ -923,8 +980,8 @@
 	border-color: transparent;
 	background-color: #EBEBEB;
 	padding: 1px;
-	text-align: left;
 	line-height: 14px;
+	text-align: left;
 	color: #000000;
 	margin-top: 4px;
 	position: relative;
@@ -972,8 +1029,8 @@
 	border-color: transparent;
 	background-color: #EBEBEB;
 	padding: 1px;
-	text-align: left;
 	line-height: 14px;
+	text-align: left;
 	color: #000000;
 	position: relative;
 	margin-right: -10000px;
