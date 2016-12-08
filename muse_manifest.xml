@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nitchafa.me" resolutions="1x" timestamp="1481234688936">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nitchafa.me" resolutions="1x" timestamp="1481234981285">
   <folder name="css">
     <file name="site_global.css" crc="4027422851"/>
     <file name="master_a-master.css" crc="66529189" ref="scrubbmedley:selfie:grienday:revoke:slowspace:labs:1081009:scrubbkid:musketeers:teefox:lick-it:lucid:sudked:save-cursive:openpage_thesis:illustration:repitation-in-glsl:60miles:melody:dilation:disturbingmuses:jellyfish-game:about:reel:project:5in5:redriding:celanimation:lonelylego:balancingsound:25hours:pijika:index:keybod:bootcampcode:restless:electricneonlamp:unitylab:betweenspaces:attamatic"/>
@@ -46,7 +46,7 @@
     <file name="iefonts_disturbingmuses.css" crc="482504350" ref="disturbingmuses"/>
     <file name="jellyfish-game.css" crc="4166235673" ref="jellyfish-game"/>
     <file name="iefonts_jellyfish-game.css" crc="174982358" ref="jellyfish-game"/>
-    <file name="about.css" crc="93278663" ref="about"/>
+    <file name="about.css" crc="309674675" ref="about"/>
     <file name="reel.css" crc="339122940" ref="reel"/>
     <file name="iefonts_reel.css" crc="457860884" ref="reel"/>
     <file name="project.css" crc="4266618818" ref="project"/>
@@ -682,7 +682,7 @@
   <file name="restless.html" crc="3783466131" seo="true" mt="1453245254338" redirect="true"/>
   <file name="comingsoon.html" crc="4280239855" seo="true" mt="1466191587780" redirect="true"/>
   <file name="reel.html" crc="327297141" seo="true" mt="1466240192655" redirect="true"/>
-  <file name="about.html" crc="3867557840" seo="true" mt="1481234661980" redirect="true"/>
+  <file name="about.html" crc="3867557840" seo="true" mt="1481234854675" redirect="true"/>
   <file name="1081009.html" crc="4003436218" seo="true" mt="1453245254338" redirect="true"/>
   <file name="60miles.html" crc="529272323" seo="true" mt="1453245254338" redirect="true"/>
   <file name="pijika.html" crc="120860163" seo="true" mt="1453245254338" redirect="true"/>
