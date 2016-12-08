@@ -1,6 +1,6 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nitchafa.me" resolutions="1x" timestamp="1473750284440">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nitchafa.me" resolutions="1x" timestamp="1481232946553">
   <folder name="css">
-    <file name="site_global.css" crc="120317707"/>
+    <file name="site_global.css" crc="4027422851"/>
     <file name="master_a-master.css" crc="66529189" ref="scrubbmedley:selfie:grienday:revoke:slowspace:labs:1081009:scrubbkid:musketeers:teefox:lick-it:lucid:sudked:save-cursive:openpage_thesis:illustration:repitation-in-glsl:60miles:melody:dilation:disturbingmuses:jellyfish-game:about:reel:project:5in5:redriding:celanimation:lonelylego:balancingsound:25hours:pijika:index:keybod:bootcampcode:restless:electricneonlamp:unitylab:betweenspaces:attamatic"/>
     <file name="comingsoon.css" crc="3887207869" ref="comingsoon"/>
     <file name="iefonts_comingsoon.css" crc="4042783638" ref="comingsoon"/>
@@ -46,7 +46,7 @@
     <file name="iefonts_disturbingmuses.css" crc="482504350" ref="disturbingmuses"/>
     <file name="jellyfish-game.css" crc="4166235673" ref="jellyfish-game"/>
     <file name="iefonts_jellyfish-game.css" crc="174982358" ref="jellyfish-game"/>
-    <file name="about.css" crc="140600584" ref="about"/>
+    <file name="about.css" crc="4110944833" ref="about"/>
     <file name="reel.css" crc="339122940" ref="reel"/>
     <file name="iefonts_reel.css" crc="457860884" ref="reel"/>
     <file name="project.css" crc="4266618818" ref="project"/>
@@ -74,11 +74,11 @@
     <file name="electricneonlamp.css" crc="4114918113" ref="electricneonlamp"/>
     <file name="iefonts_electricneonlamp.css" crc="4201448084" ref="electricneonlamp"/>
     <file name="unitylab.css" crc="3831259895" ref="unitylab"/>
-    <file name="iefonts_about.css" crc="523077845" ref="about"/>
+    <file name="iefonts_about.css" crc="388134542" ref="about"/>
     <file name="betweenspaces.css" crc="282874309" ref="betweenspaces"/>
     <file name="iefonts_betweenspaces.css" crc="253617736" ref="betweenspaces"/>
-    <file name="attamatic.css" crc="4033053638" ref="attamatic"/>
-    <file name="iefonts_attamatic.css" crc="4052281732" ref="attamatic"/>
+    <file name="attamatic.css" crc="4242810961" ref="attamatic"/>
+    <file name="iefonts_attamatic.css" crc="4137289442" ref="attamatic"/>
   </folder>
   <folder name="assets">
     <file name="2bootcampcodecat.mov" crc="183840013" seo="true" mt="1419906920000"/>
@@ -682,7 +682,7 @@
   <file name="restless.html" crc="3783466131" seo="true" mt="1453245254338" redirect="true"/>
   <file name="comingsoon.html" crc="4280239855" seo="true" mt="1466191587780" redirect="true"/>
   <file name="reel.html" crc="327297141" seo="true" mt="1466240192655" redirect="true"/>
-  <file name="about.html" crc="348692100" seo="true" mt="1473750252980" redirect="true"/>
+  <file name="about.html" crc="4286715661" seo="true" mt="1481232904476" redirect="true"/>
   <file name="1081009.html" crc="4003436218" seo="true" mt="1453245254338" redirect="true"/>
   <file name="60miles.html" crc="529272323" seo="true" mt="1453245254338" redirect="true"/>
   <file name="pijika.html" crc="120860163" seo="true" mt="1453245254338" redirect="true"/>
@@ -711,6 +711,6 @@
   <file name="jellyfish-game.html" crc="357851460" seo="true" mt="1453245254338" redirect="true"/>
   <file name="openpage_thesis.html" crc="4163606592" seo="true" mt="1466407158399" redirect="true"/>
   <file name="project.html" crc="198567884" seo="true" mt="1466409134767" redirect="true"/>
-  <file name="attamatic.html" crc="430048192" seo="true" mt="1467440140102" redirect="true"/>
+  <file name="attamatic.html" crc="3761652569" seo="true" mt="1481232735942" redirect="true"/>
   <file name="betweenspaces.html" crc="4083523404" seo="true" mt="1467442429623" redirect="true"/>
 </manifest>
