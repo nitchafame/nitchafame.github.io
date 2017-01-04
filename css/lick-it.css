@@ -1,7 +1,7 @@
 .version.lick_it /* version checker */
 {
-	color: #0000EC;
-	background-color: #E44CD7;
+	color: #0000F0;
+	background-color: #5413DC;
 }
 
 #muse_css_mq
@@ -317,8 +317,8 @@
 	border-color: transparent;
 	background-color: #EBEBEB;
 	padding: 1px;
-	line-height: 14px;
 	text-align: left;
+	line-height: 14px;
 	color: #000000;
 	position: relative;
 	margin-right: -10000px;

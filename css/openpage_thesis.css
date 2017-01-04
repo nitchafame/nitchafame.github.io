@@ -1,7 +1,7 @@
 .version.openpage_thesis /* version checker */
 {
-	color: #0000F7;
-	background-color: #09772D;
+	color: #0000F2;
+	background-color: #1CE27D;
 }
 
 #muse_css_mq
@@ -188,8 +188,8 @@
 	z-index: 54;
 	width: 318px;
 	background-color: transparent;
-	font-size: 19px;
 	line-height: 26px;
+	font-size: 19px;
 	margin-left: 14px;
 	position: relative;
 }
@@ -383,9 +383,9 @@
 	border-color: transparent;
 	background-color: #E2E2E2;
 	padding: 1px;
-	color: #000000;
 	text-align: center;
 	line-height: 14px;
+	color: #000000;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 90px;

@@ -1,7 +1,7 @@
 .version.betweenspaces /* version checker */
 {
-	color: #000010;
-	background-color: #DC51C5;
+	color: #0000E9;
+	background-color: #8D2658;
 }
 
 #muse_css_mq
@@ -488,8 +488,8 @@
 	background-color: #EBEBEB;
 	padding: 1px;
 	text-align: left;
-	color: #000000;
 	line-height: 14px;
+	color: #000000;
 }
 
 #u24413-4:hover
@@ -518,8 +518,8 @@
 	background-color: #EBEBEB;
 	padding: 1px;
 	text-align: left;
-	color: #000000;
 	line-height: 14px;
+	color: #000000;
 }
 
 #u24443-4:hover
@@ -548,8 +548,8 @@
 	background-color: #EBEBEB;
 	padding: 1px;
 	text-align: left;
-	color: #000000;
 	line-height: 14px;
+	color: #000000;
 }
 
 #u24449-4:hover
@@ -585,8 +585,8 @@
 	background-color: #EBEBEB;
 	padding: 1px;
 	text-align: left;
-	color: #000000;
 	line-height: 14px;
+	color: #000000;
 }
 
 #u24419-4:hover
@@ -625,8 +625,8 @@
 	background-color: #EBEBEB;
 	padding: 1px;
 	text-align: left;
-	color: #000000;
 	line-height: 14px;
+	color: #000000;
 }
 
 #u24485-4:hover
@@ -665,8 +665,8 @@
 	background-color: #EBEBEB;
 	padding: 1px;
 	text-align: left;
-	color: #000000;
 	line-height: 14px;
+	color: #000000;
 }
 
 #u24497-4:hover
@@ -705,8 +705,8 @@
 	background-color: #EBEBEB;
 	padding: 1px;
 	text-align: left;
-	color: #000000;
 	line-height: 14px;
+	color: #000000;
 }
 
 #u24455-4:hover
@@ -735,8 +735,8 @@
 	background-color: #EBEBEB;
 	padding: 1px;
 	text-align: left;
-	color: #000000;
 	line-height: 14px;
+	color: #000000;
 }
 
 #u24461-4:hover
@@ -765,8 +765,8 @@
 	background-color: #EBEBEB;
 	padding: 1px;
 	text-align: left;
-	color: #000000;
 	line-height: 14px;
+	color: #000000;
 }
 
 #u24467-4:hover
@@ -805,8 +805,8 @@
 	background-color: #EBEBEB;
 	padding: 1px;
 	text-align: left;
-	color: #000000;
 	line-height: 14px;
+	color: #000000;
 }
 
 #u24503-4:hover
@@ -845,8 +845,8 @@
 	background-color: #EBEBEB;
 	padding: 1px;
 	text-align: left;
-	color: #000000;
 	line-height: 14px;
+	color: #000000;
 }
 
 #u24479-4:hover
@@ -880,8 +880,8 @@
 	background-color: #EBEBEB;
 	padding: 1px;
 	text-align: left;
-	color: #000000;
 	line-height: 14px;
+	color: #000000;
 }
 
 #u24473-4:hover
@@ -920,8 +920,8 @@
 	background-color: #EBEBEB;
 	padding: 1px;
 	text-align: left;
-	color: #000000;
 	line-height: 14px;
+	color: #000000;
 }
 
 #u24509-4:hover
@@ -960,8 +960,8 @@
 	background-color: #EBEBEB;
 	padding: 1px;
 	text-align: left;
-	color: #000000;
 	line-height: 14px;
+	color: #000000;
 }
 
 #u24515-4:hover
@@ -1011,8 +1011,8 @@
 	background-color: #EBEBEB;
 	padding: 1px;
 	text-align: left;
-	color: #000000;
 	line-height: 14px;
+	color: #000000;
 }
 
 #u24521-4:hover
@@ -1063,8 +1063,8 @@
 	background-color: #EBEBEB;
 	padding: 1px;
 	text-align: left;
-	color: #000000;
 	line-height: 14px;
+	color: #000000;
 }
 
 #u24527-4:hover
@@ -1187,10 +1187,10 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
+	line-height: 42px;
 	color: #999999;
 	text-align: center;
 	font-size: 30px;
-	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
 
@@ -1208,10 +1208,10 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
+	line-height: 42px;
 	color: #999999;
 	text-align: center;
 	font-size: 30px;
-	line-height: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 340px;
 }

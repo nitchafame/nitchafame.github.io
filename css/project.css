@@ -1,7 +1,7 @@
 .version.project /* version checker */
 {
-	color: #0000FE;
-	background-color: #4F6FC2;
+	color: #000001;
+	background-color: #C6B55C;
 }
 
 #muse_css_mq
@@ -1210,8 +1210,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 60px;
-	color: #FFFFFF;
 	line-height: 36px;
+	color: #FFFFFF;
 	text-align: center;
 	font-size: 30px;
 	font-family: quicksand, sans-serif;
@@ -2425,8 +2425,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 70px;
-	color: #FFFFFF;
 	line-height: 22px;
+	color: #FFFFFF;
 	text-align: center;
 	font-size: 18px;
 	font-family: quicksand, sans-serif;

@@ -1,7 +1,7 @@
 .version.restless /* version checker */
 {
-	color: #0000F2;
-	background-color: #3F10A9;
+	color: #00000D;
+	background-color: #6D971A;
 }
 
 #muse_css_mq
@@ -243,8 +243,8 @@
 	width: 480px;
 	min-height: 234px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 24px;
+	font-size: 16px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -512,9 +512,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
+	line-height: 67px;
 	text-align: center;
 	font-size: 48px;
-	line-height: 67px;
 	left: 81px;
 }
 
@@ -537,10 +537,10 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
+	line-height: 67px;
 	color: #999999;
 	text-align: center;
 	font-size: 48px;
-	line-height: 67px;
 	left: 801px;
 }
 

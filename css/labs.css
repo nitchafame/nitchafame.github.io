@@ -1,7 +1,7 @@
 .version.labs /* version checker */
 {
-	color: #0000F4;
-	background-color: #80522A;
+	color: #0000F8;
+	background-color: #4734B1;
 }
 
 #muse_css_mq
@@ -316,8 +316,8 @@
 	min-height: 103px;
 	background-color: transparent;
 	padding: 15px;
-	font-size: 16px;
 	line-height: 24px;
+	font-size: 16px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -561,8 +561,8 @@
 	z-index: 76;
 	width: 286px;
 	background-color: transparent;
-	font-size: 11px;
 	line-height: 13px;
+	font-size: 11px;
 	font-family: quicksand, sans-serif;
 	font-weight: 300;
 	margin-left: 272px;

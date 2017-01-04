@@ -1,7 +1,7 @@
 .version.bootcampcode /* version checker */
 {
-	color: #000003;
-	background-color: #117913;
+	color: #0000E3;
+	background-color: #F5A7C1;
 }
 
 #muse_css_mq
@@ -170,8 +170,8 @@
 	min-height: 79px;
 	background-color: transparent;
 	padding: 15px;
-	font-size: 16px;
 	line-height: 24px;
+	font-size: 16px;
 	font-family: quicksand, sans-serif;
 	font-weight: 400;
 	margin-top: 26px;

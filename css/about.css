@@ -1,7 +1,7 @@
 .version.about /* version checker */
 {
-	color: #000012;
-	background-color: #7542B3;
+	color: #0000FA;
+	background-color: #CE39FB;
 }
 
 #muse_css_mq
@@ -360,8 +360,8 @@
 	border-color: transparent;
 	background-color: #EBEBEB;
 	padding: 1px;
-	line-height: 14px;
 	text-align: left;
+	line-height: 14px;
 	color: #000000;
 	position: relative;
 	margin-right: -10000px;
@@ -404,8 +404,8 @@
 	border-color: transparent;
 	background-color: #EBEBEB;
 	padding: 1px;
-	line-height: 14px;
 	text-align: left;
+	line-height: 14px;
 	color: #000000;
 	position: relative;
 	margin-right: -10000px;
@@ -448,8 +448,8 @@
 	border-color: transparent;
 	background-color: #EBEBEB;
 	padding: 1px;
-	line-height: 14px;
 	text-align: left;
+	line-height: 14px;
 	color: #000000;
 	position: relative;
 	margin-right: -10000px;
@@ -653,8 +653,8 @@
 	border-color: transparent;
 	background-color: #EBEBEB;
 	padding: 1px;
-	line-height: 14px;
 	text-align: left;
+	line-height: 14px;
 	color: #000000;
 	position: relative;
 }
@@ -694,8 +694,8 @@
 	border-color: transparent;
 	background-color: #EBEBEB;
 	padding: 1px;
-	line-height: 14px;
 	text-align: left;
+	line-height: 14px;
 	color: #000000;
 	margin-top: 4px;
 	position: relative;
@@ -736,8 +736,8 @@
 	border-color: transparent;
 	background-color: #EBEBEB;
 	padding: 1px;
-	line-height: 14px;
 	text-align: left;
+	line-height: 14px;
 	color: #000000;
 	margin-top: 4px;
 	position: relative;
@@ -778,8 +778,8 @@
 	border-color: transparent;
 	background-color: #EBEBEB;
 	padding: 1px;
-	line-height: 14px;
 	text-align: left;
+	line-height: 14px;
 	color: #000000;
 	margin-top: 5px;
 	position: relative;
@@ -820,8 +820,8 @@
 	border-color: transparent;
 	background-color: #EBEBEB;
 	padding: 1px;
-	line-height: 14px;
 	text-align: left;
+	line-height: 14px;
 	color: #000000;
 	margin-top: 4px;
 	position: relative;
@@ -852,8 +852,8 @@
 	border-color: transparent;
 	background-color: #EBEBEB;
 	padding: 1px;
-	line-height: 14px;
 	text-align: left;
+	line-height: 14px;
 	color: #000000;
 	margin-top: 4px;
 	position: relative;
@@ -894,8 +894,8 @@
 	border-color: transparent;
 	background-color: #EBEBEB;
 	padding: 1px;
-	line-height: 14px;
 	text-align: left;
+	line-height: 14px;
 	color: #000000;
 	margin-top: 4px;
 	position: relative;
@@ -936,8 +936,8 @@
 	border-color: transparent;
 	background-color: #EBEBEB;
 	padding: 1px;
-	line-height: 14px;
 	text-align: left;
+	line-height: 14px;
 	color: #000000;
 	margin-top: 4px;
 	position: relative;
@@ -978,8 +978,8 @@
 	border-color: transparent;
 	background-color: #EBEBEB;
 	padding: 1px;
-	line-height: 14px;
 	text-align: left;
+	line-height: 14px;
 	color: #000000;
 	margin-top: 5px;
 	position: relative;
@@ -1034,8 +1034,8 @@
 	border-color: transparent;
 	background-color: #EBEBEB;
 	padding: 1px;
-	line-height: 14px;
 	text-align: left;
+	line-height: 14px;
 	color: #000000;
 	position: relative;
 }
@@ -1075,8 +1075,8 @@
 	border-color: transparent;
 	background-color: #EBEBEB;
 	padding: 1px;
-	line-height: 14px;
 	text-align: left;
+	line-height: 14px;
 	color: #000000;
 	margin-top: 4px;
 	position: relative;
@@ -1117,8 +1117,8 @@
 	border-color: transparent;
 	background-color: #EBEBEB;
 	padding: 1px;
-	line-height: 14px;
 	text-align: left;
+	line-height: 14px;
 	color: #000000;
 	position: relative;
 	margin-right: -10000px;
@@ -1173,8 +1173,8 @@
 	border-color: transparent;
 	background-color: #EBEBEB;
 	padding: 1px;
-	line-height: 14px;
 	text-align: left;
+	line-height: 14px;
 	color: #000000;
 	position: relative;
 	margin-right: -10000px;
@@ -1237,7 +1237,7 @@
 	width: 21px;
 	min-height: 0px;
 	margin: 1px -10000px 0px 0px;
-	background: transparent url("../images/new1mail-u12721-r-fr.png") no-repeat left top;
+	background: transparent url("../images/new1mail-u7586-r-fr.png") no-repeat left top;
 }
 
 #u12723
@@ -1258,7 +1258,7 @@
 	height: 17px;
 	min-height: 0px;
 	margin: 1px -10000px 0px 0px;
-	background: transparent url("../images/new2fb-u12723-r-fr.png") no-repeat left top;
+	background: transparent url("../images/new2fb-u7588-r-fr.png") no-repeat left top;
 }
 
 #u12725
@@ -1276,7 +1276,7 @@
 	width: 16px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/new3insta-u12725-r-fr.png") no-repeat left top;
+	background: transparent url("../images/new3insta-u7590-r-fr.png") no-repeat left top;
 }
 
 #u12727
@@ -1295,7 +1295,7 @@
 	width: 15px;
 	min-height: 0px;
 	margin: 3px -10000px 0px 0px;
-	background: transparent url("../images/new4vimeo-u12727-r-fr.png") no-repeat left top;
+	background: transparent url("../images/new4vimeo-u7592-r-fr.png") no-repeat left top;
 }
 
 #u12729
@@ -1314,7 +1314,7 @@
 	width: 17px;
 	min-height: 0px;
 	margin: 1px -10000px 0px 0px;
-	background: transparent url("../images/new5pin-u12729-r-fr.png") no-repeat left top;
+	background: transparent url("../images/new5pin-u7594-r-fr.png") no-repeat left top;
 }
 
 #u12731
@@ -1333,7 +1333,7 @@
 	width: 18px;
 	min-height: 0px;
 	margin: 2px -10000px 0px 0px;
-	background: transparent url("../images/new6twitter-u12731-r-fr.png") no-repeat left top;
+	background: transparent url("../images/new6twitter-u7596-r-fr.png") no-repeat left top;
 }
 
 #u12721_img:hover,#u12725_img:hover,#u12727_img:hover,#u12729_img:hover,#u12731_img:hover
