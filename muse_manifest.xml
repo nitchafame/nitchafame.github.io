@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nitchafa.me" resolutions="1x" timestamp="1495672540116">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nitchafa.me" resolutions="1x" timestamp="1495823735992">
   <folder name="css">
     <file name="site_global.css" crc="424057446"/>
-    <file name="master_a-master.css" crc="4163626973" ref="pijika:lick-it:teefox:redriding:sudked:reel:electricneonlamp:revoke:attamatic:index:celanimation:bootcampcode:grienday:melody:5in5:25hours:lucid:keybod:save-cursive:dilation:balancingsound:about:openpage_thesis:labs:selfie:disturbingmuses:slowspace:unitylab:illustration:musketeers:project:scrubbmedley:betweenspaces:scrubbkid:lonelylego:repitation-in-glsl:restless:jellyfish-game:1081009:60miles"/>
+    <file name="master_a-master.css" crc="198938962" ref="pijika:lick-it:teefox:redriding:sudked:reel:electricneonlamp:revoke:attamatic:index:celanimation:bootcampcode:grienday:melody:5in5:25hours:lucid:keybod:save-cursive:dilation:balancingsound:about:openpage_thesis:labs:selfie:disturbingmuses:slowspace:unitylab:illustration:musketeers:project:scrubbmedley:betweenspaces:scrubbkid:lonelylego:repitation-in-glsl:restless:jellyfish-game:1081009:60miles"/>
     <file name="pijika.css" crc="394524111" ref="pijika"/>
     <file name="iefonts_pijika.css" crc="4050333073" ref="pijika"/>
     <file name="lick-it.css" crc="135991122" ref="lick-it"/>
@@ -42,7 +42,7 @@
     <file name="iefonts_dilation.css" crc="187289772" ref="dilation"/>
     <file name="balancingsound.css" crc="252961348" ref="balancingsound"/>
     <file name="iefonts_balancingsound.css" crc="2692596" ref="balancingsound"/>
-    <file name="about.css" crc="260317560" ref="about"/>
+    <file name="about.css" crc="156183137" ref="about"/>
     <file name="iefonts_about.css" crc="109564089" ref="about"/>
     <file name="openpage_thesis.css" crc="67251264" ref="openpage_thesis"/>
     <file name="iefonts_openpage_thesis.css" crc="3987240116" ref="openpage_thesis"/>
@@ -103,131 +103,131 @@
     <file name="favicon.ico" crc="236454869" ref="phone>index:about"/>
     <file name="fame_ident2013.gif" crc="216467222" seo="true" ref="index:revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:comingsoon:reel:about:1081009:60miles:pijika:teefox:redriding:sudked:grienday:electricneonlamp:labs:lucid:celanimation:melody:disturbingmuses:bootcampcode:5in5:selfie:unitylab:slowspace:balancingsound:save-cursive:keybod:illustration:lick-it:dilation:repitation-in-glsl:jellyfish-game:openpage_thesis:attamatic:project:betweenspaces">
       <caption webpage="1081009" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="labs" alt=""/>
-      <caption webpage="keybod" alt=""/>
-      <caption webpage="sudked" alt=""/>
-      <caption webpage="dilation" alt=""/>
-      <caption webpage="scrubbkid" alt=""/>
-      <caption webpage="lucid" alt=""/>
-      <caption webpage="25hours" alt=""/>
-      <caption webpage="teefox" alt=""/>
-      <caption webpage="disturbingmuses" alt=""/>
-      <caption webpage="lick-it" alt=""/>
-      <caption webpage="lonelylego" alt=""/>
+      <caption webpage="5in5" alt=""/>
+      <caption webpage="reel" alt=""/>
+      <caption webpage="balancingsound" alt=""/>
+      <caption webpage="selfie" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="restless" alt=""/>
       <caption webpage="grienday" alt=""/>
-      <caption webpage="60miles" alt=""/>
-      <caption webpage="bootcampcode" alt=""/>
-      <caption webpage="jellyfish-game" alt=""/>
-      <caption webpage="reel" alt=""/>
-      <caption webpage="celanimation" alt=""/>
-      <caption webpage="illustration" alt=""/>
-      <caption webpage="redriding" alt=""/>
-      <caption webpage="slowspace" alt=""/>
-      <caption webpage="electricneonlamp" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="unitylab" alt=""/>
-      <caption webpage="selfie" alt=""/>
-      <caption webpage="revoke" alt=""/>
-      <caption webpage="betweenspaces" alt=""/>
-      <caption webpage="5in5" alt=""/>
       <caption webpage="pijika" alt=""/>
-      <caption webpage="openpage_thesis" alt=""/>
-      <caption webpage="comingsoon" alt=""/>
-      <caption webpage="save-cursive" alt=""/>
+      <caption webpage="sudked" alt=""/>
+      <caption webpage="lucid" alt=""/>
+      <caption webpage="keybod" alt=""/>
+      <caption webpage="celanimation" alt=""/>
       <caption webpage="attamatic" alt=""/>
-      <caption webpage="melody" alt=""/>
-      <caption webpage="scrubbmedley" alt=""/>
-      <caption webpage="repitation-in-glsl" alt=""/>
+      <caption webpage="scrubbkid" alt=""/>
+      <caption webpage="electricneonlamp" alt=""/>
+      <caption webpage="comingsoon" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="slowspace" alt=""/>
+      <caption webpage="redriding" alt=""/>
+      <caption webpage="dilation" alt=""/>
+      <caption webpage="revoke" alt=""/>
+      <caption webpage="teefox" alt=""/>
+      <caption webpage="labs" alt=""/>
+      <caption webpage="lonelylego" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bootcampcode" alt=""/>
+      <caption webpage="openpage_thesis" alt=""/>
+      <caption webpage="disturbingmuses" alt=""/>
+      <caption webpage="save-cursive" alt=""/>
+      <caption webpage="60miles" alt=""/>
       <caption webpage="musketeers" alt=""/>
-      <caption webpage="balancingsound" alt=""/>
+      <caption webpage="lick-it" alt=""/>
+      <caption webpage="jellyfish-game" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="25hours" alt=""/>
+      <caption webpage="scrubbmedley" alt=""/>
+      <caption webpage="betweenspaces" alt=""/>
+      <caption webpage="repitation-in-glsl" alt=""/>
+      <caption webpage="melody" alt=""/>
+      <caption webpage="unitylab" alt=""/>
     </file>
     <file name="new1mail.png" crc="4148908067" seo="true" ref="index:comingsoon:reel:about:labs:project">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="labs" alt=""/>
-      <caption webpage="labs" alt=""/>
-      <caption webpage="reel" alt=""/>
-      <caption webpage="reel" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="comingsoon" alt=""/>
+      <caption webpage="reel" alt=""/>
+      <caption webpage="reel" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="labs" alt=""/>
+      <caption webpage="labs" alt=""/>
     </file>
     <file name="new1mail-u7586-r-fr.png" crc="4051469361" ref="index:comingsoon:reel:labs:project"/>
     <file name="new2fb.png" crc="3932500342" ref="index:reel:about:labs:project">
       <caption webpage="index" alt=""/>
-      <caption webpage="labs" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="reel" alt=""/>
       <caption webpage="project" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="labs" alt=""/>
     </file>
     <file name="new2fb-u7588-r-fr.png" crc="148424602" ref="index:reel:labs:project"/>
     <file name="new3insta.png" crc="3954085402" seo="true" ref="index:comingsoon:reel:about:labs:project">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="labs" alt=""/>
-      <caption webpage="labs" alt=""/>
-      <caption webpage="reel" alt=""/>
-      <caption webpage="reel" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="comingsoon" alt=""/>
+      <caption webpage="reel" alt=""/>
+      <caption webpage="reel" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="labs" alt=""/>
+      <caption webpage="labs" alt=""/>
     </file>
     <file name="new3insta-u7590-r-fr.png" crc="203242076" ref="index:comingsoon:reel:labs:project"/>
     <file name="new4vimeo.png" crc="4070217899" seo="true" ref="index:comingsoon:reel:about:labs:project">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="labs" alt=""/>
-      <caption webpage="labs" alt=""/>
-      <caption webpage="reel" alt=""/>
-      <caption webpage="reel" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="comingsoon" alt=""/>
+      <caption webpage="reel" alt=""/>
+      <caption webpage="reel" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="labs" alt=""/>
+      <caption webpage="labs" alt=""/>
     </file>
     <file name="new4vimeo-u7592-r-fr.png" crc="527731802" ref="index:comingsoon:reel:labs:project"/>
     <file name="new5pin.png" crc="470622459" seo="true" ref="index:comingsoon:reel:about:labs:project">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="labs" alt=""/>
-      <caption webpage="labs" alt=""/>
-      <caption webpage="reel" alt=""/>
-      <caption webpage="reel" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="comingsoon" alt=""/>
+      <caption webpage="reel" alt=""/>
+      <caption webpage="reel" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="labs" alt=""/>
+      <caption webpage="labs" alt=""/>
     </file>
     <file name="new5pin-u7594-r-fr.png" crc="4053791885" ref="index:comingsoon:reel:labs:project"/>
     <file name="new6twitter.png" crc="4020293093" seo="true" ref="index:comingsoon:reel:about:labs:project">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="labs" alt=""/>
-      <caption webpage="labs" alt=""/>
-      <caption webpage="reel" alt=""/>
-      <caption webpage="reel" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="comingsoon" alt=""/>
+      <caption webpage="reel" alt=""/>
+      <caption webpage="reel" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="labs" alt=""/>
+      <caption webpage="labs" alt=""/>
     </file>
     <file name="new6twitter-u7596-r-fr.png" crc="4116158665" ref="index:comingsoon:reel:labs:project"/>
     <file name="new7git.png" crc="3772234055" seo="true" ref="index:reel:about:labs:project">
       <caption webpage="index" alt=""/>
-      <caption webpage="labs" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="reel" alt=""/>
       <caption webpage="project" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="labs" alt=""/>
     </file>
     <file name="u15353-4.png" crc="3892128592" ref="index"/>
     <file name="betweenspaces_printed_editedsm-4.jpg" crc="433621374" seo="true" ref="index:project:betweenspaces">
@@ -1781,7 +1781,7 @@
   <file name="restless.html" crc="349245059" seo="true" mt="1453245254338" redirect="true"/>
   <file name="comingsoon.html" crc="74752010" seo="true" mt="1466191587780" redirect="true"/>
   <file name="reel.html" crc="4119145858" seo="true" mt="1466240192655" redirect="true"/>
-  <file name="about.html" crc="4096814371" seo="true" mt="1495672469756" redirect="true"/>
+  <file name="about.html" crc="4057777566" seo="true" mt="1495823695732" redirect="true"/>
   <file name="1081009.html" crc="390845501" seo="true" mt="1453245254338" redirect="true"/>
   <file name="60miles.html" crc="4059420184" seo="true" mt="1453245254338" redirect="true"/>
   <file name="pijika.html" crc="3857057676" seo="true" mt="1453245254338" redirect="true"/>
