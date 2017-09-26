@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nitchafa.me" resolutions="1x" timestamp="1506453096096">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nitchafa.me" resolutions="1x" timestamp="1506453601108">
   <folder name="css">
     <file name="site_global.css" crc="424057446"/>
     <file name="master_a-master.css" crc="4200300649" ref="pijika:lick-it:teefox:redriding:sudked:reel:electricneonlamp:revoke:attamatic:index:celanimation:bootcampcode:grienday:melody:5in5:25hours:lucid:keybod:save-cursive:dilation:balancingsound:about:openpage_thesis:labs:selfie:disturbingmuses:slowspace:unitylab:illustration:musketeers:project:scrubbmedley:betweenspaces:scrubbkid:lonelylego:repitation-in-glsl:restless:jellyfish-game:1081009:60miles"/>
@@ -42,7 +42,7 @@
     <file name="iefonts_dilation.css" crc="187289772" ref="dilation"/>
     <file name="balancingsound.css" crc="252961348" ref="balancingsound"/>
     <file name="iefonts_balancingsound.css" crc="2692596" ref="balancingsound"/>
-    <file name="about.css" crc="3871489138" ref="about"/>
+    <file name="about.css" crc="4279749492" ref="about"/>
     <file name="iefonts_about.css" crc="310497012" ref="about"/>
     <file name="openpage_thesis.css" crc="67251264" ref="openpage_thesis"/>
     <file name="iefonts_openpage_thesis.css" crc="3987240116" ref="openpage_thesis"/>
@@ -104,13 +104,13 @@
     <file name="fame_ident2013.gif" crc="216467222" seo="true" ref="index:revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:comingsoon:reel:about:1081009:60miles:pijika:teefox:redriding:sudked:grienday:electricneonlamp:labs:lucid:celanimation:melody:disturbingmuses:bootcampcode:5in5:selfie:unitylab:slowspace:balancingsound:save-cursive:keybod:illustration:lick-it:dilation:repitation-in-glsl:jellyfish-game:openpage_thesis:attamatic:project:betweenspaces">
       <caption webpage="1081009" alt=""/>
       <caption webpage="dilation" alt=""/>
-      <caption webpage="comingsoon" alt=""/>
+      <caption webpage="scrubbkid" alt=""/>
       <caption webpage="lick-it" alt=""/>
-      <caption webpage="betweenspaces" alt=""/>
-      <caption webpage="balancingsound" alt=""/>
+      <caption webpage="jellyfish-game" alt=""/>
       <caption webpage="25hours" alt=""/>
       <caption webpage="repitation-in-glsl" alt=""/>
-      <caption webpage="scrubbkid" alt=""/>
+      <caption webpage="sudked" alt=""/>
+      <caption webpage="selfie" alt=""/>
       <caption webpage="slowspace" alt=""/>
       <caption webpage="unitylab" alt=""/>
       <caption webpage="illustration" alt=""/>
@@ -128,21 +128,21 @@
       <caption webpage="save-cursive" alt=""/>
       <caption webpage="scrubbmedley" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="pijika" alt=""/>
       <caption webpage="labs" alt=""/>
       <caption webpage="5in5" alt=""/>
       <caption webpage="project" alt=""/>
       <caption webpage="teefox" alt=""/>
       <caption webpage="lonelylego" alt=""/>
       <caption webpage="revoke" alt=""/>
-      <caption webpage="electricneonlamp" alt=""/>
       <caption webpage="musketeers" alt=""/>
-      <caption webpage="pijika" alt=""/>
+      <caption webpage="electricneonlamp" alt=""/>
       <caption webpage="keybod" alt=""/>
-      <caption webpage="sudked" alt=""/>
+      <caption webpage="comingsoon" alt=""/>
       <caption webpage="restless" alt=""/>
       <caption webpage="reel" alt=""/>
-      <caption webpage="selfie" alt=""/>
-      <caption webpage="jellyfish-game" alt=""/>
+      <caption webpage="betweenspaces" alt=""/>
+      <caption webpage="balancingsound" alt=""/>
     </file>
     <file name="new1mail.png" crc="4148908067" seo="true" ref="index:comingsoon:reel:about:labs:project">
       <caption webpage="index" alt=""/>
@@ -1781,7 +1781,7 @@
   <file name="restless.html" crc="349245059" seo="true" mt="1453245254338" redirect="true"/>
   <file name="comingsoon.html" crc="74752010" seo="true" mt="1466191587780" redirect="true"/>
   <file name="reel.html" crc="4119145858" seo="true" mt="1466240192655" redirect="true"/>
-  <file name="about.html" crc="3882938085" seo="true" mt="1506453073210" redirect="true"/>
+  <file name="about.html" crc="4074734060" seo="true" mt="1506453586328" redirect="true"/>
   <file name="1081009.html" crc="390845501" seo="true" mt="1453245254338" redirect="true"/>
   <file name="60miles.html" crc="4059420184" seo="true" mt="1453245254338" redirect="true"/>
   <file name="pijika.html" crc="3857057676" seo="true" mt="1453245254338" redirect="true"/>
