@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://nitchafa.me/index.html</loc>
-    <lastmod>2017-11-16</lastmod>
+    <lastmod>2018-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -46,9 +46,6 @@
     </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/thumb_medleyscrubb.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/1081009_11.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/selfportrait_2013.png</image:loc>
@@ -698,7 +695,7 @@
   </url>
   <url>
     <loc>http://nitchafa.me/reel.html</loc>
-    <lastmod>2016-06-18</lastmod>
+    <lastmod>2018-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -760,9 +757,6 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://nitchafa.me/images/fame_ident2013.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/1081009_11.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/1081009_1.jpg</image:loc>
