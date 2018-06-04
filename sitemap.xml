@@ -30,6 +30,12 @@
       <image:loc>http://nitchafa.me/images/betweenspaces_printed_editedsm-4.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://nitchafa.me/images/funkthmb.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/betweenspaces_attamatic-2.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://nitchafa.me/images/jellyfish_wide.gif</image:loc>
     </image:image>
     <image:image>
@@ -42,13 +48,10 @@
       <image:loc>http://nitchafa.me/images/thumb_medleyscrubb.gif</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://nitchafa.me/images/1081009_11.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://nitchafa.me/images/selfportrait_2013.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/betweenspaces_attamatic-2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/funkthmb.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -722,7 +725,7 @@
   </url>
   <url>
     <loc>http://nitchafa.me/about.html</loc>
-    <lastmod>2017-09-26</lastmod>
+    <lastmod>2018-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -757,6 +760,9 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://nitchafa.me/images/fame_ident2013.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/1081009_11.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/1081009_1.jpg</image:loc>
@@ -1422,6 +1428,9 @@
       <image:loc>http://nitchafa.me/images/betweenspaces_printed_editedsm-4.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://nitchafa.me/images/betweenspaces_attamatic-2.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://nitchafa.me/images/jellyfish_wide.gif</image:loc>
     </image:image>
     <image:image>
@@ -1435,9 +1444,6 @@
     </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/selfportrait_2013.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/betweenspaces_attamatic-2.jpg</image:loc>
     </image:image>
   </url>
   <url>
