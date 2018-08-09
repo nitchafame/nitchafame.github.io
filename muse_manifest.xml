@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nitchafa.me" resolutions="1x" timestamp="1533803086650">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nitchafa.me" resolutions="1x" timestamp="1533803364484">
   <folder name="css">
     <file name="site_global.css" crc="3758432377"/>
     <file name="master_a-master.css" crc="296932729" ref="lick-it:reel:musketeers:attamatic:betweenspaces:index:balancingsound:keybod:1081009:disturbingmuses:unitylab:3d:save-cursive:revoke:60miles:pijika:scrubbmedley:lucid:celanimation:teefox:sudked:restless:scrubbkid:electricneonlamp:labs:project:illustration:about:repitation-in-glsl:funk:bootcampcode:redriding:dilation:melody:5in5:25hours:grienday:jellyfish-game:selfie:lonelylego:tribus:work"/>
@@ -107,48 +107,48 @@
     <file name="favicon.ico" crc="236454869" ref="phone>index:index:about"/>
     <file name="fame_ident2013.gif" crc="216467222" seo="true" ref="index:revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:comingsoon:reel:about:1081009:60miles:pijika:teefox:redriding:sudked:grienday:electricneonlamp:labs:lucid:celanimation:melody:disturbingmuses:bootcampcode:5in5:selfie:unitylab:3d:balancingsound:save-cursive:keybod:illustration:lick-it:dilation:repitation-in-glsl:jellyfish-game:attamatic:project:betweenspaces:funk:work:tribus">
       <caption webpage="1081009" alt=""/>
-      <caption webpage="bootcampcode" alt=""/>
-      <caption webpage="save-cursive" alt=""/>
+      <caption webpage="dilation" alt=""/>
+      <caption webpage="repitation-in-glsl" alt=""/>
       <caption webpage="scrubbmedley" alt=""/>
       <caption webpage="keybod" alt=""/>
+      <caption webpage="disturbingmuses" alt=""/>
       <caption webpage="labs" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="dilation" alt=""/>
+      <caption webpage="selfie" alt=""/>
       <caption webpage="lucid" alt=""/>
       <caption webpage="funk" alt=""/>
-      <caption webpage="openpage_thesis" alt=""/>
+      <caption webpage="reel" alt=""/>
       <caption webpage="scrubbkid" alt=""/>
       <caption webpage="unitylab" alt=""/>
       <caption webpage="revoke" alt=""/>
-      <caption webpage="celanimation" alt=""/>
       <caption webpage="betweenspaces" alt=""/>
       <caption webpage="restless" alt=""/>
-      <caption webpage="60miles" alt=""/>
-      <caption webpage="melody" alt=""/>
       <caption webpage="pijika" alt=""/>
       <caption webpage="25hours" alt=""/>
       <caption webpage="grienday" alt=""/>
       <caption webpage="teefox" alt=""/>
+      <caption webpage="comingsoon" alt=""/>
       <caption webpage="balancingsound" alt=""/>
       <caption webpage="project" alt=""/>
       <caption webpage="electricneonlamp" alt=""/>
-      <caption webpage="3d" alt=""/>
+      <caption webpage="melody" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="musketeers" alt=""/>
-      <caption webpage="work" alt=""/>
+      <caption webpage="celanimation" alt=""/>
       <caption webpage="lonelylego" alt=""/>
-      <caption webpage="attamatic" alt=""/>
-      <caption webpage="repitation-in-glsl" alt=""/>
+      <caption webpage="3d" alt=""/>
+      <caption webpage="save-cursive" alt=""/>
       <caption webpage="5in5" alt=""/>
-      <caption webpage="illustration" alt=""/>
-      <caption webpage="disturbingmuses" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="openpage_thesis" alt=""/>
       <caption webpage="redriding" alt=""/>
-      <caption webpage="comingsoon" alt=""/>
-      <caption webpage="selfie" alt=""/>
+      <caption webpage="attamatic" alt=""/>
+      <caption webpage="bootcampcode" alt=""/>
+      <caption webpage="60miles" alt=""/>
       <caption webpage="lick-it" alt=""/>
       <caption webpage="sudked" alt=""/>
       <caption webpage="jellyfish-game" alt=""/>
-      <caption webpage="reel" alt=""/>
+      <caption webpage="illustration" alt=""/>
       <caption webpage="tribus" alt=""/>
     </file>
     <file name="new1mail.png" crc="4148908067" seo="true" ref="index:comingsoon:reel:about:labs:project">
@@ -1843,7 +1843,7 @@
     <file name="about.html" crc="3793204943" seo="true" mt="1420488587329" redirect="false"/>
     <file name="comingsoon.html" crc="360797680" seo="true" mt="1420488587387" redirect="false"/>
   </folder>
-  <file name="index.html" crc="3826507578" seo="true" mt="1533802963240" redirect="true"/>
+  <file name="index.html" crc="3969528863" seo="true" mt="1533803297938" redirect="true"/>
   <file name="revoke.html" crc="4074090221" seo="true" mt="1453245254338" redirect="true"/>
   <file name="25hours.html" crc="4042180056" seo="true" mt="1453245254338" redirect="true"/>
   <file name="musketeers.html" crc="4210018110" seo="true" mt="1453245254338" redirect="true"/>
@@ -1881,7 +1881,7 @@
   <file name="repitation-in-glsl.html" crc="422505090" seo="true" mt="1469602162616" redirect="true"/>
   <file name="jellyfish-game.html" crc="56192862" seo="true" mt="1453245254338" redirect="true"/>
   <file name="attamatic.html" crc="513072408" seo="true" mt="1481232735942" redirect="true"/>
-  <file name="project.html" crc="426481167" seo="true" mt="1533803041374" redirect="true"/>
+  <file name="project.html" crc="4021013818" seo="true" mt="1533803279647" redirect="true"/>
   <file name="betweenspaces.html" crc="3956621856" seo="true" mt="1532238578830" redirect="true"/>
   <file name="funk.html" crc="417195806" seo="true" mt="1533797702842" redirect="true"/>
   <file name="work.html" crc="4037717355" seo="true" mt="1533797363863" redirect="true"/>
