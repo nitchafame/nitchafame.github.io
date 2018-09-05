@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://nitchafa.me/index.html</loc>
-    <lastmod>2018-09-04</lastmod>
+    <lastmod>2018-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -584,26 +584,11 @@
   </url>
   <url>
     <loc>http://nitchafa.me/comingsoon.html</loc>
-    <lastmod>2016-06-17</lastmod>
+    <lastmod>2018-09-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://nitchafa.me/images/fame_ident2013.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/new1mail.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/new3insta.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/new4vimeo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/new5pin.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/new6twitter.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/1mail.png</image:loc>
@@ -654,50 +639,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://nitchafa.me/images/new1mail.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/new3insta.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/new4vimeo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/new5pin.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/new6twitter.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/new7git.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://nitchafa.me/images/title.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/about.html</loc>
-    <lastmod>2018-09-04</lastmod>
+    <lastmod>2018-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/new1mail.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/new3insta.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/new4vimeo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/new5pin.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/new6twitter.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/new7git.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/me_bw.png</image:loc>
     </image:image>
@@ -1490,7 +1439,7 @@
   </url>
   <url>
     <loc>http://nitchafa.me/anyways.html</loc>
-    <lastmod>2018-09-04</lastmod>
+    <lastmod>2018-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1778,7 +1727,7 @@
   </url>
   <url>
     <loc>http://nitchafa.me/project.html</loc>
-    <lastmod>2018-09-04</lastmod>
+    <lastmod>2018-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1880,7 +1829,7 @@
   </url>
   <url>
     <loc>http://nitchafa.me/work.html</loc>
-    <lastmod>2018-09-04</lastmod>
+    <lastmod>2018-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
