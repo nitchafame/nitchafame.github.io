@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nitchafa.me" resolutions="1x" timestamp="1536182857888">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nitchafa.me" resolutions="1x" timestamp="1536184727075">
   <folder name="css">
     <file name="site_global.css" crc="3842126076"/>
     <file name="master_a-master.css" crc="488282660" ref="lick-it:reel:musketeers:attamatic:betweenspaces:index:balancingsound:keybod:1081009:disturbingmuses:unitylab:3d:save-cursive:revoke:60miles:pijika:scrubbmedley:lucid:celanimation:teefox:sudked:restless:scrubbkid:electricneonlamp:labs:project:illustration:about:repitation-in-glsl:funk:bootcampcode:redriding:dilation:melody:5in5:25hours:grienday:jellyfish-game:selfie:lonelylego:tribus:work:remembering:anyways"/>
@@ -52,7 +52,7 @@
     <file name="project.css" crc="3917431883" ref="project"/>
     <file name="iefonts_project.css" crc="4095884848" ref="project"/>
     <file name="illustration.css" crc="3900851873" ref="illustration"/>
-    <file name="about.css" crc="4286849567" ref="about"/>
+    <file name="about.css" crc="4015320533" ref="about"/>
     <file name="repitation-in-glsl.css" crc="333754002" ref="repitation-in-glsl"/>
     <file name="iefonts_repitation-in-glsl.css" crc="198599804" ref="repitation-in-glsl"/>
     <file name="funk.css" crc="350676387" ref="funk"/>
@@ -76,8 +76,8 @@
     <file name="lonelylego.css" crc="316738048" ref="lonelylego"/>
     <file name="iefonts_lonelylego.css" crc="491689693" ref="lonelylego"/>
     <file name="tribus.css" crc="216261125" ref="tribus"/>
-    <file name="work.css" crc="378205026" ref="work"/>
-    <file name="iefonts_work.css" crc="408223675" ref="work"/>
+    <file name="work.css" crc="3951334220" ref="work"/>
+    <file name="iefonts_work.css" crc="3990294502" ref="work"/>
     <file name="remembering.css" crc="4054539553" ref="remembering"/>
     <file name="iefonts_remembering.css" crc="410757152" ref="remembering"/>
     <file name="anyways.css" crc="4080062172" ref="anyways"/>
@@ -101,7 +101,7 @@
     <file name="touchswipe.js" crc="4075097462" ref="revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:1081009:60miles:pijika:redriding:sudked:grienday:electricneonlamp:lucid:melody:disturbingmuses:5in5:keybod:lick-it:dilation:jellyfish-game:attamatic:betweenspaces:funk:tribus:anyways"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="236454869" ref="phone>index:index:about"/>
+    <file name="favicon.ico" crc="236454869" ref="phone>index:index:about:work"/>
     <file name="fame_ident2013.gif" crc="216467222" seo="true" ref="comingsoon">
       <caption webpage="1081009" alt=""/>
       <caption webpage="lucid" alt=""/>
@@ -232,8 +232,8 @@
     </file>
     <file name="thumbnaildisturbing.jpg" crc="4020359336" ref="work">
       <caption webpage="index" alt=""/>
-      <caption webpage="work" alt=""/>
       <caption webpage="project" alt=""/>
+      <caption webpage="work" alt=""/>
     </file>
     <file name="screen shot 2015-03-13 at 53658 am copy.png" crc="3876408997" ref="index:project">
       <caption webpage="index" alt=""/>
@@ -241,8 +241,8 @@
     </file>
     <file name="reel_button_web_new2015.png" crc="53870725" seo="true" ref="work">
       <caption webpage="index" alt=""/>
-      <caption webpage="work" alt=""/>
       <caption webpage="project" alt=""/>
+      <caption webpage="work" alt=""/>
     </file>
     <file name="lickit1_sm.gif" crc="3831646680" ref="index:project">
       <caption webpage="index" alt=""/>
@@ -252,25 +252,25 @@
       <caption webpage="index" alt=""/>
       <caption webpage="project" alt=""/>
     </file>
-    <file name="reel_button_web.png" crc="3849024901" ref="work">
+    <file name="reel_button_web.png" crc="261916259" ref="work">
       <caption webpage="index" alt=""/>
       <caption webpage="work" alt=""/>
     </file>
     <file name="thumb_medleyscrubb.gif" crc="313511835" seo="true" ref="work">
       <caption webpage="index" alt=""/>
-      <caption webpage="work" alt=""/>
       <caption webpage="project" alt=""/>
+      <caption webpage="work" alt=""/>
     </file>
     <file name="logocrop.jpg" crc="3765896775" ref="sudked:work">
       <caption webpage="index" alt=""/>
-      <caption webpage="sudked" alt=""/>
       <caption webpage="work" alt=""/>
+      <caption webpage="sudked" alt=""/>
     </file>
     <file name="musketeers_4.jpg" crc="191196693" ref="musketeers:work">
       <caption webpage="index" alt=""/>
+      <caption webpage="work" alt=""/>
       <caption webpage="project" alt=""/>
       <caption webpage="musketeers" alt=""/>
-      <caption webpage="work" alt=""/>
     </file>
     <file name="thumbnail_lonelylego.png" crc="3900467009" ref="work">
       <caption webpage="index" alt=""/>
@@ -280,11 +280,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="work" alt=""/>
     </file>
-    <file name="thunbnail_pijika.jpg" crc="3837654464" ref="work">
-      <caption webpage="index" alt=""/>
-      <caption webpage="work" alt=""/>
-      <caption webpage="project" alt=""/>
-    </file>
     <file name="1081009_11.jpg" crc="4078013132" ref="1081009" seo="true">
       <caption webpage="1081009" alt=""/>
       <caption webpage="index" alt=""/>
@@ -292,30 +287,30 @@
     <file name="screenshot 2013-12-15 032653.jpg" crc="4081977437" ref="work">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="work" alt=""/>
-      <caption webpage="work" alt=""/>
       <caption webpage="project" alt=""/>
       <caption webpage="project" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
     </file>
     <file name="kids6_.jpg" crc="4019286041" ref="work">
       <caption webpage="index" alt=""/>
-      <caption webpage="work" alt=""/>
       <caption webpage="project" alt=""/>
+      <caption webpage="work" alt=""/>
     </file>
     <file name="thumbnail_stamp.jpg" crc="400616961" ref="work">
       <caption webpage="index" alt=""/>
-      <caption webpage="work" alt=""/>
       <caption webpage="project" alt=""/>
+      <caption webpage="work" alt=""/>
     </file>
     <file name="selfportrait_2013.png" crc="143841312" seo="true" ref="work">
       <caption webpage="index" alt=""/>
-      <caption webpage="work" alt=""/>
       <caption webpage="project" alt=""/>
+      <caption webpage="work" alt=""/>
     </file>
     <file name="tee2012_1fox_goodday copy.jpg" crc="16285974" ref="work">
       <caption webpage="index" alt=""/>
-      <caption webpage="work" alt=""/>
       <caption webpage="project" alt=""/>
+      <caption webpage="work" alt=""/>
     </file>
     <file name="revoke_1_rca.jpg" crc="226299974" seo="true" ref="revoke">
       <caption webpage="revoke" alt=""/>
@@ -1722,16 +1717,16 @@
     <file name="title.png" crc="313895506" seo="true" ref="index:revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:reel:about:1081009:60miles:pijika:teefox:redriding:sudked:grienday:electricneonlamp:labs:lucid:celanimation:melody:disturbingmuses:bootcampcode:5in5:selfie:unitylab:3d:balancingsound:save-cursive:keybod:illustration:lick-it:dilation:repitation-in-glsl:jellyfish-game:attamatic:project:betweenspaces:funk:tribus:work:remembering:anyways">
       <caption webpage="1081009" alt=""/>
       <caption webpage="melody" alt=""/>
+      <caption webpage="remembering" alt=""/>
       <caption webpage="celanimation" alt=""/>
       <caption webpage="electricneonlamp" alt=""/>
       <caption webpage="revoke" alt=""/>
       <caption webpage="illustration" alt=""/>
       <caption webpage="dilation" alt=""/>
-      <caption webpage="scrubbmedley" alt=""/>
-      <caption webpage="scrubbkid" alt=""/>
-      <caption webpage="funk" alt=""/>
-      <caption webpage="musketeers" alt=""/>
       <caption webpage="lonelylego" alt=""/>
+      <caption webpage="scrubbkid" alt=""/>
+      <caption webpage="musketeers" alt=""/>
+      <caption webpage="scrubbmedley" alt=""/>
       <caption webpage="attamatic" alt=""/>
       <caption webpage="pijika" alt=""/>
       <caption webpage="lick-it" alt=""/>
@@ -1740,30 +1735,30 @@
       <caption webpage="grienday" alt=""/>
       <caption webpage="reel" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="keybod" alt=""/>
+      <caption webpage="anyways" alt=""/>
       <caption webpage="5in5" alt=""/>
       <caption webpage="sudked" alt=""/>
       <caption webpage="project" alt=""/>
       <caption webpage="unitylab" alt=""/>
       <caption webpage="labs" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="keybod" alt=""/>
       <caption webpage="save-cursive" alt=""/>
-      <caption webpage="3d" alt=""/>
+      <caption webpage="funk" alt=""/>
       <caption webpage="lucid" alt=""/>
       <caption webpage="repitation-in-glsl" alt=""/>
       <caption webpage="25hours" alt=""/>
-      <caption webpage="betweenspaces" alt=""/>
-      <caption webpage="balancingsound" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="3d" alt=""/>
       <caption webpage="disturbingmuses" alt=""/>
       <caption webpage="redriding" alt=""/>
       <caption webpage="selfie" alt=""/>
-      <caption webpage="bootcampcode" alt=""/>
+      <caption webpage="jellyfish-game" alt=""/>
       <caption webpage="60miles" alt=""/>
-      <caption webpage="remembering" alt=""/>
-      <caption webpage="anyways" alt=""/>
+      <caption webpage="betweenspaces" alt=""/>
+      <caption webpage="balancingsound" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="restless" alt=""/>
-      <caption webpage="jellyfish-game" alt=""/>
+      <caption webpage="bootcampcode" alt=""/>
     </file>
     <file name="sfpc showcase_13-crop-u27261.jpg" crc="4058234968" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -1790,13 +1785,9 @@
     <file name="ahtt_namecard-crop-u27142.jpg" crc="385231006" seo="true" ref="work">
       <caption webpage="work" alt=""/>
     </file>
-    <file name="tip_cover-crop-u26717.jpg" crc="4082276319" seo="true" ref="work">
+    <file name="tip_cover-crop-u26717.jpg" crc="489326867" seo="true" ref="work">
       <caption webpage="work" alt=""/>
     </file>
-    <file name="revoke_thumb.gif" crc="3951008818" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="thunbnail_pijika-u26725-r-fr.png" crc="3895664822" ref="work"/>
     <file name="25_1-u26678-fr.jpg" crc="269420680" ref="work"/>
     <file name="anyways_.gif" crc="112793953" seo="true" ref="anyways">
       <caption webpage="anyways" alt=""/>
@@ -1859,6 +1850,12 @@
     </file>
     <file name="sirintip_2018tour_1eastc.jpg" crc="207617285" seo="true" ref="tribus">
       <caption webpage="tribus" alt=""/>
+    </file>
+    <file name="screen shot 2017-11-16 at 50124 pm.png" crc="453552672" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="pijika.gif" crc="77994269" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
     </file>
   </folder>
   <folder name="phone">
@@ -1933,7 +1930,7 @@
   <file name="restless.html" crc="4254177894" seo="true" mt="1536101510079" redirect="true"/>
   <file name="comingsoon.html" crc="4169924677" seo="true" mt="1536101514981" redirect="true"/>
   <file name="reel.html" crc="291495373" seo="true" mt="1536101532990" redirect="true"/>
-  <file name="about.html" crc="429350025" seo="true" mt="1536182826575" redirect="true"/>
+  <file name="about.html" crc="4213852863" seo="true" mt="1536183241786" redirect="true"/>
   <file name="1081009.html" crc="3834473474" seo="true" mt="1536100583567" redirect="true"/>
   <file name="60miles.html" crc="3815972631" seo="true" mt="1536100583567" redirect="true"/>
   <file name="pijika.html" crc="319089062" seo="true" mt="1536100583567" redirect="true"/>
@@ -1964,7 +1961,7 @@
   <file name="project.html" crc="382990730" seo="true" mt="1536182704562" redirect="true"/>
   <file name="betweenspaces.html" crc="504404905" seo="true" mt="1536178681782" redirect="true"/>
   <file name="funk.html" crc="3860909341" seo="true" mt="1536179987033" redirect="true"/>
-  <file name="work.html" crc="4065827996" seo="true" mt="1536132776378" redirect="true"/>
+  <file name="work.html" crc="369563555" seo="true" mt="1536184701731" redirect="true"/>
   <file name="tribus.html" crc="3943691680" seo="true" mt="1536180920597" redirect="true"/>
   <file name="remembering.html" crc="288347762" seo="true" mt="1536100583567" redirect="true"/>
   <file name="anyways.html" crc="3829621756" seo="true" mt="1536179420936" redirect="true"/>
