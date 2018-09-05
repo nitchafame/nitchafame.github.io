@@ -1409,7 +1409,7 @@
   </url>
   <url>
     <loc>http://nitchafa.me/tribus.html</loc>
-    <lastmod>2018-09-04</lastmod>
+    <lastmod>2018-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1435,6 +1435,21 @@
     </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/title.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/sirintip_2018tour_ig.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/tour_eastcoast_2middleeast_ig.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/tour_eastcoast_3publicarts_ig.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/tour_eastcoast_1twinsjazz_ig.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/sirintip_2018tour_1eastc.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -1745,7 +1760,7 @@
   </url>
   <url>
     <loc>http://nitchafa.me/betweenspaces.html</loc>
-    <lastmod>2018-09-04</lastmod>
+    <lastmod>2018-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1796,7 +1811,7 @@
   </url>
   <url>
     <loc>http://nitchafa.me/funk.html</loc>
-    <lastmod>2018-09-04</lastmod>
+    <lastmod>2018-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1825,6 +1840,9 @@
     </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/title.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/funk_gif1.gif</image:loc>
     </image:image>
   </url>
   <url>
