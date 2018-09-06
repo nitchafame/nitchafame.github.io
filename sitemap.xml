@@ -209,7 +209,7 @@
   </url>
   <url>
     <loc>http://nitchafa.me/revoke.html</loc>
-    <lastmod>2018-09-04</lastmod>
+    <lastmod>2018-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -275,7 +275,7 @@
   </url>
   <url>
     <loc>http://nitchafa.me/25hours.html</loc>
-    <lastmod>2018-09-04</lastmod>
+    <lastmod>2018-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -291,18 +291,6 @@
       <image:loc>http://nitchafa.me/images/25_4.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nitchafa.me/images/25_3-crop-u2917.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/25_1-crop-u2913.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/25_2-crop-u2915.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/25_4-crop-u2923.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://nitchafa.me/images/25_5instument_design.jpg</image:loc>
     </image:image>
     <image:image>
@@ -315,26 +303,17 @@
       <image:loc>http://nitchafa.me/images/25_8-crop-u1459.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nitchafa.me/images/25_5instument_design64x45.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/25_6-crop-u1372.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/25_7-crop-u1387.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/25_8-crop-u1462.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://nitchafa.me/images/title.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/musketeers.html</loc>
-    <lastmod>2018-09-04</lastmod>
+    <lastmod>2018-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/musketeers_4.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/musketeers_1.jpg</image:loc>
     </image:image>
@@ -351,31 +330,10 @@
       <image:loc>http://nitchafa.me/images/musketeers_7musketeers_5.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nitchafa.me/images/musketeers_165x45.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/musketeers_4musketeers_268x45.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/musketeers_5musketeers_968x45.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/musketeers_668x45.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/musketeers_7musketeers_568x45.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://nitchafa.me/images/musketeers_2_logo.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/musketeers_3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/musketeers_2_logo-crop-u3009.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/musketeers_3-crop-u3015.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/title.png</image:loc>
@@ -383,7 +341,7 @@
   </url>
   <url>
     <loc>http://nitchafa.me/scrubbmedley.html</loc>
-    <lastmod>2018-09-04</lastmod>
+    <lastmod>2018-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -403,24 +361,6 @@
     </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/medley_6.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/medley_160x45.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/medley_460x45.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/medley_260x40.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/medley_360x40.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/medley_560x40.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/medley_660x40.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/title.png</image:loc>
@@ -584,7 +524,7 @@
   </url>
   <url>
     <loc>http://nitchafa.me/comingsoon.html</loc>
-    <lastmod>2018-09-04</lastmod>
+    <lastmod>2018-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -830,7 +770,7 @@
   </url>
   <url>
     <loc>http://nitchafa.me/pijika.html</loc>
-    <lastmod>2018-09-04</lastmod>
+    <lastmod>2018-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -850,6 +790,9 @@
     </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/title.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/pijika.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -1409,7 +1352,7 @@
   </url>
   <url>
     <loc>http://nitchafa.me/tribus.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2018-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1760,7 +1703,7 @@
   </url>
   <url>
     <loc>http://nitchafa.me/betweenspaces.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2018-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1858,6 +1801,9 @@
     </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/thumb_medleyscrubb.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/musketeers_4.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/selfportrait_2013.png</image:loc>
