@@ -317,14 +317,11 @@
   </url>
   <url>
     <loc>http://nitchafa.me/scrubbkid.html</loc>
-    <lastmod>2018-09-04</lastmod>
+    <lastmod>2018-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://nitchafa.me/images/rca_kids6_.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/rca_kids4_scrubb.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/rca_kids1_draw.jpg</image:loc>
@@ -370,6 +367,9 @@
     </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/title.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/rca_kids4_scrubb-crop-u6861.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -1683,7 +1683,7 @@
       <image:loc>http://nitchafa.me/images/8_attamatic_textneck3_27663682693_o.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nitchafa.me/images/sfpc%20showcase_13-crop-u29543.jpg</image:loc>
+      <image:loc>http://nitchafa.me/images/sfpc%20showcase_13-crop-u30049.jpg</image:loc>
     </image:image>
   </url>
   <url>
