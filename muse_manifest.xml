@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nitchafa.me" resolutions="1x" timestamp="1536265383177">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nitchafa.me" resolutions="1x" timestamp="1545549596459">
   <folder name="css">
     <file name="site_global.css" crc="3767666948"/>
-    <file name="master_a-master.css" crc="106415023" ref="lick-it:reel:musketeers:attamatic:betweenspaces:index:balancingsound:keybod:1081009:disturbingmuses:unitylab:3d:save-cursive:revoke:60miles:pijika:scrubbmedley:lucid:celanimation:teefox:sudked:restless:scrubbkid:electricneonlamp:labs:project:illustration:about:repitation-in-glsl:funk:bootcampcode:redriding:dilation:melody:5in5:25hours:grienday:jellyfish-game:selfie:lonelylego:tribus:work:remembering:anyways:jazzjam"/>
+    <file name="master_a-master.css" crc="456776089" ref="lick-it:reel:musketeers:attamatic:betweenspaces:index:balancingsound:keybod:1081009:disturbingmuses:unitylab:3d:save-cursive:revoke:60miles:pijika:scrubbmedley:lucid:celanimation:teefox:sudked:restless:scrubbkid:electricneonlamp:labs:project:illustration:about:repitation-in-glsl:funk:bootcampcode:redriding:dilation:melody:5in5:25hours:grienday:jellyfish-game:selfie:lonelylego:tribus:work:remembering:anyways:jazzjam:shoulder"/>
     <file name="lick-it.css" crc="114576698" ref="lick-it"/>
     <file name="iefonts_lick-it.css" crc="243032692" ref="lick-it"/>
     <file name="reel.css" crc="419917071" ref="reel"/>
@@ -46,7 +46,7 @@
     <file name="project.css" crc="213461225" ref="project"/>
     <file name="iefonts_project.css" crc="3840245832" ref="project"/>
     <file name="illustration.css" crc="3900851873" ref="illustration"/>
-    <file name="about.css" crc="4015320533" ref="about"/>
+    <file name="about.css" crc="222928744" ref="about"/>
     <file name="repitation-in-glsl.css" crc="333754002" ref="repitation-in-glsl"/>
     <file name="iefonts_repitation-in-glsl.css" crc="198599804" ref="repitation-in-glsl"/>
     <file name="funk.css" crc="350676387" ref="funk"/>
@@ -69,12 +69,13 @@
     <file name="lonelylego.css" crc="316738048" ref="lonelylego"/>
     <file name="iefonts_lonelylego.css" crc="491689693" ref="lonelylego"/>
     <file name="tribus.css" crc="3761222781" ref="tribus"/>
-    <file name="work.css" crc="3991999523" ref="work"/>
-    <file name="iefonts_work.css" crc="498062934" ref="work"/>
+    <file name="work.css" crc="3901155030" ref="work"/>
+    <file name="iefonts_work.css" crc="182299211" ref="work"/>
     <file name="remembering.css" crc="4054539553" ref="remembering"/>
     <file name="iefonts_remembering.css" crc="410757152" ref="remembering"/>
     <file name="anyways.css" crc="4080062172" ref="anyways"/>
     <file name="jazzjam.css" crc="70443120" ref="jazzjam"/>
+    <file name="shoulder.css" crc="341106752" ref="shoulder"/>
   </folder>
   <folder name="assets">
     <file name="2bootcampcodecat.mov" crc="183840013" seo="true" mt="1419906920000"/>
@@ -82,17 +83,17 @@
     <file name="2nitchacv.pdf" crc="4253133542" seo="true" mt="1420312951000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>selfie:phone>disturbingmuses:phone>melody:phone>lucid:phone>revoke:phone>25hours:phone>musketeers:phone>scrubbmedley:phone>scrubbkid:phone>lonelylego:phone>restless:phone>1081009:phone>60miles:phone>pijika:phone>redriding:phone>teefox:phone>sudked:phone>grienday:phone>electricneonlamp:phone>labs:phone>celanimation:phone>unitylab:phone>5in5:phone>bootcampcode:phone>slowspace:phone>reel:phone>about:phone>comingsoon:index:revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:comingsoon:reel:about:1081009:60miles:pijika:teefox:redriding:sudked:grienday:electricneonlamp:labs:lucid:celanimation:melody:disturbingmuses:bootcampcode:5in5:selfie:unitylab:3d:balancingsound:save-cursive:keybod:illustration:lick-it:dilation:repitation-in-glsl:jellyfish-game:attamatic:project:betweenspaces:funk:work:tribus:remembering:anyways:jazzjam"/>
-    <file name="museutils.js" crc="340535759" ref="phone>index:phone>selfie:phone>disturbingmuses:phone>melody:phone>lucid:phone>revoke:phone>25hours:phone>musketeers:phone>scrubbmedley:phone>scrubbkid:phone>lonelylego:phone>restless:phone>1081009:phone>60miles:phone>pijika:phone>redriding:phone>teefox:phone>sudked:phone>grienday:phone>electricneonlamp:phone>labs:phone>celanimation:phone>unitylab:phone>5in5:phone>bootcampcode:phone>slowspace:phone>reel:phone>about:phone>comingsoon:index:revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:comingsoon:reel:about:1081009:60miles:pijika:teefox:redriding:sudked:grienday:electricneonlamp:labs:lucid:celanimation:melody:disturbingmuses:bootcampcode:5in5:selfie:unitylab:3d:balancingsound:save-cursive:keybod:illustration:lick-it:dilation:repitation-in-glsl:jellyfish-game:attamatic:project:betweenspaces:funk:work:tribus:remembering:anyways:jazzjam"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>selfie:phone>disturbingmuses:phone>melody:phone>lucid:phone>revoke:phone>25hours:phone>musketeers:phone>scrubbmedley:phone>scrubbkid:phone>lonelylego:phone>restless:phone>1081009:phone>60miles:phone>pijika:phone>redriding:phone>teefox:phone>sudked:phone>grienday:phone>electricneonlamp:phone>labs:phone>celanimation:phone>unitylab:phone>5in5:phone>bootcampcode:phone>slowspace:phone>reel:phone>about:phone>comingsoon:index:revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:comingsoon:reel:about:1081009:60miles:pijika:teefox:redriding:sudked:grienday:electricneonlamp:labs:lucid:celanimation:melody:disturbingmuses:bootcampcode:5in5:selfie:unitylab:3d:balancingsound:save-cursive:keybod:illustration:lick-it:dilation:repitation-in-glsl:jellyfish-game:attamatic:project:betweenspaces:funk:work:tribus:remembering:anyways:jazzjam"/>
-    <file name="museconfig.js" crc="4286661555" ref="phone>index:phone>selfie:phone>disturbingmuses:phone>melody:phone>lucid:phone>revoke:phone>25hours:phone>musketeers:phone>scrubbmedley:phone>scrubbkid:phone>lonelylego:phone>restless:phone>1081009:phone>60miles:phone>pijika:phone>redriding:phone>teefox:phone>sudked:phone>grienday:phone>electricneonlamp:phone>labs:phone>celanimation:phone>unitylab:phone>5in5:phone>bootcampcode:phone>slowspace:phone>reel:phone>about:phone>comingsoon:index:revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:comingsoon:reel:about:1081009:60miles:pijika:teefox:redriding:sudked:grienday:electricneonlamp:labs:lucid:celanimation:melody:disturbingmuses:bootcampcode:5in5:selfie:unitylab:3d:balancingsound:save-cursive:keybod:illustration:lick-it:dilation:repitation-in-glsl:jellyfish-game:attamatic:project:betweenspaces:funk:work:tribus:remembering:anyways:jazzjam"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>selfie:phone>disturbingmuses:phone>melody:phone>lucid:phone>revoke:phone>25hours:phone>musketeers:phone>scrubbmedley:phone>scrubbkid:phone>lonelylego:phone>restless:phone>1081009:phone>60miles:phone>pijika:phone>redriding:phone>teefox:phone>sudked:phone>grienday:phone>electricneonlamp:phone>labs:phone>celanimation:phone>unitylab:phone>5in5:phone>bootcampcode:phone>slowspace:phone>reel:phone>about:phone>comingsoon:index:revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:comingsoon:reel:about:1081009:60miles:pijika:teefox:redriding:sudked:grienday:electricneonlamp:labs:lucid:celanimation:melody:disturbingmuses:bootcampcode:5in5:selfie:unitylab:3d:balancingsound:save-cursive:keybod:illustration:lick-it:dilation:repitation-in-glsl:jellyfish-game:attamatic:project:betweenspaces:funk:work:tribus:remembering:anyways:jazzjam:shoulder"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>selfie:phone>disturbingmuses:phone>melody:phone>lucid:phone>revoke:phone>25hours:phone>musketeers:phone>scrubbmedley:phone>scrubbkid:phone>lonelylego:phone>restless:phone>1081009:phone>60miles:phone>pijika:phone>redriding:phone>teefox:phone>sudked:phone>grienday:phone>electricneonlamp:phone>labs:phone>celanimation:phone>unitylab:phone>5in5:phone>bootcampcode:phone>slowspace:phone>reel:phone>about:phone>comingsoon:index:revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:comingsoon:reel:about:1081009:60miles:pijika:teefox:redriding:sudked:grienday:electricneonlamp:labs:lucid:celanimation:melody:disturbingmuses:bootcampcode:5in5:selfie:unitylab:3d:balancingsound:save-cursive:keybod:illustration:lick-it:dilation:repitation-in-glsl:jellyfish-game:attamatic:project:betweenspaces:funk:work:tribus:remembering:anyways:jazzjam:shoulder"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>selfie:phone>disturbingmuses:phone>melody:phone>lucid:phone>revoke:phone>25hours:phone>musketeers:phone>scrubbmedley:phone>scrubbkid:phone>lonelylego:phone>restless:phone>1081009:phone>60miles:phone>pijika:phone>redriding:phone>teefox:phone>sudked:phone>grienday:phone>electricneonlamp:phone>labs:phone>celanimation:phone>unitylab:phone>5in5:phone>bootcampcode:phone>slowspace:phone>reel:phone>about:phone>comingsoon:index:revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:comingsoon:reel:about:1081009:60miles:pijika:teefox:redriding:sudked:grienday:electricneonlamp:labs:lucid:celanimation:melody:disturbingmuses:bootcampcode:5in5:selfie:unitylab:3d:balancingsound:save-cursive:keybod:illustration:lick-it:dilation:repitation-in-glsl:jellyfish-game:attamatic:project:betweenspaces:funk:work:tribus:remembering:anyways:jazzjam:shoulder"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:phone>selfie:phone>disturbingmuses:phone>melody:phone>lucid:phone>revoke:phone>25hours:phone>musketeers:phone>scrubbmedley:phone>scrubbkid:phone>lonelylego:phone>restless:phone>1081009:phone>60miles:phone>pijika:phone>redriding:phone>teefox:phone>sudked:phone>grienday:phone>electricneonlamp:phone>labs:phone>celanimation:phone>unitylab:phone>5in5:phone>bootcampcode:phone>slowspace:phone>reel:phone>about:phone>comingsoon:index:revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:comingsoon:reel:about:1081009:60miles:pijika:teefox:redriding:sudked:grienday:electricneonlamp:labs:lucid:celanimation:melody:disturbingmuses:bootcampcode:5in5:selfie:unitylab:3d:balancingsound:save-cursive:keybod:illustration:lick-it:dilation:repitation-in-glsl:jellyfish-game:attamatic:project:betweenspaces:funk:work:tribus:remembering:anyways:jazzjam:shoulder"/>
     <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>selfie:phone>disturbingmuses:phone>melody:phone>lucid:phone>revoke:phone>25hours:phone>musketeers:phone>scrubbmedley:phone>scrubbkid:phone>lonelylego:phone>restless:phone>1081009:phone>60miles:phone>pijika:phone>redriding:phone>teefox:phone>sudked:phone>grienday:phone>electricneonlamp:phone>labs:phone>celanimation:phone>unitylab:phone>5in5:phone>bootcampcode:phone>slowspace:phone>reel:phone>about:phone>comingsoon:comingsoon"/>
-    <file name="require.js" crc="7928878" ref="phone>index:phone>selfie:phone>disturbingmuses:phone>melody:phone>lucid:phone>revoke:phone>25hours:phone>musketeers:phone>scrubbmedley:phone>scrubbkid:phone>lonelylego:phone>restless:phone>1081009:phone>60miles:phone>pijika:phone>redriding:phone>teefox:phone>sudked:phone>grienday:phone>electricneonlamp:phone>labs:phone>celanimation:phone>unitylab:phone>5in5:phone>bootcampcode:phone>slowspace:phone>reel:phone>about:phone>comingsoon:index:revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:comingsoon:reel:about:1081009:60miles:pijika:teefox:redriding:sudked:grienday:electricneonlamp:labs:lucid:celanimation:melody:disturbingmuses:bootcampcode:5in5:selfie:unitylab:3d:balancingsound:save-cursive:keybod:illustration:lick-it:dilation:repitation-in-glsl:jellyfish-game:attamatic:project:betweenspaces:funk:work:tribus:remembering:anyways:jazzjam"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>selfie:phone>disturbingmuses:phone>melody:phone>lucid:phone>revoke:phone>25hours:phone>musketeers:phone>scrubbmedley:phone>scrubbkid:phone>lonelylego:phone>restless:phone>1081009:phone>60miles:phone>pijika:phone>redriding:phone>teefox:phone>sudked:phone>grienday:phone>electricneonlamp:phone>labs:phone>celanimation:phone>unitylab:phone>5in5:phone>bootcampcode:phone>slowspace:phone>reel:phone>about:phone>comingsoon:index:revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:comingsoon:reel:about:1081009:60miles:pijika:teefox:redriding:sudked:grienday:electricneonlamp:labs:lucid:celanimation:melody:disturbingmuses:bootcampcode:5in5:selfie:unitylab:3d:balancingsound:save-cursive:keybod:illustration:lick-it:dilation:repitation-in-glsl:jellyfish-game:attamatic:project:betweenspaces:funk:work:tribus:remembering:anyways:jazzjam:shoulder"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:scrubbkid:lonelylego:60miles:teefox:sudked:labs:project:work"/>
-    <file name="webpro.js" crc="4059564322" ref="revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:1081009:60miles:pijika:redriding:sudked:grienday:electricneonlamp:lucid:melody:disturbingmuses:5in5:keybod:lick-it:dilation:jellyfish-game:attamatic:betweenspaces:funk:tribus:anyways"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:1081009:60miles:pijika:redriding:sudked:grienday:electricneonlamp:lucid:melody:disturbingmuses:5in5:keybod:lick-it:dilation:jellyfish-game:attamatic:betweenspaces:funk:tribus:anyways"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:1081009:60miles:pijika:redriding:sudked:grienday:electricneonlamp:lucid:melody:disturbingmuses:5in5:keybod:lick-it:dilation:jellyfish-game:attamatic:betweenspaces:funk:tribus:anyways"/>
-    <file name="touchswipe.js" crc="4075097462" ref="revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:1081009:60miles:pijika:redriding:sudked:grienday:electricneonlamp:lucid:melody:disturbingmuses:5in5:keybod:lick-it:dilation:jellyfish-game:attamatic:betweenspaces:funk:tribus:anyways"/>
+    <file name="webpro.js" crc="4059564322" ref="revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:1081009:60miles:pijika:redriding:sudked:grienday:electricneonlamp:lucid:melody:disturbingmuses:5in5:keybod:lick-it:dilation:jellyfish-game:attamatic:betweenspaces:funk:tribus:anyways:shoulder"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:1081009:60miles:pijika:redriding:sudked:grienday:electricneonlamp:lucid:melody:disturbingmuses:5in5:keybod:lick-it:dilation:jellyfish-game:attamatic:betweenspaces:funk:tribus:anyways:shoulder"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:1081009:60miles:pijika:redriding:sudked:grienday:electricneonlamp:lucid:melody:disturbingmuses:5in5:keybod:lick-it:dilation:jellyfish-game:attamatic:betweenspaces:funk:tribus:anyways:shoulder"/>
+    <file name="touchswipe.js" crc="4075097462" ref="revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:1081009:60miles:pijika:redriding:sudked:grienday:electricneonlamp:lucid:melody:disturbingmuses:5in5:keybod:lick-it:dilation:jellyfish-game:attamatic:betweenspaces:funk:tribus:anyways:shoulder"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="236454869" ref="phone>index:index:about:revoke"/>
@@ -209,8 +210,8 @@
     </file>
     <file name="betweenspaces_printed_editedsm-4.jpg" crc="433621374" seo="true" ref="betweenspaces:work">
       <caption webpage="index" alt=""/>
-      <caption webpage="work" alt=""/>
       <caption webpage="betweenspaces" alt=""/>
+      <caption webpage="work" alt=""/>
       <caption webpage="project" alt=""/>
     </file>
     <file name="jellyfish_wide.gif" crc="4153605124" seo="true" ref="jellyfish-game">
@@ -306,7 +307,7 @@
     <file name="revoke_3_rca.jpg" crc="3920493926" seo="true" ref="revoke">
       <caption webpage="revoke" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:1081009:60miles:pijika:redriding:sudked:grienday:electricneonlamp:lucid:melody:disturbingmuses:5in5:keybod:lick-it:dilation:jellyfish-game:attamatic:betweenspaces:funk:tribus:anyways"/>
+    <file name="blank.gif" crc="4208392903" ref="revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:1081009:60miles:pijika:redriding:sudked:grienday:electricneonlamp:lucid:melody:disturbingmuses:5in5:keybod:lick-it:dilation:jellyfish-game:attamatic:betweenspaces:funk:tribus:anyways:shoulder"/>
     <file name="revoke_screen shot 2014-01-05 at 30033 am-crop-u6365.jpg" crc="3777530401" seo="true" ref="revoke">
       <caption webpage="revoke" alt=""/>
     </file>
@@ -358,7 +359,7 @@
     <file name="revoke_4_rca-crop-u12018.jpg" crc="3972797496" seo="true" ref="revoke">
       <caption webpage="revoke" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:1081009:60miles:pijika:redriding:sudked:grienday:electricneonlamp:lucid:melody:disturbingmuses:5in5:keybod:lick-it:dilation:jellyfish-game:attamatic:betweenspaces:funk:tribus:anyways"/>
+    <file name="loading.gif" crc="3815509949" ref="revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:1081009:60miles:pijika:redriding:sudked:grienday:electricneonlamp:lucid:melody:disturbingmuses:5in5:keybod:lick-it:dilation:jellyfish-game:attamatic:betweenspaces:funk:tribus:anyways:shoulder"/>
     <file name="25_1.jpg" crc="4257619609" seo="true" ref="25hours">
       <caption webpage="25hours" alt=""/>
       <caption webpage="25hours" alt=""/>
@@ -1636,52 +1637,53 @@
     <file name="tip_insert3.jpg" crc="84868262" seo="true" ref="tribus">
       <caption webpage="tribus" alt=""/>
     </file>
-    <file name="title.png" crc="313895506" seo="true" ref="index:revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:reel:about:1081009:60miles:pijika:teefox:redriding:sudked:grienday:electricneonlamp:labs:lucid:celanimation:melody:disturbingmuses:bootcampcode:5in5:selfie:unitylab:3d:balancingsound:save-cursive:keybod:illustration:lick-it:dilation:repitation-in-glsl:jellyfish-game:attamatic:project:betweenspaces:funk:tribus:work:remembering:anyways:jazzjam">
+    <file name="title.png" crc="313895506" seo="true" ref="index:revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:reel:about:1081009:60miles:pijika:teefox:redriding:sudked:grienday:electricneonlamp:labs:lucid:celanimation:melody:disturbingmuses:bootcampcode:5in5:selfie:unitylab:3d:balancingsound:save-cursive:keybod:illustration:lick-it:dilation:repitation-in-glsl:jellyfish-game:attamatic:project:betweenspaces:funk:tribus:work:remembering:anyways:jazzjam:shoulder">
       <caption webpage="1081009" alt=""/>
-      <caption webpage="selfie" alt=""/>
-      <caption webpage="disturbingmuses" alt=""/>
-      <caption webpage="tribus" alt=""/>
-      <caption webpage="melody" alt=""/>
-      <caption webpage="keybod" alt=""/>
+      <caption webpage="reel" alt=""/>
+      <caption webpage="remembering" alt=""/>
       <caption webpage="electricneonlamp" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="attamatic" alt=""/>
-      <caption webpage="lonelylego" alt=""/>
-      <caption webpage="scrubbmedley" alt=""/>
-      <caption webpage="redriding" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="selfie" alt=""/>
+      <caption webpage="grienday" alt=""/>
+      <caption webpage="labs" alt=""/>
+      <caption webpage="repitation-in-glsl" alt=""/>
       <caption webpage="jellyfish-game" alt=""/>
       <caption webpage="balancingsound" alt=""/>
-      <caption webpage="sudked" alt=""/>
-      <caption webpage="pijika" alt=""/>
-      <caption webpage="remembering" alt=""/>
-      <caption webpage="lick-it" alt=""/>
-      <caption webpage="anyways" alt=""/>
-      <caption webpage="labs" alt=""/>
-      <caption webpage="3d" alt=""/>
-      <caption webpage="lucid" alt=""/>
-      <caption webpage="celanimation" alt=""/>
-      <caption webpage="revoke" alt=""/>
-      <caption webpage="musketeers" alt=""/>
-      <caption webpage="25hours" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="5in5" alt=""/>
-      <caption webpage="repitation-in-glsl" alt=""/>
-      <caption webpage="bootcampcode" alt=""/>
-      <caption webpage="project" alt=""/>
       <caption webpage="funk" alt=""/>
-      <caption webpage="grienday" alt=""/>
-      <caption webpage="restless" alt=""/>
-      <caption webpage="dilation" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="celanimation" alt=""/>
       <caption webpage="scrubbkid" alt=""/>
-      <caption webpage="reel" alt=""/>
-      <caption webpage="illustration" alt=""/>
       <caption webpage="60miles" alt=""/>
-      <caption webpage="jazzjam" alt=""/>
-      <caption webpage="work" alt=""/>
-      <caption webpage="betweenspaces" alt=""/>
+      <caption webpage="sudked" alt=""/>
+      <caption webpage="musketeers" alt=""/>
+      <caption webpage="3d" alt=""/>
+      <caption webpage="revoke" alt=""/>
+      <caption webpage="pijika" alt=""/>
+      <caption webpage="redriding" alt=""/>
+      <caption webpage="restless" alt=""/>
+      <caption webpage="5in5" alt=""/>
       <caption webpage="teefox" alt=""/>
+      <caption webpage="attamatic" alt=""/>
+      <caption webpage="jazzjam" alt=""/>
       <caption webpage="save-cursive" alt=""/>
+      <caption webpage="scrubbmedley" alt=""/>
+      <caption webpage="project" alt=""/>
       <caption webpage="unitylab" alt=""/>
+      <caption webpage="keybod" alt=""/>
+      <caption webpage="lucid" alt=""/>
+      <caption webpage="shoulder" alt=""/>
+      <caption webpage="betweenspaces" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="dilation" alt=""/>
+      <caption webpage="disturbingmuses" alt=""/>
+      <caption webpage="melody" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="lonelylego" alt=""/>
+      <caption webpage="lick-it" alt=""/>
+      <caption webpage="tribus" alt=""/>
+      <caption webpage="bootcampcode" alt=""/>
+      <caption webpage="anyways" alt=""/>
+      <caption webpage="25hours" alt=""/>
     </file>
     <file name="8_attamatic_textneck3_27663682693_o.jpg" crc="3890889582" seo="true" ref="index:project">
       <caption webpage="index" alt=""/>
@@ -1695,7 +1697,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="project" alt=""/>
     </file>
-    <file name="funk_cover-crop-u26732.jpg" crc="3771023534" seo="true" ref="work">
+    <file name="funk_cover-crop-u26732.jpg" crc="4129758912" seo="true" ref="work">
       <caption webpage="work" alt=""/>
     </file>
     <file name="tip_cover-crop-u26717.jpg" crc="4082276319" seo="true" ref="work">
@@ -1768,17 +1770,14 @@
       <caption webpage="work" alt=""/>
     </file>
     <file name="pijika.gif" crc="77994269" seo="true" ref="work:pijika">
-      <caption webpage="pijika" alt=""/>
       <caption webpage="work" alt=""/>
+      <caption webpage="pijika" alt=""/>
     </file>
     <file name="sfpc showcase_13-crop-u29476.jpg" crc="4058234968" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="makingofdilation-41-u29468-fr.jpg" crc="288444153" ref="index:project"/>
     <file name="ahtt_namecard-crop-u29631.jpg" crc="155050826" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="reel_button_web_new2015-crop-u26730.png" crc="4123254822" seo="true" ref="work">
       <caption webpage="work" alt=""/>
     </file>
     <file name="55bar_feb28_aw_sm-crop-u29617.png" crc="97859911" seo="true" ref="work">
@@ -1813,6 +1812,36 @@
     </file>
     <file name="sfpc showcase_13-crop-u30115.jpg" crc="4058234968" seo="true" ref="project">
       <caption webpage="project" alt=""/>
+    </file>
+    <file name="wonderfruit2018_sirintip_tour-200-crop-u30847.jpg" crc="4013501931" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="reel_button_web_new2015.png" crc="517184193" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="wonderfruit2018_sirintip_tour-135-crop-u30824.jpg" crc="388648845" seo="true" ref="shoulder">
+      <caption webpage="shoulder" alt=""/>
+    </file>
+    <file name="wonderfruit2018_sirintip_tour-137-crop-u30703.jpg" crc="4280386022" seo="true" ref="shoulder">
+      <caption webpage="shoulder" alt=""/>
+    </file>
+    <file name="wonderfruit2018_sirintip_tour-94-crop-u30643.jpg" crc="3875793622" seo="true" ref="shoulder">
+      <caption webpage="shoulder" alt=""/>
+    </file>
+    <file name="wonderfruit2018_sirintip_tour-98.jpg" crc="4058380037" seo="true" ref="shoulder">
+      <caption webpage="shoulder" alt=""/>
+    </file>
+    <file name="wonderfruit2018_sirintip_tour-191-crop-u30743.jpg" crc="374994487" seo="true" ref="shoulder">
+      <caption webpage="shoulder" alt=""/>
+    </file>
+    <file name="wonderfruit2018_sirintip_tour-177.jpg" crc="4084445413" seo="true" ref="shoulder">
+      <caption webpage="shoulder" alt=""/>
+    </file>
+    <file name="wonderfruit2018_sirintip_tour-108-crop-u30683.jpg" crc="203391080" seo="true" ref="shoulder">
+      <caption webpage="shoulder" alt=""/>
+    </file>
+    <file name="wonderfruit2018_sirintip_tour-200-crop-u30763.jpg" crc="283905831" seo="true" ref="shoulder">
+      <caption webpage="shoulder" alt=""/>
     </file>
   </folder>
   <folder name="phone">
@@ -1887,7 +1916,7 @@
   <file name="restless.html" crc="4254177894" seo="true" mt="1536101510079" redirect="true"/>
   <file name="comingsoon.html" crc="148866018" seo="true" mt="1536185991804" redirect="true"/>
   <file name="reel.html" crc="291495373" seo="true" mt="1536101532990" redirect="true"/>
-  <file name="about.html" crc="4213852863" seo="true" mt="1536183241786" redirect="true"/>
+  <file name="about.html" crc="4276698190" seo="true" mt="1545461430169" redirect="true"/>
   <file name="1081009.html" crc="3834473474" seo="true" mt="1536100583567" redirect="true"/>
   <file name="60miles.html" crc="3815972631" seo="true" mt="1536100583567" redirect="true"/>
   <file name="pijika.html" crc="64404592" seo="true" mt="1536213980692" redirect="true"/>
@@ -1918,9 +1947,10 @@
   <file name="project.html" crc="453987629" seo="true" mt="1536265308731" redirect="true"/>
   <file name="betweenspaces.html" crc="4283314827" seo="true" mt="1536209535195" redirect="true"/>
   <file name="funk.html" crc="3860909341" seo="true" mt="1536179987033" redirect="true"/>
-  <file name="work.html" crc="132670088" seo="true" mt="1536265348624" redirect="true"/>
+  <file name="work.html" crc="409613733" seo="true" mt="1545549557563" redirect="true"/>
   <file name="tribus.html" crc="3772179714" seo="true" mt="1536209511645" redirect="true"/>
   <file name="remembering.html" crc="288347762" seo="true" mt="1536100583567" redirect="true"/>
   <file name="anyways.html" crc="3829621756" seo="true" mt="1536179420936" redirect="true"/>
   <file name="jazzjam.html" crc="106688648" seo="true" mt="1536218647721" redirect="true"/>
+  <file name="shoulder.html" crc="534722129" seo="true" mt="1545549477460" redirect="true"/>
 </manifest>
