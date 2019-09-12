@@ -2,12 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://nitchafa.me/index.html</loc>
-    <lastmod>2018-09-07</lastmod>
+    <lastmod>2019-09-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/8_attamatic_textneck3_27663682693_o.jpg</image:loc>
     </image:image>
@@ -17,15 +14,15 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/set1.gif</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/disturbingmuses.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/0keyvis.png</image:loc>
     </image:image>
@@ -86,15 +83,15 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/1-crop-u9557.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/revoke.html</loc>
-    <lastmod>2018-09-06</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/revoke_1_rca.jpg</image:loc>
     </image:image>
@@ -152,15 +149,15 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/revoke_4_rca-crop-u12018.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/25hours.html</loc>
-    <lastmod>2018-09-06</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/25_1.jpg</image:loc>
     </image:image>
@@ -185,15 +182,15 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/25_8-crop-u1459.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/musketeers.html</loc>
-    <lastmod>2018-09-06</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/musketeers_1.jpg</image:loc>
     </image:image>
@@ -215,15 +212,15 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/musketeers_3.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/scrubbmedley.html</loc>
-    <lastmod>2018-09-06</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/medley_1.jpg</image:loc>
     </image:image>
@@ -242,15 +239,15 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/medley_6.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/scrubbkid.html</loc>
-    <lastmod>2018-09-06</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/rca_kids6_.jpg</image:loc>
     </image:image>
@@ -299,15 +296,15 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/screen%20shot%202013-12-15%20at%2033545%20pm-crop-u6936.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/lonelylego.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/1lonelylego_rainbow_keyvisual.jpg</image:loc>
     </image:image>
@@ -350,15 +347,15 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/3_lonelylego_bgdesign60x34.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/restless.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/restless6_poster_rest(less).jpg</image:loc>
     </image:image>
@@ -398,10 +395,13 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/rca_restless5_mood_scene60x46.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/comingsoon.html</loc>
-    <lastmod>2018-09-06</lastmod>
+    <lastmod>2019-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -452,33 +452,30 @@
   </url>
   <url>
     <loc>http://nitchafa.me/reel.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/about.html</loc>
-    <lastmod>2019-08-11</lastmod>
+    <lastmod>2019-09-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nitchafa.me/images/me_bw.png</image:loc>
+      <image:loc>http://nitchafa.me/images/2019_fame_portrait.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/1081009.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/1081009_1.jpg</image:loc>
     </image:image>
@@ -587,15 +584,15 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/6direction1_260x26.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/60miles.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/1_60_sjc_poster_merge%202.jpg</image:loc>
     </image:image>
@@ -644,15 +641,15 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/1_60_sjc_poster_merge%20263x45.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/pijika.html</loc>
-    <lastmod>2018-09-06</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/pijika_1process.jpg</image:loc>
     </image:image>
@@ -671,24 +668,24 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/pijika.gif</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/teefox.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/redriding.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/rca_1.jpg</image:loc>
     </image:image>
@@ -707,15 +704,15 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/redride_5-2-crop-u6247.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/sudked.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/sudked_6_af4b696c531b11e2ac5022000a9f18b3_7.jpg</image:loc>
     </image:image>
@@ -740,15 +737,15 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/sudked_3-crop-u6803.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/grienday.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/screen%20shot%202012-03-12%20at%20024007.jpg</image:loc>
     </image:image>
@@ -770,15 +767,15 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/stamp_grianday_ticket260x26.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/electricneonlamp.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/enl_logo_mvnightmare.jpg</image:loc>
     </image:image>
@@ -797,27 +794,27 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/enl_logo2_web60x34.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/labs.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
+      <image:loc>http://nitchafa.me/images/tiltbrush_thumb.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nitchafa.me/images/tiltbrush_thumb.gif</image:loc>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/lucid.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/sleeptalkinstallation-2_sm-crop-u9009.jpg</image:loc>
     </image:image>
@@ -926,15 +923,15 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/lucidprocess9-crop-u9245.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/celanimation.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/framebyframe_free2.gif</image:loc>
     </image:image>
@@ -947,15 +944,15 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/ringheart.gif</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/melody.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/melody1.jpg</image:loc>
     </image:image>
@@ -992,6 +989,9 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/3edit85x64.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/phone/slowspace.html</loc>
@@ -1001,12 +1001,9 @@
   </url>
   <url>
     <loc>http://nitchafa.me/bootcampcode.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/2bootcampcodecat.gif</image:loc>
     </image:image>
@@ -1016,39 +1013,39 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/bootcampcode1circle.gif</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/5in5.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/25_3.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/25_3-crop-u9698.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/selfie.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/unitylab.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/nyc.gif</image:loc>
     </image:image>
@@ -1061,36 +1058,36 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/rubegoldberg.gif</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/3d.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
+      <image:loc>http://nitchafa.me/images/untitled_0_03.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nitchafa.me/images/untitled_0_03.gif</image:loc>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/balancingsound.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/save-cursive.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/keyviscursive.jpg</image:loc>
     </image:image>
@@ -1100,41 +1097,17 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/screen%20shot%202015-03-02%20at%2023945%20pm%20copy.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/keybod.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2019-09-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://nitchafa.me/images/interactionkeybod_sm.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/2015_majormajor.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/screen%20shot%202015-08-01%20at%2021429%20am.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/keybodycircuit.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/keybod.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/0keybody1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/demomakingpatternseb-2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/demomakingpatternseb-4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/demomakingpatternseb-35.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/sm_sketchkeybod2.jpg</image:loc>
@@ -1164,40 +1137,10 @@
       <image:loc>http://nitchafa.me/images/screen%20shot%202015-08-01%20at%2022451%20am.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nitchafa.me/images/sm_sketchkeybod2-crop-u12185.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/sm_sketchkeybod1-crop-u12170.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/a-crop-u12210.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/img_1258-crop-u12304.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/picturekeybody-3-crop-u12228.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/keybody_makingof_sketch-crop-u12242.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/keybody_makingof_embroidary2-crop-u12280.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/keybody_collab-2-crop-u12256.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/screen%20shot%202015-08-01%20at%2022451%20am-crop-u12339.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://nitchafa.me/images/keybody_makingof_embroidary1.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/keybody_makingof_solder1.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/keybody_makingof_wiring2.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/keybodyprototype-6sm.jpg</image:loc>
@@ -1247,15 +1190,18 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/keybodyprototype-8sm-crop-u11878.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/attamatic-4%202.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/illustration.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/dream_4ignore.jpg</image:loc>
     </image:image>
@@ -1271,15 +1217,15 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/dream_10drown.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/lick-it.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2019-09-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/newline_babycastles-36.jpg</image:loc>
     </image:image>
@@ -1337,15 +1283,15 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/lickit_makingof-15-crop-u13357.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/dilation.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2019-09-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/makingofdilation-41.jpg</image:loc>
     </image:image>
@@ -1463,15 +1409,15 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/sm_makingofdilation-1399x74.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/repitation-in-glsl.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2019-09-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/glslpattern1.gif</image:loc>
     </image:image>
@@ -1484,15 +1430,15 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/glslpattern4.gif</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/jellyfish-game.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/epson_10052015195848.jpg</image:loc>
     </image:image>
@@ -1514,15 +1460,15 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/jellyfishgame-2153x101.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/attamatic.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2019-09-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/attamaticlogo.png</image:loc>
     </image:image>
@@ -1583,15 +1529,15 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/attamatic-4%202.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/project.html</loc>
-    <lastmod>2018-09-07</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/8_attamatic_textneck3_27663682693_o.jpg</image:loc>
     </image:image>
@@ -1601,15 +1547,15 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/sfpc%20showcase_13-crop-u30115.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/betweenspaces.html</loc>
-    <lastmod>2018-09-06</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/bs_sm.gif</image:loc>
     </image:image>
@@ -1652,15 +1598,15 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/villk768.gif</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/funk.html</loc>
-    <lastmod>2018-09-06</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/funk_cover_new_screen_sm.jpg</image:loc>
     </image:image>
@@ -1688,15 +1634,15 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/funk_gif1.gif</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/tribus.html</loc>
-    <lastmod>2018-09-06</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/sirintip_promo5_sm.jpg</image:loc>
     </image:image>
@@ -1733,15 +1679,15 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/tip_insert3.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/work.html</loc>
-    <lastmod>2019-08-11</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/betweenspaces_printed_editedsm-4.jpg</image:loc>
     </image:image>
@@ -1775,24 +1721,33 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/selfportrait_2013.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/remembering.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/sfpc_remembering-7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/sfpc_remembering-17.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/remembering_sm.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/anyways.html</loc>
-    <lastmod>2018-09-06</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/anyways_.gif</image:loc>
     </image:image>
@@ -1826,15 +1781,15 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/screen%20shot%202018-08-07%20at%2061633%20pm.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/jazzjam.html</loc>
-    <lastmod>2018-09-06</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/55bar_feb28_aw_sm.png</image:loc>
     </image:image>
@@ -1859,15 +1814,15 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/kj_boston_aw_dateupdated.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/shoulder.html</loc>
-    <lastmod>2018-12-23</lastmod>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/title.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/wonderfruit2018_sirintip_tour-135-crop-u30824.jpg</image:loc>
     </image:image>
@@ -1891,6 +1846,9 @@
     </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/wonderfruit2018_sirintip_tour-200-crop-u30763.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
     </image:image>
   </url>
 </urlset>
