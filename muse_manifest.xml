@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nitchafa.me" resolutions="1x" timestamp="1631478294615">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nitchafa.me" resolutions="1x" timestamp="1631479331414">
   <folder name="css">
     <file name="site_global.css" crc="298971941"/>
-    <file name="master_a-master.css" crc="32922217" ref="echo:jazzjam:labs:lucid:dilation:lick-it:index:25hours:revoke:pijika:jellyfish-game:scrubbmedley:musketeers:scrubbkid:redriding:lonelylego:5in5:restless:selfie:unitylab:repitation-in-glsl:3d:attamatic:project:reel:1081009:betweenspaces:about:funk:shoulder:balancingsound:60miles:remembering:save-cursive:celanimation:work-motion:melody:brilli:illustration:live-from-our-living-room:tribus:bootcampcode:wikimedia-grants:work:laklan:keybod:anyways"/>
+    <file name="master_a-master.css" crc="6610889" ref="echo:jazzjam:labs:lucid:dilation:lick-it:index:25hours:revoke:pijika:jellyfish-game:scrubbmedley:musketeers:scrubbkid:redriding:lonelylego:5in5:restless:selfie:unitylab:repitation-in-glsl:3d:attamatic:project:reel:1081009:betweenspaces:about:funk:shoulder:balancingsound:60miles:remembering:save-cursive:celanimation:work-motion:melody:brilli:illustration:live-from-our-living-room:tribus:bootcampcode:wikimedia-grants:work:laklan:keybod:anyways"/>
     <file name="echo.css" crc="173535595" ref="echo"/>
     <file name="jazzjam.css" crc="457609973" ref="jazzjam"/>
     <file name="labs.css" crc="4091296754" ref="labs"/>
@@ -34,7 +34,7 @@
     <file name="reel.css" crc="408789130" ref="reel"/>
     <file name="1081009.css" crc="4230851365" ref="1081009"/>
     <file name="betweenspaces.css" crc="373551684" ref="betweenspaces"/>
-    <file name="about.css" crc="343287958" ref="about"/>
+    <file name="about.css" crc="302321914" ref="about"/>
     <file name="funk.css" crc="4078724128" ref="funk"/>
     <file name="shoulder.css" crc="4130717099" ref="shoulder"/>
     <file name="balancingsound.css" crc="4239722410" ref="balancingsound"/>
@@ -70,18 +70,18 @@
     <file name="touchswipe.js" crc="3888935200" ref="revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:1081009:60miles:pijika:redriding:sudked:grienday:electricneonlamp:lucid:melody:disturbingmuses:5in5:keybod:lick-it:dilation:jellyfish-game:attamatic:betweenspaces:funk:tribus:anyways:shoulder:wikimedia-grants"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="236454869" ref="phone>index:index"/>
+    <file name="favicon.ico" crc="236454869" ref="phone>index:index:about"/>
     <file name="nitchatothong_alpha.gif" crc="325294552" seo="true" ref="index:revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:reel:about:1081009:60miles:pijika:redriding:labs:lucid:celanimation:melody:bootcampcode:5in5:selfie:unitylab:3d:balancingsound:save-cursive:keybod:illustration:lick-it:dilation:repitation-in-glsl:jellyfish-game:attamatic:project:betweenspaces:funk:tribus:work:remembering:anyways:jazzjam:shoulder:work-motion:laklan:brilli:live-from-our-living-room:wikimedia-grants:echo">
       <caption webpage="1081009" alt=""/>
-      <caption webpage="bootcampcode" alt=""/>
-      <caption webpage="60miles" alt=""/>
+      <caption webpage="attamatic" alt=""/>
+      <caption webpage="wikimedia-grants" alt=""/>
       <caption webpage="celanimation" alt=""/>
       <caption webpage="repitation-in-glsl" alt=""/>
       <caption webpage="remembering" alt=""/>
-      <caption webpage="musketeers" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="anyways" alt=""/>
       <caption webpage="betweenspaces" alt=""/>
       <caption webpage="echo" alt=""/>
-      <caption webpage="dilation" alt=""/>
       <caption webpage="keybod" alt=""/>
       <caption webpage="lick-it" alt=""/>
       <caption webpage="illustration" alt=""/>
@@ -90,34 +90,34 @@
       <caption webpage="selfie" alt=""/>
       <caption webpage="25hours" alt=""/>
       <caption webpage="labs" alt=""/>
+      <caption webpage="laklan" alt=""/>
       <caption webpage="live-from-our-living-room" alt=""/>
-      <caption webpage="shoulder" alt=""/>
+      <caption webpage="work-motion" alt=""/>
       <caption webpage="reel" alt=""/>
-      <caption webpage="melody" alt=""/>
+      <caption webpage="funk" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="restless" alt=""/>
-      <caption webpage="work-motion" alt=""/>
+      <caption webpage="shoulder" alt=""/>
       <caption webpage="3d" alt=""/>
       <caption webpage="unitylab" alt=""/>
       <caption webpage="jellyfish-game" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="dilation" alt=""/>
       <caption webpage="scrubbkid" alt=""/>
       <caption webpage="brilli" alt=""/>
       <caption webpage="tribus" alt=""/>
       <caption webpage="save-cursive" alt=""/>
       <caption webpage="project" alt=""/>
       <caption webpage="jazzjam" alt=""/>
-      <caption webpage="attamatic" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="pijika" alt=""/>
       <caption webpage="redriding" alt=""/>
-      <caption webpage="5in5" alt=""/>
-      <caption webpage="work" alt=""/>
+      <caption webpage="musketeers" alt=""/>
       <caption webpage="revoke" alt=""/>
-      <caption webpage="anyways" alt=""/>
-      <caption webpage="wikimedia-grants" alt=""/>
+      <caption webpage="bootcampcode" alt=""/>
+      <caption webpage="60miles" alt=""/>
       <caption webpage="lucid" alt=""/>
-      <caption webpage="funk" alt=""/>
-      <caption webpage="laklan" alt=""/>
+      <caption webpage="melody" alt=""/>
+      <caption webpage="5in5" alt=""/>
       <caption webpage="scrubbmedley" alt=""/>
     </file>
     <file name="lucid2.gif" crc="4128502166" seo="true" ref="index:work-motion">
@@ -447,7 +447,6 @@
     <file name="2019_fame_portrait.png" crc="116878622" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="u24148-147.png" crc="3859210286" ref="about"/>
     <file name="1081009_1.jpg" crc="296089172" seo="true" ref="1081009">
       <caption webpage="1081009" alt=""/>
     </file>
@@ -1680,6 +1679,7 @@
     </file>
     <file name="musketeers_4-u33472-fr.jpg" crc="4155411650" ref="index"/>
     <file name="logocrop-u33470-fr.jpg" crc="431378036" ref="index"/>
+    <file name="u33689-4.png" crc="3897676796" ref="about"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -1752,7 +1752,7 @@
   <file name="lonelylego.html" crc="4095019519" seo="true" mt="1631477195489" redirect="true"/>
   <file name="restless.html" crc="3846101959" seo="true" mt="1631477195489" redirect="true"/>
   <file name="reel.html" crc="4205127464" seo="true" mt="1631477195489" redirect="true"/>
-  <file name="about.html" crc="3985913405" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="about.html" crc="8641750" seo="true" mt="1631479231253" redirect="true"/>
   <file name="1081009.html" crc="508665667" seo="true" mt="1631477195489" redirect="true"/>
   <file name="60miles.html" crc="434289393" seo="true" mt="1631477195489" redirect="true"/>
   <file name="pijika.html" crc="3991789163" seo="true" mt="1631477195489" redirect="true"/>
