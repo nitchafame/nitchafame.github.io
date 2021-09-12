@@ -33,15 +33,6 @@
       <image:loc>http://nitchafa.me/images/bs.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nitchafa.me/images/thumb_medleyscrubb.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/ahtt_e3e1dd.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/selfportrait_2013.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://nitchafa.me/images/ezgif-7-9152a025b499.gif</image:loc>
     </image:image>
     <image:image>
@@ -51,11 +42,26 @@
       <image:loc>http://nitchafa.me/images/nolan-silence-of-an-echo.gif</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://nitchafa.me/images/ahtt_e3e1dd.gif</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://nitchafa.me/images/wonderfruit2018_sirintip_tour-200-crop-u33466.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/thumb_medleyscrubb.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/tip_cover-crop-u33464.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/selfportrait_2013.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://nitchafa.me/phone/comingsoon.html</loc>
+    <lastmod>2021-09-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://nitchafa.me/selfie.html</loc>
@@ -340,57 +346,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://nitchafa.me/comingsoon.html</loc>
-    <lastmod>2020-12-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/fame_ident2013.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/1mail.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/2fb.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/3vimeo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/4be.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/5insta.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/6pin.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/cv_ico.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/b4xmas-2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/wnew7git.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/wnew1mail.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/wnew3insta.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/wnew4vimeo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/wnew5pin.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/wnew6twitter.png</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://nitchafa.me/reel.html</loc>
     <lastmod>2021-09-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -401,7 +356,7 @@
   </url>
   <url>
     <loc>http://nitchafa.me/about.html</loc>
-    <lastmod>2021-09-10</lastmod>
+    <lastmod>2021-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -717,10 +672,10 @@
       <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nitchafa.me/images/tiltbrush_thumb.gif</image:loc>
+      <image:loc>http://nitchafa.me/images/glslpattern2.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nitchafa.me/images/glslpattern2.gif</image:loc>
+      <image:loc>http://nitchafa.me/images/tiltbrush_thumb.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -1377,13 +1332,13 @@
       <image:loc>http://nitchafa.me/images/nitchatothong_alpha.gif</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://nitchafa.me/images/glslpattern2.gif</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://nitchafa.me/images/glslpattern1.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/glslpattern5.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/glslpattern2.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/glslpattern4.gif</image:loc>
@@ -1575,6 +1530,9 @@
       <image:loc>http://nitchafa.me/images/single_3diary_2-crop-u25322.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://nitchafa.me/images/funk_optimized2.gif</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://nitchafa.me/images/funk_cover-crop-u25401.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1592,9 +1550,6 @@
     <image:image>
       <image:loc>http://nitchafa.me/images/funk_gif1.gif</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/funk_optimized2.gif</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://nitchafa.me/tribus.html</loc>
@@ -1609,6 +1564,9 @@
     </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/sirintip_promo2_sm.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/optimized-sirintip_2018tour_wf_phonescn.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/sirintip_2018tour_ig.jpg</image:loc>
@@ -1641,9 +1599,6 @@
       <image:loc>http://nitchafa.me/images/tip_insert3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nitchafa.me/images/optimized-sirintip_2018tour_wf_phonescn.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://nitchafa.me/images/sirintipxjacklndn_final_small.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1671,9 +1626,6 @@
       <image:loc>http://nitchafa.me/images/thumb_medleyscrubb.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nitchafa.me/images/reel_button_web_new2015.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://nitchafa.me/images/selfportrait_2013.png</image:loc>
     </image:image>
     <image:image>
@@ -1693,6 +1645,9 @@
     </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/funk_cover-crop-u26732.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/reel_button_web_new2015.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -1857,10 +1812,16 @@
       <image:loc>http://nitchafa.me/images/bs.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nitchafa.me/images/thumb_medleyscrubb.gif</image:loc>
+      <image:loc>http://nitchafa.me/images/ezgif-7-9152a025b499.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/nolan-silence-of-an-echo.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/ahtt_e3e1dd.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/thumb_medleyscrubb.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/selfportrait_2013.png</image:loc>
@@ -1873,12 +1834,6 @@
     </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/tip_cover-crop-u31613.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/ezgif-7-9152a025b499.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nitchafa.me/images/nolan-silence-of-an-echo.gif</image:loc>
     </image:image>
   </url>
   <url>
