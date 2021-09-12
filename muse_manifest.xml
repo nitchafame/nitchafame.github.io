@@ -1,16 +1,16 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nitchafa.me" resolutions="1x" timestamp="1631474458398">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nitchafa.me" resolutions="1x" timestamp="1631478294615">
   <folder name="css">
     <file name="site_global.css" crc="298971941"/>
     <file name="master_a-master.css" crc="32922217" ref="echo:jazzjam:labs:lucid:dilation:lick-it:index:25hours:revoke:pijika:jellyfish-game:scrubbmedley:musketeers:scrubbkid:redriding:lonelylego:5in5:restless:selfie:unitylab:repitation-in-glsl:3d:attamatic:project:reel:1081009:betweenspaces:about:funk:shoulder:balancingsound:60miles:remembering:save-cursive:celanimation:work-motion:melody:brilli:illustration:live-from-our-living-room:tribus:bootcampcode:wikimedia-grants:work:laklan:keybod:anyways"/>
     <file name="echo.css" crc="173535595" ref="echo"/>
     <file name="jazzjam.css" crc="457609973" ref="jazzjam"/>
-    <file name="labs.css" crc="97312352" ref="labs"/>
+    <file name="labs.css" crc="4091296754" ref="labs"/>
     <file name="grienday.css" crc="3763182855" ref="grienday"/>
     <file name="iefonts_grienday.css" crc="536358344" ref="grienday"/>
     <file name="lucid.css" crc="403295744" ref="lucid"/>
     <file name="dilation.css" crc="498478040" ref="dilation"/>
     <file name="lick-it.css" crc="109979454" ref="lick-it"/>
-    <file name="index.css" crc="268552357" ref="index"/>
+    <file name="index.css" crc="3948023701" ref="index"/>
     <file name="electricneonlamp.css" crc="295084378" ref="electricneonlamp"/>
     <file name="25hours.css" crc="17242884" ref="25hours"/>
     <file name="revoke.css" crc="4038218431" ref="revoke"/>
@@ -70,19 +70,18 @@
     <file name="touchswipe.js" crc="3888935200" ref="revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:1081009:60miles:pijika:redriding:sudked:grienday:electricneonlamp:lucid:melody:disturbingmuses:5in5:keybod:lick-it:dilation:jellyfish-game:attamatic:betweenspaces:funk:tribus:anyways:shoulder:wikimedia-grants"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3993744308" ref="phone>index"/>
+    <file name="favicon.ico" crc="236454869" ref="phone>index:index"/>
     <file name="nitchatothong_alpha.gif" crc="325294552" seo="true" ref="index:revoke:25hours:musketeers:scrubbmedley:scrubbkid:lonelylego:restless:reel:about:1081009:60miles:pijika:redriding:labs:lucid:celanimation:melody:bootcampcode:5in5:selfie:unitylab:3d:balancingsound:save-cursive:keybod:illustration:lick-it:dilation:repitation-in-glsl:jellyfish-game:attamatic:project:betweenspaces:funk:tribus:work:remembering:anyways:jazzjam:shoulder:work-motion:laklan:brilli:live-from-our-living-room:wikimedia-grants:echo">
       <caption webpage="1081009" alt=""/>
-      <caption webpage="attamatic" alt=""/>
-      <caption webpage="work-motion" alt=""/>
+      <caption webpage="bootcampcode" alt=""/>
+      <caption webpage="60miles" alt=""/>
       <caption webpage="celanimation" alt=""/>
       <caption webpage="repitation-in-glsl" alt=""/>
-      <caption webpage="brilli" alt=""/>
       <caption webpage="remembering" alt=""/>
-      <caption webpage="work" alt=""/>
-      <caption webpage="anyways" alt=""/>
+      <caption webpage="musketeers" alt=""/>
       <caption webpage="betweenspaces" alt=""/>
-      <caption webpage="wikimedia-grants" alt=""/>
+      <caption webpage="echo" alt=""/>
+      <caption webpage="dilation" alt=""/>
       <caption webpage="keybod" alt=""/>
       <caption webpage="lick-it" alt=""/>
       <caption webpage="illustration" alt=""/>
@@ -91,33 +90,34 @@
       <caption webpage="selfie" alt=""/>
       <caption webpage="25hours" alt=""/>
       <caption webpage="labs" alt=""/>
-      <caption webpage="laklan" alt=""/>
       <caption webpage="live-from-our-living-room" alt=""/>
       <caption webpage="shoulder" alt=""/>
-      <caption webpage="echo" alt=""/>
       <caption webpage="reel" alt=""/>
-      <caption webpage="funk" alt=""/>
+      <caption webpage="melody" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="restless" alt=""/>
-      <caption webpage="save-cursive" alt=""/>
+      <caption webpage="work-motion" alt=""/>
       <caption webpage="3d" alt=""/>
       <caption webpage="unitylab" alt=""/>
       <caption webpage="jellyfish-game" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="scrubbkid" alt=""/>
-      <caption webpage="redriding" alt=""/>
+      <caption webpage="brilli" alt=""/>
       <caption webpage="tribus" alt=""/>
+      <caption webpage="save-cursive" alt=""/>
       <caption webpage="project" alt=""/>
       <caption webpage="jazzjam" alt=""/>
-      <caption webpage="dilation" alt=""/>
+      <caption webpage="attamatic" alt=""/>
       <caption webpage="pijika" alt=""/>
-      <caption webpage="musketeers" alt=""/>
-      <caption webpage="revoke" alt=""/>
-      <caption webpage="bootcampcode" alt=""/>
-      <caption webpage="60miles" alt=""/>
-      <caption webpage="lucid" alt=""/>
-      <caption webpage="melody" alt=""/>
+      <caption webpage="redriding" alt=""/>
       <caption webpage="5in5" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="revoke" alt=""/>
+      <caption webpage="anyways" alt=""/>
+      <caption webpage="wikimedia-grants" alt=""/>
+      <caption webpage="lucid" alt=""/>
+      <caption webpage="funk" alt=""/>
+      <caption webpage="laklan" alt=""/>
       <caption webpage="scrubbmedley" alt=""/>
     </file>
     <file name="lucid2.gif" crc="4128502166" seo="true" ref="index:work-motion">
@@ -174,7 +174,7 @@
     <file name="wonderfruit2018_sirintip_tour-200-crop-u33466.jpg" crc="360113153" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="musketeers_4.jpg" crc="191196693" ref="index:musketeers:work:work-motion">
+    <file name="musketeers_4.jpg" crc="191196693" ref="musketeers:work:work-motion">
       <caption webpage="index" alt=""/>
       <caption webpage="work-motion" alt=""/>
       <caption webpage="musketeers" alt=""/>
@@ -206,8 +206,9 @@
       <caption webpage="work-motion" alt=""/>
       <caption webpage="work" alt=""/>
     </file>
-    <file name="logocrop.jpg" crc="3765896775" ref="index:sudked:work:work-motion">
+    <file name="logocrop.jpg" crc="3765896775" ref="sudked:work:work-motion">
       <caption webpage="index" alt=""/>
+      <caption webpage="work" alt=""/>
     </file>
     <file name="25_1-u33478-fr.jpg" crc="4218509901" ref="index:work-motion"/>
     <file name="revoke_1_rca.jpg" crc="226299974" seo="true" ref="revoke">
@@ -781,16 +782,16 @@
     <file name="lucidprocess9.jpg" crc="4282078150" seo="true" ref="lucid">
       <caption webpage="lucid" alt=""/>
     </file>
-    <file name="srb2-crop-u9372.jpg" crc="4277651641" seo="true" ref="lucid">
+    <file name="srb2-crop-u9372.jpg" crc="347835917" seo="true" ref="lucid">
       <caption webpage="lucid" alt=""/>
     </file>
     <file name="srb1-crop-u9363.jpg" crc="271248830" seo="true" ref="lucid">
       <caption webpage="lucid" alt=""/>
     </file>
-    <file name="srb3-crop-u9381.jpg" crc="4019424908" seo="true" ref="lucid">
+    <file name="srb3-crop-u9381.jpg" crc="4003144197" seo="true" ref="lucid">
       <caption webpage="lucid" alt=""/>
     </file>
-    <file name="lucidprocess1-crop-u9090.jpg" crc="297640535" seo="true" ref="lucid">
+    <file name="lucidprocess1-crop-u9090.jpg" crc="3926386993" seo="true" ref="lucid">
       <caption webpage="lucid" alt=""/>
     </file>
     <file name="lucidprocess2-crop-u9140.jpg" crc="315451717" seo="true" ref="lucid">
@@ -851,8 +852,8 @@
       <caption webpage="melody" alt=""/>
     </file>
     <file name="1.jpg" crc="4184394874" seo="true" ref="melody:disturbingmuses">
-      <caption webpage="disturbingmuses" alt=""/>
       <caption webpage="melody" alt=""/>
+      <caption webpage="disturbingmuses" alt=""/>
     </file>
     <file name="screen shot 2014-12-29 at 102227 pm copy.png" crc="180006793" seo="true" ref="melody">
       <caption webpage="melody" alt=""/>
@@ -1668,7 +1669,7 @@
     <file name="untitled_artwork-crop-u32833.jpg" crc="4083005330" seo="true" ref="wikimedia-grants">
       <caption webpage="wikimedia-grants" alt=""/>
     </file>
-    <file name="untitled-crop-u32825.jpg" crc="92248305" seo="true" ref="wikimedia-grants">
+    <file name="untitled-crop-u32825.jpg" crc="408559619" seo="true" ref="wikimedia-grants">
       <caption webpage="wikimedia-grants" alt=""/>
     </file>
     <file name="logo_extuded-crop-u32819.jpg" crc="4081680035" seo="true" ref="wikimedia-grants">
@@ -1677,6 +1678,8 @@
     <file name="nolan-silence-of-an-echo.jpg" crc="196465797" seo="true" ref="echo">
       <caption webpage="echo" alt=""/>
     </file>
+    <file name="musketeers_4-u33472-fr.jpg" crc="4155411650" ref="index"/>
+    <file name="logocrop-u33470-fr.jpg" crc="431378036" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -1740,56 +1743,56 @@
     <file name="about.html" crc="437468815" seo="true" mt="1420488587329" redirect="false"/>
     <file name="comingsoon.html" crc="4259719424" seo="true" mt="1631473577149" redirect="false"/>
   </folder>
-  <file name="index.html" crc="343646969" seo="true" mt="1631333380846" redirect="true"/>
-  <file name="revoke.html" crc="36774203" seo="true" mt="1631256615887" redirect="true"/>
-  <file name="25hours.html" crc="4008509013" seo="true" mt="1631332231402" redirect="true"/>
-  <file name="musketeers.html" crc="317246326" seo="true" mt="1631332236084" redirect="true"/>
-  <file name="scrubbmedley.html" crc="4293083523" seo="true" mt="1631256615887" redirect="true"/>
-  <file name="scrubbkid.html" crc="492735723" seo="true" mt="1631256615887" redirect="true"/>
-  <file name="lonelylego.html" crc="4204923783" seo="true" mt="1631256615887" redirect="true"/>
-  <file name="restless.html" crc="341599479" seo="true" mt="1631256615887" redirect="true"/>
-  <file name="reel.html" crc="32533131" seo="true" mt="1631331974114" redirect="true"/>
-  <file name="about.html" crc="416932940" seo="true" mt="1631474268426" redirect="true"/>
-  <file name="1081009.html" crc="130887529" seo="true" mt="1631256615887" redirect="true"/>
-  <file name="60miles.html" crc="3938069703" seo="true" mt="1631256615887" redirect="true"/>
-  <file name="pijika.html" crc="3945569919" seo="true" mt="1631256615887" redirect="true"/>
+  <file name="index.html" crc="85457858" seo="true" mt="1631478081655" redirect="true"/>
+  <file name="revoke.html" crc="3809783612" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="25hours.html" crc="4216578551" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="musketeers.html" crc="118711477" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="scrubbmedley.html" crc="499497865" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="scrubbkid.html" crc="465107580" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="lonelylego.html" crc="4095019519" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="restless.html" crc="3846101959" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="reel.html" crc="4205127464" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="about.html" crc="3985913405" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="1081009.html" crc="508665667" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="60miles.html" crc="434289393" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="pijika.html" crc="3991789163" seo="true" mt="1631477195489" redirect="true"/>
   <file name="teefox.html" crc="4008082643" seo="true" mt="1631332311847" redirect="true"/>
-  <file name="redriding.html" crc="4233771090" seo="true" mt="1631256615887" redirect="true"/>
+  <file name="redriding.html" crc="227722362" seo="true" mt="1631477195489" redirect="true"/>
   <file name="sudked.html" crc="4006945354" seo="true" mt="1631332346959" redirect="true"/>
   <file name="grienday.html" crc="355744864" seo="true" mt="1631155631197" redirect="true"/>
   <file name="electricneonlamp.html" crc="472681988" seo="true" mt="1631155631198" redirect="true"/>
-  <file name="labs.html" crc="3880962772" seo="true" mt="1631332190840" redirect="true"/>
-  <file name="lucid.html" crc="4062445315" seo="true" mt="1631256615887" redirect="true"/>
-  <file name="celanimation.html" crc="270094454" seo="true" mt="1631256615887" redirect="true"/>
-  <file name="melody.html" crc="4089596705" seo="true" mt="1631256615887" redirect="true"/>
+  <file name="labs.html" crc="95528070" seo="true" mt="1631477600396" redirect="true"/>
+  <file name="lucid.html" crc="3852017665" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="celanimation.html" crc="498441768" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="melody.html" crc="4292673102" seo="true" mt="1631477195489" redirect="true"/>
   <file name="disturbingmuses.html" crc="363990578" seo="true" mt="1631167961329" redirect="true"/>
-  <file name="bootcampcode.html" crc="448603935" seo="true" mt="1631256615887" redirect="true"/>
-  <file name="5in5.html" crc="69486977" seo="true" mt="1631256615887" redirect="true"/>
-  <file name="selfie.html" crc="523655452" seo="true" mt="1631256615887" redirect="true"/>
-  <file name="unitylab.html" crc="502680629" seo="true" mt="1631256615887" redirect="true"/>
-  <file name="3d.html" crc="315011760" seo="true" mt="1631256615887" redirect="true"/>
-  <file name="balancingsound.html" crc="532021996" seo="true" mt="1631256615887" redirect="true"/>
-  <file name="save-cursive.html" crc="4113777900" seo="true" mt="1631256615887" redirect="true"/>
-  <file name="keybod.html" crc="3938952616" seo="true" mt="1631256615887" redirect="true"/>
-  <file name="illustration.html" crc="207489210" seo="true" mt="1631256615887" redirect="true"/>
-  <file name="lick-it.html" crc="50131204" seo="true" mt="1631256615887" redirect="true"/>
-  <file name="dilation.html" crc="4001491674" seo="true" mt="1631256615887" redirect="true"/>
-  <file name="repitation-in-glsl.html" crc="4217513875" seo="true" mt="1631256615887" redirect="true"/>
-  <file name="jellyfish-game.html" crc="4011439163" seo="true" mt="1631256615887" redirect="true"/>
-  <file name="attamatic.html" crc="4258031199" seo="true" mt="1631256615887" redirect="true"/>
-  <file name="project.html" crc="3893548843" seo="true" mt="1631256615887" redirect="true"/>
-  <file name="betweenspaces.html" crc="497581207" seo="true" mt="1631256615887" redirect="true"/>
-  <file name="funk.html" crc="3993748306" seo="true" mt="1631256615887" redirect="true"/>
-  <file name="tribus.html" crc="3895477254" seo="true" mt="1631333240356" redirect="true"/>
-  <file name="work.html" crc="150941338" seo="true" mt="1631256615887" redirect="true"/>
-  <file name="remembering.html" crc="504475" seo="true" mt="1631256615887" redirect="true"/>
-  <file name="anyways.html" crc="454477586" seo="true" mt="1631330904721" redirect="true"/>
-  <file name="jazzjam.html" crc="486343151" seo="true" mt="1631256615887" redirect="true"/>
-  <file name="shoulder.html" crc="441841768" seo="true" mt="1631256615887" redirect="true"/>
-  <file name="work-motion.html" crc="481063041" seo="true" mt="1631330845572" redirect="true"/>
-  <file name="laklan.html" crc="4134996892" seo="true" mt="1631331632645" redirect="true"/>
-  <file name="brilli.html" crc="143401722" seo="true" mt="1631256615887" redirect="true"/>
-  <file name="live-from-our-living-room.html" crc="4220812782" seo="true" mt="1631308318138" redirect="true"/>
-  <file name="wikimedia-grants.html" crc="93269806" seo="true" mt="1631309800320" redirect="true"/>
-  <file name="echo.html" crc="4087496170" seo="true" mt="1631313602697" redirect="true"/>
+  <file name="bootcampcode.html" crc="3991780283" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="5in5.html" crc="343225722" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="selfie.html" crc="4770465" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="unitylab.html" crc="4241276111" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="3d.html" crc="134865332" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="balancingsound.html" crc="334919999" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="save-cursive.html" crc="530584354" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="keybod.html" crc="518076698" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="illustration.html" crc="101116916" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="lick-it.html" crc="4213668897" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="dilation.html" crc="152903141" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="repitation-in-glsl.html" crc="3830266627" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="jellyfish-game.html" crc="4010873776" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="attamatic.html" crc="4188439353" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="project.html" crc="90270879" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="betweenspaces.html" crc="4155667270" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="funk.html" crc="4009398874" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="tribus.html" crc="4223889008" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="work.html" crc="4126484002" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="remembering.html" crc="4041835844" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="anyways.html" crc="4265841607" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="jazzjam.html" crc="3934078102" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="shoulder.html" crc="266667608" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="work-motion.html" crc="3992603545" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="laklan.html" crc="3787683863" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="brilli.html" crc="4015372164" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="live-from-our-living-room.html" crc="349514589" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="wikimedia-grants.html" crc="287560596" seo="true" mt="1631477195489" redirect="true"/>
+  <file name="echo.html" crc="238935824" seo="true" mt="1631477195489" redirect="true"/>
 </manifest>
