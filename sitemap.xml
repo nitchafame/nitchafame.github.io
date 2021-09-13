@@ -665,7 +665,7 @@
   </url>
   <url>
     <loc>http://nitchafa.me/labs.html</loc>
-    <lastmod>2021-09-12</lastmod>
+    <lastmod>2021-09-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -676,6 +676,9 @@
     </image:image>
     <image:image>
       <image:loc>http://nitchafa.me/images/tiltbrush_thumb.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nitchafa.me/images/shader.gif</image:loc>
     </image:image>
   </url>
   <url>
